@@ -1,0 +1,207 @@
+{
+  "LouangesMariales": {
+    "Part1": [
+      {
+        "texte": "Au nom du Père et du Fils et du Saint-Esprit. Amen."
+      },
+      {
+        "paroles": [
+          "Faites grandir le Christ en nos cœurs, Ô Notre-Dame, ô Mère du Sauveur, Priez pour nous, secourez-nous, Nous redoublons de confiance en vous.",
+          "Père, Fils, Esprit-Saint, la grande chrétienté unie en votre amour, vous chante, ô Trinité.",
+          "Faites grandir le Christ, en nos cœurs…"
+        ]
+      },
+      {
+        "texte": "NOUS VOICI RASSEMBLÉS POUR VOUS CHANTER Ô PÈRE,",
+        "refrain": "Tous : Par le Christ, vos enfants font passer leur prière : Notre père…"
+      },
+      {
+        "texte": "NOUS PRIONS AVEC VOUS, Ô VIERGE NOTRE DAME,",
+        "refrain": "Tous : Donnez l’Esprit Saint, renouez nos âmes : Je vous salue…"
+      }
+    ],
+    "part2": [
+      {
+        "chant": {
+          "titre": "1- PLEINE DE GRÂCE",
+          "paroles": "Vous êtes toute belle, ô Vierge immaculée et depuis toujours Dieu vous a aimée. Avec respect, avec amour, nous vous saluons, Marie, pleine de grâce.",
+          "numerotation": [
+            "1. Salut, vierge Marie, ô vous pleine de grâce, \n Vous êtes toute belle et rien ne vous surpasse.",
+            "2. Dès le lointain des temps où rien n’existe encore, \n Votre nom resplendit brillant comme une aurore.",
+            "3. Car Dieu, depuis toujours, vous porte en sa pensée, \n A devenir sa Mère il vous a destinée.",
+            "4. De l’univers entier et de la race humaine, \n Le Christ sera le Chef et vous la Souveraine.",
+            "5. Puisqu’Ève à sa mission n’a pas été fidèle, \n C’est de vous que naîtra l’humanité nouvelle.",
+            "6. Adam s’est révolté contre son Dieu, son Père, \n Il nous faut un Sauveur, vous en serez la Mère.",
+            "7. Chef-d’œuvre du Seigneur, vous serez toute pure, \n Ô Femme que la grâce éclaire et transfigure.",
+            "8. Salut, Vierge Marie, ô vous pleine de grâce, \n Vous êtes toute belle et rien ne vous surpasse.",
+            "Par le Christ, notre chef, l’Église tout entière, \n Unie en votre amour, vous chante, ô Notre Père."
+          ]
+        }
+      },
+      {
+        "chant": {
+          "titre": "2. LE SEIGNEUR EST AVEC VOUS",
+          "paroles": "Au jour de l’Annonciation, l’ange dit à Marie : « Vous concevrez un fils que vous appellerez Jésus, c’est-à-dire Sauveur ». Ô Notre-Dame, soyez bénie pour avoir accepté de devenir la Mère du Christ et la nôtre.",
+          "numerotation": [
+            "1. Le Seigneur tout puissant, ô Vierge est avec vous \n et par vous désormais, il demeure avec nous.",
+            "2. Au temps choisi par Dieu, l’archange Gabriel, \n s’incline devant vous en messager du Ciel.",
+            "3. Ne craignez point, Marie, en votre chaste sein, \n vous concevrez un fils, un Dieu, le Saint des saints.",
+            "4. La vertu de l’Esprit vous enveloppera,\n et l’œuvre du Très-Haut en vous s’accomplira.",
+            "5. Fiat, avez-vous dit, servante du Seigneur, \n le Verbe s’est fait chair, nous avons un Sauveur.",
+            "6. En cet instant béni vous avez accepté \n d’enfanter dans le Christ toute l’humanité.",
+            "7. Du Christ et des chrétiens vous êtes la maman, \n ils sont enracinés au même sol vivant.",
+            "8. Le Seigneur tout-puissant, ô Vierge est avec vous, \n et par vous désormais il demeure avec nous.",
+            "Par le Christ, notre chef, la grande Chrétienté, \n unie en votre amour, vous chante, ô Trinité."
+          ]
+        }
+      },
+      {
+  "chant": {
+    "titre": "3. BÉNIE ENTRE TOUTES LES FEMMES",
+    "paroles": "A Bethléem, Marie mit au monde Jésus et le déposa dans une crèche. Bienheureuse êtes-vous, Vierge Marie, Vous qui avez porté et nourri le Fils de Dieu.",
+    "numerotation": [
+      "1. Vous serez à jamais bénie entre les femmes, \n car Jésus votre enfant est Fils du Dieu béni.",
+      "2. Rappelez-vous Noël ô Vierge, Notre-Dame, \n Lacrèche dans l’étable et l’Enfant qui sourit.",
+      "3. Entre vos bras Jésus découvre la tendresse, \n Étendu sur la pailleil apprend à souffrir.",
+      "4. Les mages, les bergers appportent leur richesse, \n Et ce Dieu qui n’a rien saura les enrichir.",
+      "5. Bientôt faisant vous-même un premier offertoire, \n Vous monterez au Temple offrir le Christ à Dieu.",
+      "6. Longtemps à Nazareth comme en un beau ciboire, \n Vos mains prépareront le Pain vivant des Cieux.",
+      "7. Jésus vous obéit mais il vit en votre âme, \n Et par un saint amour Joseph vous est uni.",
+      "8. Vous serez à jamais bénie entre les femmes, \n Car Jésus votre enfant est Fils du Dieu béni.",
+      "Par le Christ, notre chef, l’Église tout entière, \n Unie en votre amour, vous chante, ô Trinité."
+    ]
+  }
+},
+{
+  "chant": {
+    "titre": "4. MÈRE DE DIEU",
+    "paroles": "Au pied de la croix Marie était debout auprès du Rédempteur. Souvenez-vous, ô Vierge, des souffrances qu’ont coûté à votre Fils et à vous, tous les pécheurs que nous sommes.",
+    "numerotation": [
+      "1. Sainte Mère de Dieu, le glaive des douleurs, \n A transpercé votre âme aux cotes du sauveur.",
+      "2. Il fallait que le Christ mourût pour nous sauver, \n Et que son sang divin coulât pour nous laver.",
+      "3. Le grain qu’on a semé ne germe que s’il meurt, \n Jésus meurt sur la croix et vous dans votre cœur.",
+      "4. Debout près de la croix comme un prêtre à l’autel, \n Vous offrez votre Fils pour apaiser le Ciel.",
+      "5. La Passion du Sauveur se répercute en vous, \n En souffrant avec lui vous expiez pour nous.",
+      "6. Votre Fils à Saint Jean pour Mère vous léguait, \n Mais en le désignant c’est à nous qu’il pensait.",
+      "7. Dès l’annonce du Ciel nous étions vos enfants, \n Mais nous le devenions alors par testament.",
+      "8. Sainte Mère de Dieu, le glaive des douleurs, \n A transpercé votre âme aux côtés du Sauveur.",
+      "Par le Christ, notre chef, la grande Chrétienté, \n Unie en votre amour, vous chante, ô Trinité."
+    ]
+  }
+},
+{
+  "chant": {
+    "titre": "5. PRIEZ POUR NOUS PAUVRES PÉCHEURS",
+    "paroles": "Le jour de la Pentecôte, en attendant la venue de l’Esprit-Saint, les Apôtres réunis au Cénacle, persévéraient dans la prière avec Marie, mère de Jésus. - A travers tous les âges, ô Notre-Dame, continuez à prier pour l’Église du Christ.",
+    "numerotation": [
+      "1. Daignez prier pour nous car nous sommes pécheurs, \n Soyez notre avocate auprès du Dieu Sauveur.",
+      "2. Daignez comme au Cénacle implorer l’Esprit-Saint, \n Que sa grâce descende en nos cœurs par vos mains.",
+      "3. Rayonnante de gloire au Ciel près de Jésus, \n Il vous faut sur la terre enfanter des élus.",
+      "4. Votre cœur est à tous, chacun l’a tout entier, \n Le dernier des pécheurs peut toujours vous prier.",
+      "5. Bénissez les foyers, les époux, les mamans, \n Bénissez les petits, les vieillards, les mourants.",
+      "6. Soulagez le malade, assistez l’orphelin, \n Donnez à l’indigent de l’espoir et du pain.",
+      "7. A l’instant de la mort, ô Mère assistez-nous, \n Dans la gloire de Dieu prenez-nous avec vous.",
+      "8. Daignez prier pour nous car nous sommes pécheurs, \n Soyez notre avocate auprès du Dieu Sauveur.",
+      "Père, Fils, Esprit-Saint, toute la Chrétienté, \n Unie en votre amour, vous chante, ô Trinité."
+    ]
+  }
+}
+    ],
+    "Part3":[
+      {
+  "lecture_meditation": {
+    "section": "LECTURE",
+    "reference": "Gal 4, 4-7",
+    "contenu_lecture": "Quand vint la plénitude du temps, Dieu envoya son Fils, né d’une femme, né sujet de la Loi, afin de racheter les sujets de la Loi, afin de nous conférer l’adoption filiale. Et la preuve que vous êtes des fils, c’est que Dieu a envoyé dans nos coeurs l’Esprit de son Fils qui crie : Abba, Père ! Aussi n’es-tu plus esclave mais fils ; fils, et donc héritier de par Dieu.",
+    "meditation": {
+      "titre": "Meditation",
+      "texte": "Mes frères, louons la Vierge Marie, car elle est Mère du Fils de Dieu. Aimons-la d’un cœur filial, car elle est notre mère ; imitons-la, car elle est belle, pure et tout entière au service du Seigneur. Par-dessus tout, glorifions la Sainte Trinité qui nous a donné Marie et vers qui, par le Christ et par Marie, il nous faut élever nos cœurs."
+    },
+    "repons": "R/. Dieu soit loué !"
+  }
+},
+{
+  "hymne": {
+    "titre": "HYMNE",
+    "numerotation": [
+      "1. Salut, divine Mère Étoile dans l’azur, \n Soyez notre lumière Ô Vierge, au cœur très pur.",
+      "2. Vous êtes notre Mère, Formez en nous Jésus, \n Offrez notre prière À votre divin Fils.",
+      "3. En chaque jour qui passe Semez la sainteté, \n Donnez-nous cette grâce, Voir Dieu dans la clarté.",
+      "4. Louange à Dieu le Père, Au Fils, à l’Esprit-Saint, \n Au Ciel et sur la terre, Honneur à Dieu sans fin."
+    ]
+  }
+},
+{
+  "chant": {
+    "titre": "CANTIQUE DE LA VIERGE",
+    "paroles": "Mère du Christ et Mère de la grande famille humaine, nous vous saluons, Marie, pleine de grâce, vous si proche de Dieu et si près de nous. Nous venons chanter avec vous les merveilles que Dieu a accomplies en votre sein virginal. Et vous, ô Mère, priez pour nous toujours pécheurs, maintenant et à cette heure où nous devrons paraître devant le Père.",
+    "numerotation": [
+      "1. Mon cœur ne contient plus la joie qui l’envahit, \n Pour le Salut qui vient Seigneur, soyez béni.",
+      "2. Qu’étais-je donc, Seigneur, pour vous pencher vers moi, \n Sinon votre servante et vous, mon Dieu, mon Roi.",
+      "3. Les peuples à venir en chœur proclameront \n Combien je suis heureuse et riche de vos dons.",
+      "4. Seigneur, soyez béni, car votre bras puissant, \n En moi vient d’accomplir un mystère très grand.",
+      "5. Ô Dieu, vous êtes bon et vous saurez bénir \n D’âge en âge tous ceux qui veulent vous servir.",
+      "6. Le cœur humble et soumis appelle vos bontés, \n L’orgueilleux, loin de vous, se trouve rejeté.",
+      "7. Les puissants d’ici-bas par vous sont détrônés, \n Et les humbles par vous toujours sont relevés.",
+      "8. Le cœur aux grands désirs sera comblé de bien, \n Malheur à qui croirait n’avoir besoin de rien.",
+      "9. Ton Dieu, peuple choisi, t’aima depuis toujours, \n Mais il met aujourd’hui le comble à son amour.",
+      "10. Il tiendra les serments qu’il fit à nos aïeux, \n Nous serons à jamais les héritiers de Dieu.",
+      "Père, Fils, Esprit-Saint, la grande Chrétienté, \n Unie en votre Amour, vous chante, ô Trinité."
+    ]
+  }
+}
+    ],
+    "part4":[
+      {
+  "priere_finale": {
+    "titre": "PRIÈRE",
+    "oraison": "Ô Dieu, Père tout-puissant et très bon, votre Fils Unique s’est fait homme pour que les hommes deviennent des fils de Dieu. Puisque vous avez voulu que cette double merveille s’accomplit par Marie, faites, nous vous en supplions, que vénérant son titre de Mère de Dieu, nous ayons envers elle la plus filiale confiance, et que nous obtenions d’elle le plus grand bien qui puisse enrichir notre cœur : la Vie du Christ. Nous vous le demandons par le Christ Jésus, notre Seigneur.",
+    "amen": "R/. Amen.",
+    "cloture_animee": {
+      "animateur": {
+        "verset": "V/ Louons le Seigneur, notre Dieu, notre Père, et jusqu’à son cœur que notre humble prière, s’élève avec sérénité.",
+        "repons": "R/ Que Dieu soit loué, que sa gloire grandisse, et que sa bonté largement nous bénisse, et nous conserve en l’unité."
+      }
+    },
+    "intentions_defunts": {
+      "introduction": "Pensons en terminant à ceux d’entre nos frères que Dieu a rappelés à lui.",
+      "reponse_tous": "Tous: Seigneur, faites-les entrer dans votre joie et votre paix."
+    }
+  }
+}
+    ],
+    "part5":[
+{
+  "prière_latine": {
+    "titre": "Salve Regina",
+    "texte_complet": "Salve, Regina, Mater misericordiae,\nvita, dulcedo, et spes nostra, salve.\nad te clamamus\nexsules filii Evae,\nad te suspiramus, gementes et flentes\nin hac lacrimarum valle.\nEia, ergo, advocata nostra, illos tuos\nmisericordes oculos ad nos converte;\net Iesum, benedictum fructum ventris tui,\nnobis post hoc exsilium ostende.\nO clemens, O pia, O dulcis Virgo Maria."
+  }
+},
+{
+  "invocation": {
+    "verset": "+ Priez pour nous, Sainte Mère de Dieu.",
+    "reponse": "Tous: Afin que nous devenions dignes des promesses de Jésus-Christ."
+  }
+},
+{
+  "oraison_conclusive": {
+    "invitation": "Prions",
+    "texte": "Dieu notre refuge et notre force, regarde favorablement ton peuple qui crie vers toi, et, par l’intercession de la glorieuse et immaculée Vierge Marie, Mère de Dieu, écoute avec miséricorde et bienveillance les prières que nous t’adressons. Par le Christ notre Seigneur.",
+    "reponse": "R/. Amen."
+  }
+}
+    ],
+    "part6":[
+      {
+  "chant": {
+    "titre": "AU PIED DU TRÔNE DE MARIE",
+    "numerotation": [
+      "1. Au pied du trône de Marie Qu’on est heureux de se revoir \n Près de cette Vierge chérie Qu’on aime à prier chaque soir. \n Oh! Du chrétien, l’unique espoir, Ô Vierge Sainte, \n Vois tes enfants à tes genoux, Bénis-les tous.",
+      "2. Bénis celui qui te révère, Bénis le pécheur malheureux. \n Bénis le pauvre en sa chaumière, Bénis le riche généreux. \n N’es-tu pas la Reine des Cieux Et de la terre? \n Vois tes enfants à tes genoux, Bénis les tous.",
+      "3. Nous allons quitter cette enceinte Où chacun vient te supplier. \n Nous te quittons, mais sois sans crainte, Nos cœurs ne sauraient t’oublier. \n Demain, toujours pour te prier, Ô Vierge Sainte, \n Nous reviendrons encore te voir. Mère, bonsoir."
+    ]
+  }
+}
+    ]
+  }
+}

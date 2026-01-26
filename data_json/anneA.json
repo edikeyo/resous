@@ -1,0 +1,1879 @@
+{
+  "meta": {
+    "liturgical_year": "A",
+    "language": "kr-HT",
+    "rite": "Romain",
+    "version": "1.0"
+  },
+
+  "days": {
+    "A-CAR-ASH-MER": {
+      "reading_mode": "standard",
+      "title": "MÈKRÉDI SANN",
+
+      "readings": {
+        "first_reading": {
+          "title": "Chiré kè nou, pa chiré rad nou",
+          "source": "Léktu liv profèt Joèl",
+          "reference": "2, 12-18",
+          "text": "Koulié-a, sé sa Granmèt la di, tounin vi-n jouinn mouin ak tout kè nou, nan jèn, ak dlo nan jé, nan rèl ; chiré kè nou, pa chiré rad nou,tounin vi-n jouinn Bondié nou-an, paské li bon, li gin mizérikòd, li gin pasians, ak anpil mizérikòd, li sipériè anlè méchansté. Ki moun ki konnin, si-l t-a tounin, pou-l padonnin, pou-l kité yon bénédiksion apré-l, sakrifis ak ofrann likè pou Granmèt la, Bondié nou-an ? Sonnin tronpèt nan Siyon, déklaré yon jèn sakré, rélé foul, rasanblé pèp, konsakré kominoté, rasanblé vié granmoun yo, rasanblé timoun yo ak sa-k nan tété ; sé pou mésié ki marié-a kité kabann li, sé pou madanm ki marié-a kité chanm li. Ant koté yo mété rad yo ak lotèl la, sé pou prèt yo kriyé, yo minm sèvitè Granmèt la, sé pou yo di : « Pitié, Granmèt, pitié pou pèp ou-a, pa rinmèt éritaj ou-a nan mank déga, pou nasion yo pa kòmandé sou yo. Pouki pou yo t-a di nan pèp yo : ―Koté Bondié yo-a ?‖ » Granmèt la vi-n jalou pou péyi-l la, li ménajé pèp li-a. Paròl Granmèt la."
+        },
+
+        "psalm": {
+          "title": null,
+          "reference": "Ps 50, 3-4. 5-6 a. 12-13. 14 é 17 ( : cf. 3 a)",
+          "verses": [3, 4, 5, 6, 12, 13, 14, 17],
+          "refrain": "Pitié, Granmèt, paské nou fè péché.",
+          "text": [
+            "Pitié pou mouin, Bondié, dapré mizérikòd ou-a ; \n kantité mizérikòd ou, éfasé fot mouin-an.",
+            " Lavé-m byin lavé sot nan fot mouin-an, \n pròpté-m sot nan péché-m nan.",
+            "Sé kont ou, kont ou sèl mouin fè péché, \n sa-k mal dévan-ou nan mouin fè-l.",
+            "Sé kont ou, kont ou sèl mouin fè péché, sa-k mal dévan-ou nan mouin fè-l.",
+            "Kréyé yon kè pròp nan mouin, Bondié, \n réfè yon éspri fèm nan zantray mouin yo.",
+            "Pa jété-m louin fas ou, \n Éspri sin-ou nan, pa ouété-l sot nan mouin.",
+            "Rinmèt mouin kè kontan sové ou sové-a, \n asiré-m ak éspri ki pi vif la.",
+            "Granmèt, louvri po bouch mouin, \n bouch mouin anonsé louanj ou."
+          ]
+        },
+
+        "second_reading": 
+         {
+          "title": "Rékonsilié ak Bondié : min tan gras la koulié-a.",
+          "source": "Dézièm lèt apot sin Pòl pou Korintyin yo",
+          "reference": "5, 20-6, 2",
+          "text": "Frè-m yo : \n Pou Kris la, n-ap fè sèvis komisionè, tankou sé Bondié k-ap ankourajé pa intèmédiè nou. Nou insisté pou Kris la : rékonsilié ak Bondié ; li minm ki pa-t konnin péché, Bondié fè-l vi-n tounin péché pou nou, pou jistis Bondié té kapab réalizé nan li. \n Kòm n-ap plédé, nou ankourajé nou, pou nou pa résévoua gras Bondié- a pou granmési. Sèké li di : « Nan tan gras la mouin réponn ou, jou sové-a, mouin poté-ou sékou ». Min li koulié-a, tan gras la, min li koulié-a, jou sové Bondié sové nou-an.\n Paròl Granmèt la."
+        },
+
+        "gospel": {
+          "title": "Jodi-a, pa fèmin kè nou, min kouté voua Granmèt la. (Cf. Ps 94, 8 ab)",
+          "source": "sint Évanjil la dapré Matié",
+          "reference": "6, 1-6. 16-18",
+          "text": "Lè sa-a : Jézu di disip li yo : \n « Fè atansion, pou nou pa fè aksion kòrèk nou dévan moun yo, pou yo ouè nou ; otréman nou pa t-a gin rékonpans dévan Papa nou ki nan sièl la.\n Lè ou-ap fè charité, pa sonnin tronpèt dévan-ou, tankou ipokrit yo ap fè nan sinagòg yo ak sou plas yo, pou moun yo kapab fè louanj yo. Amèn mouin di nou, yo résévoua rékonpans yo. Ou minm lè ou-ap fè charité, pa kité min goch ou konnin sa min douat ou ap fè, pou charité-ou la kapab rét kaché ; konsa Papa-ou ki ouè nan koté ki kaché-a, l-ap rinmèt ou sa. \n Lè n-ap priyé, pa fè tankou ipokrit yo, ki rinmin rét kanpé nan sinagòg yo ak nan kalfou plas yo, pou yo priyé, pou moun yo kapab ouè yo. Amèn mouin di nou, yo résévoua rékonpans yo. Ou minm, lè ou-ap priyé, antré nan chanm ou, fèmin pòt la, priyé Papa-ou nan koté ki kaché- a. Papa-ou, ki ouè nan koté ki kaché-a, l-a rinmèt ou sa. \n Lè n-ap fè jèn, pa rét chagrin tankou ipokrit yo, yo fè figi yo dékonpozé, pou moun yo kapab ouè y-ap fè jèn. Amèn mouin di nou, yo résévoua rékonpans yo. Ou minm, lè ou-ap fè jèn, mèt losion sou tèt ou, lavé figi-ou, pou moun yo pa ouè ou-ap fè jèn, min pou sé Papa-ou ki ouè, li minm ki nan koté ki kaché-a ; Papa-ou, ki ouè nan koté ki kaché-a, l-a rinmèt ou sa ». Paròl Granmèt la."
+        }
+      }
+    },
+    "xpx": {
+      "reading_mode": "standard",
+      "title": "JÉDI APRÉ LÉSANN",
+      "readings": {
+        "first_reading": {
+          "title": "Min-m prézanté dévan-ou jodi-a bénédiksion-an ak malédiksion-an.",
+          "source": "Léktu liv Détéronòm",
+          "reference": "30, 15-20",
+          "text": "Moyiz palé ak pèp la, li di :\n    « Konsidéré sa-m prézanté dévan-ou jodi-a : lavi-a ak byin-an, épi an\nfas : lanmò-a ak malè-a, pou-ou kapab rinmin Granmèt Bondié-ou la,\npou-ou maché nan chémin-l yo, pou-ou kinbé kòmandman-l yo ak\nsérémoni yo, ak jijman yo, pou-ou kapab viv : konsa l-ap fè-ou vi-n\nanpil, l-ap béni-ou nan péyi-a, koté ou-apral antré pou-ou posédé-l la.\n    Sèlman si kè-ou viré, ou pa vlé kouté, ou kité mové lidé tronpé-ou, ou\nadoré dié étranjé, ou sèvi yo, mouin déklaré-ou davans jodi-a ou-ap péri,\nnan yon ti moman ou-ap mouri nan péyi-a, lòt bò Joudin-an, koté ou-ap\nantré pou-ou posédé-l la.\n    Jodi-a mouin pran sièl la ak tè-a pou témouin, mouin prézanté dévan\nnou lavi-a ak lanmò-a, bénédiksion-an ak malédiksion-an. Chouazi lavi-\na, pou-ou viv ansanm ak ras ou ; pou-ou rinmin Granmèt la Bondié-ou la,\npou-ou obéyi voua-l, pou-ou kòlè sou li (sé li minm vréman vré ki lavi-\nou ak longè jou-ou yo), pou-ou abité nan péyi-a, sa Granmèt la té fè\nsèman bay papa-ou yo, Abraam, Izaak ak Jakòb, li t-ap ba yo-a ».\n    Paròl Granmèt la."
+        },
+        "psalm": {
+          "title": null,
+          "reference": "Ps 1, 1-2. 3. 4 é 6 ( : Ps 39, 5 a)",
+          "verses": [1, 2, 3, 4, 6],
+          "refrain": "Ala kontantman pou moun ki mét Granmèt la kòm éspérans li.",
+          "text": [
+            "Ala kontantman pou moun ki pa alé nan réyinion moun ki pa kòrèk yo,\n  ki pa kanpé nan chémin péchè yo,\n  ki pa chita nan asanblé moun k-ap moké yo,",
+            "min sé nan laloua Granmèt la volonté-l yé,\n  sé nan laloua-l la l-ap kalkilé lajounin ak lannuit.",
+            "L-ap tankou yon pié boua ki planté sou bò kouran dlo,\n  k-ap donnin foui-l nan tan li ;\n  li pap pèdi fèy li, tou sa l-ap fè ap réyisi.",
+            "Sé pa konsa pou moun ki pa kòrèk yo, sé pa konsa,\n    min y-ap tankou pousiè van ap voyé jété.",
+            "Sèké Granmèt la konnin chémin moun kòrèk yo :\n    min rout moun ki pa kòrèk yo ap péri."
+          ]
+        },
+        "second_reading": null,
+        "gospel": {
+          "title": "Moun ki pèdi lavi-l poutèt mouin, l-ap sové-l.",
+          "source": "Léktu sint Évanjil la dapré Luk",
+          "reference": "9, 22-25",
+          "text": "Lè sa-a :\n   Jézu di disip li yo : Pitit moun nan gin pou-l soufri anpil, pou ansyin\nyo ak chèf prèt yo ak skrib yo kondané-l pou-l résisité sou touazièm jou-\na.\n   Li t-ap di yo tout : « Si yon moun vlé vi-n apré-m, sé pou-l rénonsé\npròp tèt li, pou-l pran koua-l chak jou, pou-l suiv mouin. Moun ki vlé\nsové lavi-l l-ap pèdi-l ; sèké moun ki pèdi lavi-l poutèt mouin, l-ap sové-\nl. Sa sa sèvi yon moun si-l posédé tout tè-a, épi li pèdi pròp tèt li, li\nokazioné malè-l ? »\n   Paròl Granmèt la."
+        }
+      }
+    },
+    "xox": {
+      "reading_mode": "standard",
+      "title": "VANDRÉDI APRÉ LÉSANN",
+      "readings": {
+        "first_reading": {
+          "title": "Èské sé pa sa-a pito : jèn nan mouin chouazi-a ?",
+          "source": "Léktu liv profèt Izayi",
+          "reference": "58, l-9 a",
+          "text": "Min paròl Granmèt Bondié :\n    « Rélé, pa sispann, tankou yon tronpèt, lévé voua-ou ; anonsé pèp\nmouin-an krim yo fè ak kay Jakòb la péché yo fè. Chak jou y-ap chèché-\nm, yo vlé konnin chémin-m yo, tankou yon nasion k-ap fè sa-k kòrèk, ki\npa lagé jijman Bondié-l la. Y-ap mandé-m jijman jistis, yo vlé proché kot\nBondié :\n    ―Pouki sa n-ap fè jèn, épi ou pa gadé ; nou rabésé nanm nou, ou pa\nkonnin ?‖\n    Min li : jou jèn nou-an, sé volonté nou n-ap fè, n-ap réklamé tout\nmoun ki doué nou yo. Min li : sé nan batay ak diskision n-ap fè jèn, n-ap\nfrapé ak kout pouin san pitié. Pa fè jèn tankou nou fè jous jodi-a, pou yo\nkapab tandé voua nou nan sièl la.\n    Èské sé kalité mòd jèn sa-a mouin chouazi, pou yon moun ap maltrété\nnanm li tout jounin ? Èské sé balansé tèt li tankou yon boul, maré rin-l ak\nsak ak sann ? Èské sé sa nou rélé jèn ak jou ki fè Granmèt la plézi ?\n    Èské sé pa sa-a pito : jèn nan mouin chouazi-a ? Défèt chinn ki fè nou\npa kòrèk la, démaré pakèt k-ap pézé sou tèt la, ranvouayé sa-k krazé yo\nnan libèté, krazé tout chaj ; séparé pin-ou avèk moun ki grangou-a, fè pòv\nla ak moun ki pa gin kay la antré nan kay ou ; lè-ou ouè yon moun ki ni-\nkò, kouvri-l, pa méprizé pròp chè-ou.\n    Lè sa-a, limiè-ou ap éklaté tankou granmatin, santé-ou ap lévé byin\nvit, jistis ou ap maché dévan fas ou, gloua Granmèt la ap vlopé-ou. Lè sa-\na ou-ap priyé, Granmèt la ap kouté, ou-ap rélé, l-ap di : ―Min mouin‖ ».\n    Paròl Granmèt la."
+        },
+        "psalm": {
+          "title": null,
+          "reference": "Ps 50, 3-4. 5-6 a. 18-19 ( : 19 b)",
+          "verses": [3, 4, 5, 6, 18, 19],
+          "refrain": "Yon kè krazé, rabésé, Bondié pa méprizé-l.",
+          "text": [
+            "Pitié pou mouin, Bondié, dapré mizérikòd ou ;\n     dapré anpil mizérikòd ou, éfasé fot mouin-an.",
+            "Lavé-m byin lavé sot nan fot mouin-an,\n     pròpté-m sot nan péché-m nan.",
+            "Sèké fot mouin-an mouin konnin-l,\n     péché-m nan kont mouin tout tan.",
+            "Sé kont ou, kont ou sèl mouin fè péché,\n     sa-k mal dévan-ou nan mouin fè-l.",
+            "Ou pap pran plézi nan sakrifis,\n     sakrifis antié, si-m ofri-l, li pap fè-ou plézi.",
+            "Sakrifis pou Bondié, sé yon éspri krazé,\n     yon kè krazé, rabésé, Bondié pap méprizé-l."
+          ]
+        },
+        "second_reading": null,
+        "gospel": {
+          "title": "Lè y-ap pran mésié k-ap marié-a nan min yo, lè sa-a y-a fè jèn.",
+          "source": "Léktu sint Évanjil la dapré Matié",
+          "reference": "9, 14-15",
+          "text": "Lè sa-a : Kòm Jézu té rivé lòt bò lanmè, nan réjion Gérazényin yo,\ndisip Jan yo proché koté-l, yo di : « Pouki sa nou minm ak Farizyin yo, n-\nap fè jèn souvan, épi disip pa-ou yo minm, yo pa fè jèn ? »\n   Jézu di yo : « Èské pitit yo ki avèk mésié k-ap marié-a, yo kapab\nchagrin, toutotan mésié k-ap marié-a avèk yo ? Min gin jou k-ap rivé, lè\ny-ap pran mésié k-ap marié-a nan min yo, lè sa-a y-a fè jèn ».\n   Paròl Granmèt la."
+        }
+      }
+    },
+    "xcv": {
+      "reading_mode": "standard",
+      "title": "SAMDI APRÉ LÉSANN",
+      "readings": {
+        "first_reading": {
+          "title": "Lè ou-ap vidé nanm ou bay moun ki grangou-a, limiè-ou ap lévé nan fènoua yo.",
+          "source": "Léktu liv profèt Izayi",
+          "reference": "58, 9 b-14",
+          "text": "Min paròl Granmèt la :\n    « Si-ou ouété chinn nan sot nan mitan-ou, épi ou sispann lonjé douèt\nou, ni palé bagay ki pa sèvi ; lè ou-a vidé nanm ou bay moun ki grangou-\na, lè ou-a plin nanm moun ki nan lapinn nan, limiè-ou ap lévé nan fènoua\nyo, fènoua-ou yo ap vi-n tankou midi. Granmèt la ap toujou ba-ou répo,\nl-ap plin nanm ou ak klèté, l-ap libéré zo-ou ; ou-ap tankou yon jadin ki\nbyin rouzé, tankou yon sous dlo, ki pap manké dlo.\n    Y-ap bati dézè lontan yo nan mitan-ou, y-ap lévé fondasion jénérasion\nak jénérasion, y-ap rélé-ou sa-a k-ap bati miray ki té tonbé yo, sa-a k-ap\ndrésé santié yo pou lapè-a.\n    Si-ou sispann fè pié-ou fè louanj li, antan-ou pa fè rout ou yo, antan\nvolonté-ou pa parèt, pou-ou ap palé paròl ou : lè sa-a ou-ap jouinn plézi-\nou nan Granmèt la, m-ap poté-ou anlè rotè péyi-a, m-ap ba-ou manjé nan\néritaj Jakòb, papa-ou la.\n    Sé bouch Granmèt la minm ki palé ».\n    Paròl Granmèt la."
+        },
+        "psalm": {
+          "title": null,
+          "reference": "Ps 85, 1-2. 3-4. 5-6 ( : 11 a)",
+          "verses": [1, 2, 3, 4, 5, 6],
+          "refrain": "Aprann mouin chémin-ou, Granmèt,\n     m-a antré nan vérité-ou la.",
+          "text": [
+            "Panché zòrèy ou, Granmèt, kouté-m,\n  paské mouin maléré, mouin pòv.",
+            "Prézèvé nanm mouin, paské mouin sin ;\n  sové-m, Bondié mouin, mouin éspéré nan ou.",
+            "Pitié pou mouin, Granmèt, paské m-ap rélé koté-ou tout jounin.",
+            "Fè nanm sèvitè-ou la jouinn kontantman,\n  paské sé koté-ou, Granmèt, mouin lévé nanm mouin.",
+            "Paské Granmèt, ou bon, ou dou,\n  ou gin mizérikòd anpil pou tout moun k-ap rélé-ou.",
+            "Kouté priyè-m, Granmèt,\n    ak zòrèy ou, kouté voua priyè-m."
+          ]
+        },
+        "second_reading": null,
+        "gospel": {
+          "title": "Mouin pa vi-n rélé sa-k kòrèk yo, min péchè yo, pou yo fè pénitans.",
+          "source": "Léktu sint Évanjil la dapré Luk",
+          "reference": "5, 27-32",
+          "text": "Lè sa-a :\n   Jézu ouè yon piblikin yo rélé Lévi, ki chita nan biro ladoua-n nan, li\ndi-l : « Suiv mouin ». Li kité tout bagay, li lévé, li suiv li.\n   Lévi fè yon gran résépsion lakay li. Té gin yon pakèt foul piblikin ak\ndòt moun ki té lonjé kò yo pou manjé avèk yo. Farizyin yo t-ap\nbougonnin, ni skrib yo, yo t-ap di disip li yo : « Pouki sa n-ap manjé, n-\nap bouè ansanm ak piblikin yo ak péchè yo ? »\nJézu pran laparòl, li di yo : « Sé pa moun ki an santé ki bézouin doktè,\nmin sé moun ki malad. Mouin pa vi-n rélé moun ki kòrèk yo, min sé\npéchè yo mouin vi-n rélé pou yo fè pénitans ».\n   Paròl Granmèt la."
+        }
+      }
+    },
+    
+    "dmn": {
+      "reading_mode": "standard",
+      "title": "PRÉMIÉ SÉMÈN KARÈM — Dimanch, ané A",
+      "readings": {
+        "first_reading": {
+          "title": "Kréasion ak péché prémié paran yo.",
+          "source": "Léktu liv Jénèz la",
+          "reference": "2, 7-9 ; 3, 1-7",
+          "text": "Granmèt Bondié fòmé moun nan ak labou tè-a, li souflé yon souf lavi\nnan fas li, moun nan vi-n tounin yon nanm vivan.\n   Granmèt Bondié planté yon paradi plézi dépi nan kòmansman, li mété\nmoun nan li té fòmé-a ladan-l. Ak tè rouzé-a, Granmèt Bondié fè tout\nkalité pié boua pousé, ki bèl pou gadé, ki dous pou manjé ; pié boua lavi-\na tou té nan mitan paradi-a ak pié boua sians byin ak mal la.\n   Min sèpan-an sé té pi rizèz nan tout bèt yo sou tè-a, sa Granmèt\nBondié té fè yo. Li di madanm nan : « Pouki sa Bondié pasé nou lòd, pou\nnou pa manjé nan okinn pié boua paradi-a ? »\n   Madanm nan réponn : « Nan foui pié boua yo, ki nan paradi-a, nou gin\ndoua manjé ; min nan foui pié boua, ki nan mitan paradi-a, Bondié pasé\nnou lòd pou nou pa manjé ladan-l, pou nou pa minm touché-l, otréman\nnou kapab mouri ».\n   Sèpan-an minm di madanm nan : « Sé pa vré ditou, nou pap mouri\nokinn. Sé paské Bondié konnin jou n-ap manjé ladan-l nan, jé nou ap\nlouvri, n-ap vi-n tankou dié yo ki konnin ni byin ni mal ».\n   Madanm nan ouè kijan pié boua-a té bon pou manjé, li té bèl pou jé,\naspè-l té bay plézi, li pran nan foui-l, li manjé, li bay mari-l la tou, ki\nmanjé. Jé yo tou lè dé vi-n louvri. Lè yo rékonèt yo té ni-kò, yo koud fèy\nfigié, yo fè rad pou pasé nan sinti yo.\n   Paròl Granmèt la."
+        },
+        "psalm": {
+          "title": null,
+          "reference": "Ps 50, 3-4. 5-6 a. 12-13. 14 é 17 ( : cf. 3 a)",
+          "verses": [3, 4, 5, 6, 12, 13, 14, 17],
+          "refrain": "Pitié, Granmèt, paské nou fè péché.",
+          "text": [
+            "Pitié pou mouin, Bondié, dapré mizérikòd ou ;\n  épi dapré kantité kè sansib ou yo,\n  éfasé fot mouin-an.",
+            "Lavé-m nèt sot nan fot mouin-an,\n     pròpté-m sot nan péché-m nan.",
+            "Sèké fot mouin-an sé mouin minm ki konnin-l,\n     péché-m nan dévan-m tout tan.",
+            "Kont ou, kont ou sèl mouin fè péché,\n        épi sa-k mal dévan-ou la, mouin fè-l.",
+            "Kréyé yon kè pròp nan mouin, Bondié,\n     réfè yon éspri fèm nan zantray mouin.",
+            "Pa jété-m louin fas ou,\n     Éspri Sin-ou nan, pa ouété-l sot nan mouin.",
+            "Rinmèt mouin kè kontan sové ou sové-m nan,\n     asiré-m ak éspri ki pi vif la.",
+            "Granmèt, louvri po bouch mouin,\n     bouch mouin ap anonsé louanj ou."
+          ]
+        },
+        "second_reading": {
+          "title": "Koté fot la té anpil la, gras la vi-n anpil pi plis toujou.",
+          "source": "Léktu lèt apot sin Pòl pou Romin yo",
+          "reference": "5, 12-19",
+          "text": "Frè-m yo :\n   Minm jan akoz yon sèl moun péché té antré sou tè sa-a, épi avèk\npéché-a lanmò-a, sé konsa lanmò-a pasé nan tout moun, paské tout moun\nfè péché-a. Sèké jouska laloua-a, péché-a té sou tè-a, min yo pa-t akizé\nmoun pou péché-a, paské pa-t gin laloua. Min lanmò-a té kòmandé kòm\nroua dépi Adan jouska Moyiz minm nan sa yo ki pa-t fè péché tankou\ndézobéyisans Adan-an, ki sèvi modèl pou sa-k vi-n apré-a.\n   Sèlman kado-a pa suiv minm filiè avèk fot la ; réyèlman si akoz fot\nyon sèl moun tout foul moun yo mouri, gras Bondié-a ak kado nan yon\nsèl moun nan, Jézu-Kri, li vidé laj pi plis ankò nan pakèt foul moun yo.\nSé pa tankou sa-k té rivé poutèt yon sèl péché-a sa ap rivé konsa pou\nkado-a ; sèké jijman-an té abouti nan kondanasion akoz yon sèl la, min\ngras la minm li fè nou vi-n kòrèk sot nan pakèt fot yo.\n   Réyèlman si akoz fot yon sèl moun lanmò-a té kòmandé pa lintèmédiè\nyon sèl la, moun yo ki résévoua chaj gras ak kado ak jistis pa lintèmédiè\nyon sèl moun nan, Jézu-Kri, y-ap kòmandé pi plis toujou kòm roua nan\nlavi-a.\n   Konsa, minm jan pa lintèmédiè fot yon sèl moun nan, tout moun té\npasé anba kondanasion, konsa tou pa lintèmédiè jistis yon sèl moun nan,\ntout moun vi-n kòrèk pou lavi-a. Minm jan akoz dézobéyisans yon sèl\nmoun nan, tout foul moun yo té vi-n gin péché, konsa tou akoz obéyisans\nyon sèl la, foul moun yo vi-n kòrèk.\n   Paròl Granmèt la."
+        },
+        "gospel": {
+          "title": "Jézu fè jèn, li kité yo tanté-l pandan karant jou.",
+          "source": "Léktu sint Évanjil la dapré Matié",
+          "reference": "4, 1-11",
+          "text": "Lè sa-a :\n   Éspri-a kondui Jézu nan dézè-a, pou djab la tanté-l ; apré-l fi-n fè jèn\npandan karant jou ak karant nuit, li vi-n grangou.\n   Sa-a k-ap tanté-a proché, li di-l : « Si-ou sé Pitit Bondié-a, di pou ròch\nsa yo vi-n tounin pin ».\n   Li réponn, li di : « Min sa ki ékri : ―Sé pa ak pin sèlman moun viv,\nmin ak tout paròl ki soti nan bouch Bondié‖ ».\n   Apré sa djab la pran-l li transpòté-l nan vil ki sin-an, li pozé-l anlè tèt\ntanp la, li di-l : « Si sé Pitit Bondié ou yé, lagé kò-ou anba ; sèké min sa\nki ékri : ―Li pasé anj li yo lòd osijè-ou, pou yo poté-ou sou min, pou-ou\npa riské frapé pié-ou nan ròch‖ ».\n   Jézu di-l : « Min sa ki ékri tou : ―Ou pap tanté Granmèt Bondié-ou\nla‖ ».\n   Apré sa ankò djab la pran-l li poté-l sou yon mòn ki ro anpil, li\nmontré-l tout péyi-roua sou tè-a ak richès yo, li di-l : « Tout bagay sa yo,\nm-ap ba ou yo, si-ou tonbé atè, ou adoré-m ».\n   Lè sa-a atò, Jézu di-l : « Al fè rout ou, Satan ; sèké min sa ki ékri : ―Sé\nGranmèt Bondié-ou la pou-ou adoré, sé li minm sèl pou-ou sèvi‖ ».\n   Lè sa-a atò djab la kité-l, épi anj yo proché, yo sèvi-l.\n   Paròl Granmèt la."
+        }
+      }
+    },
+    "der": {
+  "reading_mode": "standard",
+  "title": "LINDI, PRÉMIÉ SÉMÈN KARÈM",
+  "readings": {
+    "first_reading": {
+      "title": "Sé pou-ou jijé prochin-ou yon fason kòrèk.",
+      "source": "Léktu liv Lévitik",
+      "reference": "19, 1-2. 11-18",
+      "text": "Granmèt la palé ak Moyiz, li di :\n    « Palé ak tout foul pitit Israèl yo, ou-a di yo :\n    ―Sé pou nou sin, paské mouin minm mouin sin, Granmèt Bondié nou-\nan.\n    Pa vòlè. Pa bay manti, youn pa doué tronpé prochin-l. Pa fè sèman sou\nnon-m, pa sal non Bondié-ou. Mouin sé Granmèt la.\n    Pa bay manti sou do prochin-ou, pa fè-l pasé tray. Pri travay anploua-\nyé-ou la pap rét lakay ou jous nan matin. Pa madichonnin moun soud, pa\npozé pièj dévan avèg ; min sé pou-ou krinn Granmèt Bondié-ou la, paské\nsé mouin minm ki Granmèt la.\n    Pa fè sa-k pa kòrèk, pa fè jijman ki pa kòrèk. Pa fè régadan pou moun\nki pòv la, pa fè louanj figi sa-k gin pouvoua-a. Sé yon fason kòrèk pou-\nou jijé prochin-ou. Pa akizé moun ; pa palé moun mal nan pèp la. Pa\nkanpé pou-ou réklamé lanmò prochin-ou. Sé mouin minm Granmèt la.\n    Pa rayi frè-ou nan kè-ou, min sé pou-ou réprann li an piblik, pou-ou\npa gin péché sou li. Pa chèché vanjans, pa sonjé mové paròl moun minm\npéyi ak ou yo. Sé pou-ou rinmin zanmi-ou tankou ou minm, sé mouin\nminm Granmèt la‖ ».\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 18, 8. 9. 10. 15 ( : Jan 6, 63)",
+      "verses": [8, 9, 10, 15],
+      "refrain": "Paròl ou, Granmèt, sé éspri ak lavi.",
+      "text": [
+        "Laloua Granmèt la san tach, li réfè nanm,\n   témouagnaj Granmèt la fidèl, li bay timoun yo sajès.",
+        "Jistis Granmèt la douat, yo fè kè kontan.\n   Kòmandman Granmèt la klè, li kléré jé yo.",
+        "Krint Granmèt la pròp, li diré pou tout tan gin tan,\n   jijman Granmèt la vré, yo kòrèk, yo tout ansanm.",
+        "Sé pou paròl bouch mouin fè-ou plézi,\n   ni réfléksion kè-m dévan fas ou.\n   Granmèt, ou k-ap poté-m sékou, k-ap rachté-m."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Chak foua nou fè pou youn nan pi piti frè-m sa yo, sé pou mouin minm nou fè.",
+      "source": "Léktu sint Évanjil la dapré Matié",
+      "reference": "25, 31-46",
+      "text": "Lè sa-a : Jézu di disip li yo :\n    « Lè Pitit moun nan ap rivé nan gloua li, épi tout anj yo avèk li, lè sa-a\nl-ap chita sou tro-n gloua li. L-ap rasanblé tout nasion yo dévan-l, l-ap\nséparé yo youn sot kot lòt, tankou yon gadyin séparé mouton yo ak bouk\nyo. L-ap mét mouton yo kanpé adouat li, bouk yo agoch li.\n    Lè sa-a roua-a ap di sa-k adouat li yo : ―Vini, nou minm Papa-m béni\nyo, pran posésion péyi roua-a yo té paré pou nou dépi tè-a té kòmansé fèt\nla. Sèké mouin té grangou, nou té ban-m manjé ; mouin té souaf, nou té\nban-m bouè ; mouin té étranjé, nou té résévoua-m ; mouin té ni-kò, nou\nté abiyé-m ; mouin té malad, nou té rann mouin vizit ; mouin té nan\nprizon, nou té vi-n jouinn mouin‖.\n    Lè sa-a moun kòrèk yo ap pran laparòl, y-ap di : ―Granmèt, kilè nou té\nouè-ou grangou épi nou té ba-ou manjé ? oubyin nou té ouè-ou souaf épi\nnou té ba-ou bouè ? kilè nou té ouè-ou étranjé épi nou té résévoua-ou ?\noubyin ni-kò épi nou té abiyé-ou ? oubyin kilè nou té ouè-ou malad\noubyin nan prizon épi nou té vi-n jouinn ou ?‖\n    Roua-a ap réponn, l-ap di yo : ―Amèn mouin di nou, chak foua nou té\nfè sa pou youn nan pi piti nan frè-m sa yo, sé pou mouin minm nou té\nfè-l‖.\n    Lè sa-a atò l-ap di sa yo ki agoch li yo : ―Ralé kò nou sot sou mouin,\nnou minm ki madichonnin, al nan difé tout tan-an, ki té paré pou djab la\nak anj li yo. Mouin té grangou, nou pa-t ban-m manjé ; mouin té souaf,\nnou pa-t ban-m bouè ; mouin té étranjé, nou pa-t résévoua-m ; mouin té\nni-kò, nou pa-t abiyé-m ; mouin té malad épi mouin té nan prizon, min\nnou pa-t vizité-m‖.\n    Lè sa-a yo minm tou y-ap pran laparòl, y-ap di-l : ―Granmèt, kilè nou\nté ouè-ou grangou, oubyin souaf, oubyin étranjé, oubyin ni-kò, oubyin\nmalad, oubyin nan prizon, épi nou pa-t rann ou sèvis‖ ?\n    Lè sa-a l-ap réponn yo, l-ap di : ―Amèn mouin di nou, chak foua nou\npa-t fè sa pou youn nan pi piti sa yo, sé pou mouin minm tou nou pa-t\nfè-l‖.\n    Sa yo apral nan chatiman tout tan-an, moun kòrèk yo minm apral nan\nlavi tout tan-an ».\n    Paròl Granmèt la."
+    }
+  }
+},
+"": {
+  "reading_mode": "standard",
+  "title": "MADI, PRÉMIÉ SÉMÈN KARÈM",
+  "readings": {
+    "first_reading": {
+      "title": "Paròl mouin fè tou sa-m vlé.",
+      "source": "Léktu liv profèt Izayi",
+      "reference": "55, 10-11",
+      "text": "Min paròl Granmèt la :\n   « Minm jan lapli ak lanèj désann sot nan sièl, épi li pa tounin la, san-l\npa rouzé tè-a, san-l pa plin-l, pou-l jèmin, pou-l bay sémans pou moun k-\nap simin-an ak pin pou moun ki bézouin manjé-a, sé konsa tou paròl ki\nsoti nan bouch mouin-an, li pa tounin vi-n jouinn mouin vid, min l-ap fè\ntou sa-m vlé, l-ap réyisi mision-l nan, sa-m voyé-l fè-a ».\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 33, 4-5. 6-7. 16-17. 18-19 ( : 18 b)",
+      "verses": [4, 5, 6, 7, 16, 17, 18, 19],
+      "refrain": "Nan tout tribilasion yo Bondié sové moun kòrèk yo.",
+      "text": [
+        "Fè louanj Granmèt la ansanm avèk mouin,\n   an nou fè ouè jan non-l gran nou tout ansanm,",
+        "Mouin chèché Granmèt la, li kouté-m,\n   anba tou sa-k fè-m pè li délivré-m.",
+        "Gadé koté-l, pou nou kléré,\n   fas nou pap ront.",
+        "Pòv la rélé, Granmèt la kouté-l,\n   anba tout tribilasion-l yo li sové-l.",
+        "Jé Granmèt la sou moun kòrèk yo,\n   zòrèy li nan rèl yo.",
+        "Figi Granmèt la sou moun k-ap fè sa-k mal yo,\n   pou-l pèdi souvni yo sot sou tè-a.",
+        "Yo rélé, Granmèt la kouté,\n   anba tout tribilasion yo li délivré yo.",
+        "Granmèt la tou pré moun ki gin kè yo krazé,\n   sa-k gin éspri yo krazé yo, l-ap sové yo."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Sé konsa pou nou priyé.",
+      "source": "Léktu sint Évanjil la dapré Matié",
+      "reference": "6, 7-15",
+      "text": "Lè sa-a : Jézu di disip li yo :\n   « Lè n-ap priyé, pa palé tankou nasion yo ; yo konprann réyèlman sé\nnan palé anpil yo-a y-ap kouté yo. Pa fè tankou yo ; sèké Papa nou\nkonnin sa nou bézouin, anvan minm nou mandé-l.\n\n   Sé konsa pou nou priyé :\n   ―Papa nou ki nan sièl la, sé pou yo réspékté non-ou, sé pou yo rékonèt\nsé ou ki roua, sé pou volonté-ou fèt sou tè-a tankou nan sièl la. Pin nou\nbézouin pou nou viv la, ba nou li jodi-a, padonnin sa nou fè-ou, tankou\nnou padonnin moun ki fè nou kichòy, pa kité nou pran nan pièj, min\ndélivré nou ak tou sa ki mal. Amèn‖.\n   Réyèlman si nou padonnin moun yo pou péché yo, Papa nou ki nan\nsièl la ap padonnin nou fot nou yo tou ; min si nou pa padonnin moun yo,\nPapa nou pap padonnin nou péché nou yo ».\n   Paròl Granmèt la."
+    }
+  }
+},
+"vby": {
+  "reading_mode": "standard",
+  "title": "MÈKRÉDI, PRÉMIÉ SÉMÈN KARÈM",
+  "readings": {
+    "first_reading": {
+      "title": "Moun Niniv yo chanjé konduit sot nan mové chémin yo.",
+      "source": "Léktu liv profèt Jonas",
+      "reference": "3, 1-10",
+      "text": "Rivé paròl Granmèt la di Jonas : « Lévé, al Niniv, gran vil la, préché\nprèch la mouin té palé-ou la ladan-l ».\n   Jonas lévé, l-al Niniv dapré paròl Granmèt la. Niniv sé yon gran vil ki\nté mandé toua jou pou travèsé-l. Jonas kòmansé antré nan vil la, li maché\npandan yon jounin ; li rélé byin fò, li di : « Apré karant jou, Niniv ap\ndétoui ».\n   Moun Niniv yo kouè nan Bondié, yo préché yon jèn, yo abiyé ak sak\nsot dépi pi gran-an jous pi piti-a. Paròl la rivé kot roua Niniv la, li lévé\nsot sou tro-n li, li ouété rad li, li abiyé ak yon sak, li chita nan sann. Li fè\ndéklarasion, li palé nan Niniv, nan bouch roua-a ak chèf li yo, li di :\n   « Ni moun ni bèt, ni bèf, ni mouton pap gouté anyin, pap manjé zèb,\npap bouè dlo ; y-ap kouvri ak sak, ni moun ni bèt, y-ap rélé kot Granmèt\nla avèk fòs, sé pou chak moun kité mové chémin-l ak péché-l, ki nan\nmin-l. Kilès ki konnin si Bondié pap chanjé, si-l pap padonnin, si-l pap\ntounin sot nan chalè kòlè-l la, pou nou pa péri ? »\n   Bondié ouè aksion yo, kijan yo chanjé sot nan mové chémin yo,\nBondié pran pitié osijè malè li té di li t-ap fè-a, li pa fè-l.\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 50, 3-4. 12-13. 18-19. ( : 19 b)",
+      "verses": [3, 4, 12, 13, 18, 19],
+      "refrain": "Yon kè ki krazé, ki rabésé, Bondié pa méprizé-l.",
+      "text": [
+        "Pitié pou mouin, Bondié, dapré mizérikòd ou ;\n   épi dapré jan-ou sansib anpil,\n   éfasé fot mouin-an.",
+        "Lavé-m byin lavé sot nan fot mouin-an,\n   pròpté-m sot nan péché-m nan.",
+        "Kréyé yon kè pròp nan mouin, Bondié,\n   réfè yon éspri fèm nan zantray mouin yo.",
+        "Pa jété-m louin fas ou,\n   Éspri sin-ou nan, pa ouété-l sot nan mouin.",
+        "Ou pap pran plézi nan sakrifis,\n   sakrifis antié, si-m ofri-l li pap fè-ou plézi.",
+        "Sakrifis pou Bondié, sé yon éspri ki krazé,\n   yon kè ki krazé, ki rabésé, Bondié, ou pap méprizé-l."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Yo pap bay jénérasion sa-a dòt sign pasé sign Jonas la.",
+      "source": "Léktu sint Évanjil la dapré Luk",
+      "reference": "11, 29-32",
+      "text": "Lè sa-a :\n   Pandan foul yo t-ap rasanblé, Jézu kòmansé di : « Jénérasion sa-a sé\nyon jénérasion ki mové ; l-ap chèché sign, min yo pap ba-l sign, sof sign\nprofèt Jonas la. Sèké minm jan Jonas té sèvi moun Niniv yo kòm sign\nnan, konsa tou Pitit moun nan ap sèvi sign pou jénérasion sa-a.\n   Rinn nan-Sid la ap lévé jou jijman-an ansanm avèk moun jénérasion\nsa-a, l-ap kondané yo ; paské li vi-n sot nan bout tè-a pou-l kouté sajès\nSalomon, époutan gin plis pasé Salomon isit la.\n   Moun Niniv yo ap lévé jou jijman-an ansanm avèk jénérasion sa-a, y-\nap kondané-l, paské yo té fè pénitans nan prèch Jonas la, époutan gin plis\npasé Jonas isit la ».\n   Paròl Granmèt la."
+    }
+  }
+},
+  "1J-ASH": {
+    "reading_mode": "standard",
+    "title": "JÉDI PRÉMIÉ SÉMÈN KARÈM",
+    "readings": {
+      "first_reading": {
+        "title": "Mouin pa gin dòt sékou pasé ou minm, Granmèt.",
+        "source": "Léktu liv Éstè",
+        "reference": "4, 17 n. p-r. aa-bb. gg-hh",
+        "text": "Jou sa yo :\nRèn Éstè kaché nan Granmèt la antan li pè danjé lanmò-a, ki t-ap proché. Li lagé kò-l atè-a avèk sèvant li yo dépi matin jous asouè épi li di :\n« Bondié Abraam ak Bondié Izaak ak Bondié Jakòb, konpliman pou ou. Poté-m sékou, mouin pou kont mouin ; mouin pa gin défansè sof ou minm, Granmèt, paské danjé-a nan min mouin. Mouin té tandé nan liv zansèt mouin yo, Granmèt, ou té libéré tout moun ki fè-ou plézi yo, Granmèt, jouskalafin. Koulié-a minm poté-m sékou antan-m pou kont mouin-an, antan mouin pa gin pèsòn sof ou minm, Granmèt, Bondié mouin. Koulié-a minm édé-m antan-m òfélin, mété paròl adapté nan bouch mouin an fas lion-an, fè-m gin bon jan dévan-l, chanjé kè-l pou-l rayi sa k-ap batay kont nou-an, pou lanmò-l ak lanmò sa yo ki konsanti avèk li-a. Kanta nou minm, libéré nou anba min ènmi nou yo ; chanjé dèy nou-an nan lajoua épi doulè nou yo nan santé ».\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 137, l-2 a. 2 bc-3. 7 c-8 ( : 3 a)",
+        "verses": [1, 2, 3, 7, 8],
+        "refrain": "Ninpòt ki jou mouin rélé-ou, ou kouté-m, Granmèt.",
+        "text": [
+          "M-ap fè louanj ou, Granmèt, ak tout kè-m,\n  paské ou kouté paròl bouch mouin. Dévan fas anj yo m-ap chanté pou ou.",
+          "m-ap adoré nan Tanp ou-a ki sin-an. M-ap fè louanj pou non-ou poutèt mizérikòd ou ak vérité-ou.",
+          "Ninpòt ki jou mouin rélé-ou, ou kouté-m ; ou mété anpil fòs nan nanm mouin.",
+          "Min douat ou ap sové-m.",
+          "Granmèt la ap réalizé travay la pou mouin ; Granmèt, mizérikòd ou pou tout tan : travay min-ou yo, pa lagé yo."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Tout moun ki mandé, l-ap jouinn.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "7, 7-12",
+        "text": "Lè sa-a : Jézu di disip li yo : « Mandé, y-ap ba nou ; chèché, n-ap jouinn ; frapé, y-ap louvri ba nou. Sèké tout moun ki mandé, l-ap résévoua ; moun ki chèché, l-ap jouinn ; moun ki frapé, y-ap louvri ba li. Oubyin kilès nan pami nou, si pitit li mandé-l yon pin, pou-l lonjé yon ròch ba li ? Oubyin si-l mandé yon pouason, èské sé yon koulèv l-ap lonjé ba li ? Konsa si nou minm, malgré nou mové-a, nou konn bay pitit nou yo bon bagay, èské Papa nou ki nan sièl la pap fè pi plis toujou, pou-l bay moun k-ap mandé-l yo sa ki bon ? Konsa, tou sa nou vlé pou moun yo fè pou nou, sé pou nou fè-l pou yo tou : sa-a sé laloua-a ak Profèt yo ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "A-CAR-ASH-VEN": {
+    "reading_mode": "standard",
+    "title": "VANDRÉDI PRÉMIÉ SÉMÈN KARÈM",
+    "readings": {
+      "first_reading": {
+        "title": "Èské volonté-m sé lanmò moun ki pa kòrèk la, èské sé pa pito pou-l chanjé sot nan rout li yo épi pou-l viv ?",
+        "source": "Léktu liv profèt Ézékièl",
+        "reference": "18, 21-28",
+        "text": "Min sa Granmèt Bondié-a di : « Si moun ki pa kòrèk la fè pénitans sot nan tout péché-l yo, sa-l té fè yo, épi li kinbé tout kòmandman-m yo, li fè jijman ak jistis, l-ap viv byin pròp, li pap mouri. Tou sa-l té fè ki pa kòrèk yo, yo pap sonjé yo ; sé nan jistis li réalizé-a l-ap viv. Èské volonté-m sé lanmò moun ki pa kòrèk la, sé sa Granmèt Bondié-a di, èské sé pa pou-l chanjé sot nan chémin-l yo, pou-l viv ? Sèlman si moun ki kòrèk la viré do bay jistis li-a, épi li fè sa-k pa kòrèk dapré tout kalité péché moun ki pa kòrèk la konn fè yo, èské l-ap viv ? Tout jistis li yo li té réalizé yo, yo pap sonjé yo ; sé nan révòlt li fè-a, ak nan péché li fè-a, sé nan yo l-ap mouri. Épi n-ap di : ―Chémin Granmèt la pa douat‖. Kouté, kay Israèl : Èské sé chémin-m ki pa douat, èské sé pa pito chémin pa nou yo ki mové ? Sèké si moun ki kòrèk la viré do bay jistis li-a, épi li fè sa-k pa kòrèk, li mouri nan yo, sé nan sa-k pa kòrèk li fè yo l-ap mouri. Min si moun ki pa kòrèk la viré do bay sa-l fè ki pa kòrèk la, li réalizé jijman ak jistis, li minm l-ap fè nanm li jouinn lavi ; sèké antan-l égzaminé, li viré do bay tou sa-l té fè ki pa kòrèk yo, l-ap viv byin pròp, li pap mouri ».\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 129, 1-2. 3-4 ab. 4 c-6. 7-8 ( : 3)",
+        "verses": [1, 2, 3, 4, 5, 6, 7, 8],
+        "refrain": "Si-ou kinbé fot yo, Granmèt, Granmèt, ki moun k-ap kanpé ?",
+        "text": [
+          "Nan bafon yo m-ap rélé koté-ou, Granmèt ;",
+          "Granmèt, kouté voua-m. Sé pou zòrèy ou panché nan voua priyè-m nan.",
+          "Si-ou kinbé fot yo, Granmèt, Granmèt, ki moun k-ap kanpé ?",
+          "Paské koté-ou sé padon, épi nou krinn ou.",
+          "M-ap tann ou, Granmèt ; nanm mouin ap tann nan paròl li,",
+          "nanm mouin éspéré nan Granmèt la.",
+          "Plis pasé yon santinèl k-ap éspéré dévan-jou,",
+          "sé pou Israèl éspéré nan Granmèt la. Paské kot Granmèt la sé mizérikòd, sé rédanmsion an kantité koté-l. Sé li minm k-ap rachté Israèl sot nan tout fot li yo."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Al kòmansé rékonsilié ak frè-ou la.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "5, 20-26",
+        "text": "Lè sa-a : Jézu di disip li yo : « Si jistis nou pa dépasé pa skrib yo ak Farizyin yo, nou pap antré nan péyi roua sièl yo. Nou té tandé yo té di ansyin yo : ―Pa touyé‖ ; paské moun ki touyé, li mérité jijman. Mouin minm mouin di nou : Tout moun ki fè kòlè kont frè-l, li mérité jijman. Moun ki di frè-l : ―Tèt vid‖, li mérité tribinal. Moun ki di : ―Moun fou‖, li mérité boukan difé-a. Konsa, si ou-ap ofri kado-ou dévan lotèl la, épi lè-ou rivé la, ou sonjé frè-ou gin kichòy kont ou, kité kado-ou la la minm dévan lotèl la, al rékonsilié avèk frè-ou la anvan ; apré sa ou-a vini, ou-a ofri kado-ou la. Mété-ou dakò avèk ènmi-ou nan byin vit, pandan ou sou rout avèk li ; pou ènmi-ou nan pa rinmèt ou nan min jij la, pou jij la pa rinmèt ou bay gad la, pou yo pa voyé-ou nan prizon. Amèn mouin di-ou, ou pap soti la, joustan ou rinmèt dènié santim nan ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "A-CAR-ASH-SAM": {
+    "reading_mode": "standard",
+    "title": "SAMDI PRÉMIÉ SÉMÈN KARÈM",
+    "readings": {
+      "first_reading": {
+        "title": "Pou-ou kapab vi-n tounin pèp sin Granmèt Bondié-ou la.",
+        "source": "Léktu liv Détéronòm",
+        "reference": "26, 16-19",
+        "text": "Moyiz palé ak pèp la, li di : « Jodi-a Granmèt Bondié-ou la pasé-ou lòd, pou-ou réalizé kòmandman sa yo ak désizion yo, pou-ou obsèvé yo, pou-ou réalizé yo ak tout kè-ou, ak tout nanm ou. Jodi-a minm, ou chouazi Granmèt la, pou-l vi-n tounin Bondié-ou, pou-ou maché nan chémin-l yo, pou-ou obsèvé kòmandman-l yo, lòd li yo ak désizion-l yo, pou-ou obéyi lòd li. Granmèt la chouazi-ou jodi-a, pou-ou vi-n tounin pèp li yon fason spésial, jan-l té di-ou la, pou-ou obsèvé tout lòd li yo ; pou-l fè-ou pi ro pasé tout nasion yo li té kréyé yo nan louanj ; nan non-l ak nan gloua-l, pou-ou vi-n tounin pèp ki sin pou Granmèt Bondié-ou la, jan-l té palé-a ».\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 118, 1-2. 4-5. 7-8 ( : cf. 1 b)",
+        "verses": [1, 2, 4, 5, 7, 8],
+        "refrain": "Ala kontantman pou moun yo k-ap maché nan laloua Granmèt la.",
+        "text": [
+          "Ala kontantman pou moun ki intak nan chémin-an, k-ap maché nan laloua Granmèt la.",
+          "Ala kontantman pou moun yo ki kinbé témouagnaj li yo, k-ap chèché-l ak tout kè yo.",
+          "Ou pasé lòd pou yo obsèvé kòmandman-ou yo.",
+          "Mouin souété pou chémin-m yo dirijé pou-m kinbé désizion-ou yo.",
+          "M-ap fè louanj ou nan kè ki douat, paské mouin aprann jijman-ou yo ki kòrèk yo.",
+          "M-ap kinbé désizion-ou yo, pa lagé-m pou tout tan."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Sé pou nou kòrèk nèt tankou Papa nou nan sièl la.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "5, 43-48",
+        "text": "Lè sa-a : Jézu di disip li yo : « Nou té tandé yo té di : ―Sé pou-ou rinmin prochin-ou, pou-ou rayi ènmi-ou‖. Mouin minm mouin di nou : ―Rinmin ènmi nou, fè dibyin pou moun ki rayi nou yo, priyé pou moun k-ap pèsékité nou yo, k-ap fè manti sou nou ; pou nou kapab vi-n tounin pitit Papa nou ki nan sièl la, li minm ki fè solèy li lévé sou bon yo ak mové yo, ki fè lapli tonbé sou moun kòrèk yo ak sou méchan yo. Si nou rinmin sa yo ki rinmin nou, ki rékonpans nou ginyin ? Èské piblikin yo pa fè sa ? Si nou salié frè nou yo sèlman, ki sa nou fè an plis ? èské nasion yo pa fè sa ? Konsa sé pou nou kòrèk nèt, tankou Papa nou ki nan sièl la li kòrèk nèt‖ ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "A-CAR-01-DIM": {
+    "reading_mode": "",
+    "title": "DÉZIÈM SÉMÈN KARÈM – Dimanch, ané A",
+    "readings": {
+      "first_reading": {
+        "title": "Bondié rélé Abraam, pou-l papa pèp Bondié-a.",
+        "source": "Léktu liv Jénèz la",
+        "reference": "12, l-4 a",
+        "text": "Jou sa yo :\nGranmèt la di Abram : « Pati sot nan péyi-ou, ak nan fanmi-ou, ak nan kay papa-ou, vini nan péyi-a m-a montré-ou la. M-ap fè-ou vi-n tounin yon gran nasion, m-ap béni-ou, m-ap fè non-ou vi-n gran, ou-ap béni. M-ap béni moun ki béni-ou yo ; m-ap madichonnin moun ki madichonnin-ou yo ; tout fanmi sou tè-a ap béni nan ou ».\nAbram pati, jan Granmèt la té pasé-l lòd la.\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 32, 4-5. 18-19. 20 é 22 ( : 22)",
+        "verses": [4, 5, 18, 19, 20, 22],
+        "refrain": "Sé pou mizérikòd ou vi-n sou nou, Granmèt, tankou nou té éspéré nan ou.",
+        "text": [
+          "Sèké paròl Granmèt la douat, tout aksion-l yo nan fidélité.",
+          "Li rinmin jistis ak jijman, mizérikòd Granmèt la plin tè-a.",
+          "Min jé Granmèt la sou moun ki krinn li yo, sou moun ki éspéré sou mizérikòd li,",
+          "pou-l délivré nanm yo sot nan lanmò, pou-l ba yo manjé nan grangou.",
+          "Nanm nou ap konté sou Granmèt la, paské sé sékou nou ak protéksion nou li yé.",
+          "Sé pou mizérikòd ou vi-n sou nou, Granmèt, tankou nou té éspéré sou ou."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Fas li kléré tankou solèy.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "17, 1-9",
+        "text": "Lè sa-a :\nJézu pran Piè, Jak ak Jan, frè-l la, li minnin yo sou yon mòn ki ro anpil, yon koté apa ; li chanjé fas dévan yo. Fas li vi-n kléré tankou solèy, rad li vi-n blan tankou lanèj. Gin Moyiz ak Éli ki vi-n parèt dévan-l k-ap palé avèk li.\nPiè pran laparòl, li di Jézu : « Granmèt, sa bon pou nou rét isit la, si-ou vlé, an nou fè toua tant isit la, youn pou ou, youn pou Moyiz ak youn pou Éli ».\nPandan li t-ap palé toujou, yon niaj kléré vi-n kouvri yo ak lonbraj li. Yon voua soti nan niaj la, li di : « Sa-a sé Pitit mouin-an mouin rinmin-an, nan li mouin jouinn bon plézi-m : kouté-l ». Disip yo ki tandé sa, yo tonbé sou fas yo, yo sézi anpil.\nJézu proché, li touché yo, li di yo : « Lévé pa pè ». Yo lévé jé yo, yo pa ouè pèsonn sof Jézu sèl. Pandan y-ap désann sot sou mòn nan, Jézu pasé yo lòd, li di : « Pa di pèsonn vizion-an, joustan Pitit moun nan lévé sot nan pami mò yo ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "lundi": {
+    "reading_mode": "",
+    "title": "DÉZIÈM SÉMÈN KARÈM – Lindi",
+    "readings": {
+      "first_reading": {
+        "title": "Nou fè péché, nou fè sa ki pa kòrèk.",
+        "source": "Léktu liv profèt Danièl",
+        "reference": "9, 4 b-10",
+        "text": "M-ap priyé-ou, Granmèt, Bondié ki gran, ki térib, ki kinbé alians la ak mizérikòd la pou moun ki rinmin-ou yo épi ki kinbé kòmandman-ou yo.\nNou fè péché, nou fè sa ki pa kòrèk, nou aji san rélasion avèk ou, nou viré do nou, nou dévié sot nan kòmandman-ou yo ak jijman-ou yo ; nou pa-t obéyi sèvitè-ou profèt yo, ki té palé o non-ou ak roua nou yo, chèf nou yo, papa nou yo ak tout pèp péyi-a.\nSé pou ou, Granmèt, jistis la : nou minm minm sé pou nou ront nan figi-a, jan sa yé jodi-a pou moun Juda ak pou moun ki abité Jéruzalèm yo ak pou tout Israèl la, ni pou moun ki tou pré yo, ni pou moun ki louin yo sou tout tè-a, koté-ou té voyé yo an-égzil poutèt péché yo té fè kont ou minm nan.\nGranmèt, pou nou minm sé ront nan figi-a, pou roua nou yo, pou chèf nou yo ak papa nou yo, ki té fè péché yo. Kanta pou ou minm minm, Granmèt Bondié nou, sé mizérikòd ak padon, paské nou viré do ba ou, nou pa-t kouté voua Granmèt Bondié nou-an, pou nou té maché nan laloua-l la, sa-l té ba nou pa lintèmédiè sèvitè-l yo profèt yo.\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 78, 8. 9. 11 é 13 ( : Ps 102, 10 a)",
+        "verses": [8, 9, 11, 13],
+        "refrain": "Granmèt, sé pa dapré péché nou yo pou-ou aji avèk nou.",
+        "text": [
+          "Pa sonjé péché papa nou yo, fè vit pou mizérikòd ou pran dévan nou, paské nou vi-n pòv anpil.",
+          "Poté nou sékou, Bondié ki sové nou, poutèt gloua non-ou, délivré nou ; padonnin péché nou yo, poutèt non-ou.",
+          "Sé pou-l antré dévan fas ou, rèl prizonié yo ; dapré grandè bra-ou kité rès pitit lanmò yo.",
+          "Nou minm minm, pèp ou-a ak mouton pak ou-a, n-ap fè louanj ou tout tan ; pou jénérasion ak jénérasion, n-ap anonsé louanj ou."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Padonnin, y-ap padonnin nou.",
+        "source": "Léktu sint Évanjil la dapré Luk",
+        "reference": "6, 36-38",
+        "text": "Lè sa-a : Jézu di disip li yo : « Sé pou nou gin mizérikòd, tankou Papa nou gin mizérikòd. Pa jijé, yo pap jijé nou ; pa kondané, yo pap kondané nou ; padonnin, y-ap padonnin nou.\nBay, y-ap ba nou : sé yon mézu ki bon, ki byin foulé, ki byin souké, k-ap débòdé, y-ap mété nan pli rad nou. Nan minm mézu n-ap mézuré-a, sé ladan-l y-ap méziré pou nou tou, sé ladan-l y-ap rinmèt nou ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "mardi": {
+    "reading_mode": "",
+    "title": "DÉZIÈM SÉMÈN KARÈM – Madi",
+    "readings": {
+      "first_reading": {
+        "title": "Aprann fè sa-k byin, chèché sa-k kòrèk.",
+        "source": "Léktu liv profèt Izayi",
+        "reference": "1, 10. 16-20",
+        "text": "Kouté paròl Granmèt la, nou minm, chèf Sodòm yo ; résévoua laloua Bondié nou-an nan zòrèy nou, nou minm pèp Gomò-a : « Lavé nou, pròpté nou, ouété mové kalkil nou yo sot dévan jé-m ; sispann aji mal, aprann aji byin : chèché jijman, édé sa k-ap pasé mati-a, plédé kòz òfélin-an, défann vèv la.\nApré sa nou mèt vini pou nou plédé kòz pa nou dévan-m, sé sa Granmèt la di. Si péché nou t-a tankou vlou rouj, y-ap vi-n blan kon nèj ; si yo t-a tankou linn rouj, y-ap vi-n kon linn blan.\nSi nou vlé kouté-m, n-ap manjé richès tè-a ; min si nou pa vlé, si n-ap éksité-m fè kòlè, sé épé-a k-ap dévoré nou : sèké bouch Granmèt la palé ».\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 49, 8-9. 16 b c-17. 21 é 23 ( : 23 b)",
+        "verses": [8, 9, 16, 17, 21, 23],
+        "refrain": "Moun ki san tach nan chémin-an, m-ap montré-l jan Bondié sové nou.",
+        "text": [
+          "Sé pa nan sakrifis ou yo m-ap réglé kont avèk ou ; sakrifis antié-ou yo dévan-m tout tan.",
+          "Mouin pap pran toro sot lakay ou, ni bouk sot nan pak ou.",
+          "« Pouki sa ou-ap détayé kòmandman-m yo, ou-ap mété téstaman-m nan nan bouch ou ?",
+          "Époutan ou rayi disipli-n, ou voyé paròl mouin yo jété dèyè do-ou.",
+          "Sé sa-ou fè, épi mouin té pé bouch mouin. Ou té konprann mouin té tankou-ou.",
+          "Moun ki ofri sakrifis louanj, l-ap fè-m jouinn gloua, moun ki san tach nan chémin-an, m-ap montré-l kijan Bondié sové nou »."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Yo di, min yo pa fè.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "23, 1-12",
+        "text": "Lè sa-a : Jézu palé ak foul yo ak disip li yo, li di : « Sou tro-n Moyiz la skrib yo ak Farizyin yo chita : tou sa yo di nou, sé pou nou obsèvé yo, sé pou nou fè yo, sèlman pa aji dapré aksion pa yo : sèké yo di min yo pa fè. Yo maré chaj ki lou, bagay moun pa kapab poté, épi yo mété yo sou zépòl moun yo ; sèlman minm ak yon ti douèt yo réfizé souké yo.\nRéyèlman tout aksion yo, yo fè yo pou moun kapab ouè yo : yo laji bouat yo ki gin vèsè sa-k ékri yo yo konn poté sou yo-a, yo lonjé fil ki pandié nan manch rad yo. Yo rinmin prémié plas nan résépsion, ak prémié tro-n nan sinagòg yo, yo rinmin moun ap di yo bèl bonjou sou plas yo, yo rinmin pou moun yo rélé yo « Rabi ».\nKanta nou minm, pa rélé pèsòn ―Rabi‖ ; sèké sé yon sèl ki mèt nou, nou tout nou sé frè. Épi pa rélé pèsòn ―Papa‖ sou tè-a ; sèké sé yon sèl ki Papa nou, sa-a ki nan sièl la. Pa fè yo rélé nou ―Mèt‖ ; paské sé Kris la sèl ki mèt nou.\nMoun ki pi gran nan nou-an, sé sèvitè nou pou-l yé. Moun ki lévé tèt li, y-ap fè-l bésé-l ; moun ki bésé tèt li, y-ap fè-l lévé-l ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "mercredi": {
+    "reading_mode": "",
+    "title": "DÉZIÈM SÉMÈN KARÈM – Mèkrédi",
+    "readings": {
+      "first_reading": {
+        "title": "Vini, an nou frapé-l.",
+        "source": "Léktu liv profèt Jérémi",
+        "reference": "18, 18-20",
+        "text": "Yo di : « Vini, an nou fè konplo kont Jérémi ; laloua-a pap péri poutèt pa gin prèt, ni konsèy la poutèt pa gin saj, ni paròl la poutèt pa gin profèt. Vini, an nou frapé-l avèk kout lang, nou pap fè atansion nan tout paròl li yo ».\nGranmèt, viré lidé-ou sou mouin, kouté voua ènmi-m yo. Èské yo konn rinmèt mal pou byin, ki fè yo fouyé fòs pou nanm mouin-an ? Sonjé mouin té kanpé dévan fas ou, pou-m té plédé kòz yo, pou-m té fè kòlè-ou viré louin yo.\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 30, 5-6. 14. 5-16 ( : 17 b)",
+        "verses": [5, 6, 14, 15, 16],
+        "refrain": "Sové-m, Granmèt, nan mizérikòd ou-a.",
+        "text": [
+          "Ouété-m sot nan pièj yo kaché pou mouin-an, paské sé ou minm ki fòs mouin.",
+          "Sé nan min-ou mouin rinmèt éspri-m ; ou rachté-m, Granmèt, Bondié vérité-a.",
+          "Sèké mouin tandé rèl anpil moun : sé kè soté toutalantou ; poutèt yo rasanblé ansanm kont mouin, yo fè konplo pou yo ouété nanm mouin.",
+          "Kanta mouin minm minm sé nan ou mouin éspéré, Granmèt ; mouin di : « Sé Bondié-m ou yé,",
+          "sé nan min-ou déstiné mouin yé ». Délivré-m sot nan min ènmi-yo ak pèsékitè-m yo."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Y-ap kondané-l amò.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "20, 17-28",
+        "text": "Pandan Jézu ap monté Jéruzalèm, li pran douz disip yo apa, li di yo : « Min n-ap monté Jéruzalèm, y-apral rinmèt Pitit moun nan nan min chèf prèt yo ak skrib yo, y-ap kondané-l amò, y-ap rinmèt li nan min nasion yo pou yo pasé-l nan jouèt, pou yo bat li, pou yo klouré-l sou koua, épi sou touazièm jou-a, l-ap résisité ».\nLè sa-a manman pitit Zébédé yo proché koté-l ansanm ak pitit li yo, li ajénou dévan-l, li mandé-l kichòy.\nJézu di-l : « Ki sa-ou vlé ? » Li di-l : « Di pou dé pitit mouin sa yo chita youn adouat ou, lòt la agoch ou nan péyi roua-ou la ».\nJézu minm réponn, li di : « Nou pa konnin sa n-ap mandé-a. Èské nou kapab bouè kalis la, mouin gin pou-m bouè-a ? » Yo di-l : « Nou kapab ». Li di yo : « Kalis mouin-an, n-ap bouè-l ; min kanta pou chita adouat mouin oubyin agoch mouin-an, sé pa mouin minm ki kapab ba nou sa, min sé pou moun Papa-m paré sa ».\nLè dis lòt yo tandé sa, yo faché kont dé frè yo. Jézu minm rélé yo vi-n koté-l, li di : « Nou konnin chèf nasion yo kòmandé yo, épi sa yo ki nan gran plas yo, yo fè pouvoua yo pézé sou yo. Sa pa doué fèt konsa nan mitan nou, min ninpòt ki moun nan pami nou ki vlé vi-n gin pi gran plas, sé pou-l vi-n tounin sèvitè nou ; épi moun ki vlé vi-n gin prémié plas nan pami nou, sé pou-l vi-n tounin ésklav nou. Sé konsa Pitit moun nan pa vini pou-l fè yo sèvi-l, min pou-l sèvi, épi pou-l bay lavi-l pou rédanmsion kantité moun yo ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "jeudi": {
+    "reading_mode": "",
+    "title": "DÉZIÈM SÉMÈN KARÈM – Jédi",
+    "readings": {
+      "first_reading": {
+        "title": "Malè pou moun ki mét konfians nan moun ; bénédiksion pou moun ki mét konfians nan Granmèt la.",
+        "source": "Léktu liv profèt Jérémi",
+        "reference": "17, 5-10",
+        "text": "Min paròl Granmèt la : « Malè pou moun ki mét konfians nan yon moun, épi ki mété yon moun kòm fòs bra-l, min li ouété kè-l sot kot Granmèt la. L-ap tankou yon boua chèch nan dézè, li pap ouè lè byin-an rivé ; min l-ap abité nan dézè sèk la, nan tè salé-a koté moun pa kapab abité-a. Bénédiksion pou moun ki mét konfians nan Granmèt la, ki mét éspérans li nan Granmèt la ; l-ap tankou yon pié boua yo transplanté sou bò dlo yo, ki plonjé rasi-n li yo nan fréchè, li pap pè lè chalè-a ap rivé, fèy li ap rét vèt, nan tan séchrès la li pap nan tèt chajé, li pap janm manké donnin foui. Kè tout moun mové, yo pa kapab sondé-l, kilès ki konnin-l ? Sé mouin minm Granmèt la ki sondé kè, ki éséyé rin ; mouin minm ki bay chak moun dapré chémin-l épi dapré foui travay li ».\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 1, 1-2. 3. 4 é 6 ( : Ps 39, 5 a)",
+        "verses": [1, 2, 3, 4, 6],
+        "refrain": "Ala kontantman pou moun ki mété Granmèt la kòm éspérans li.",
+        "text": [
+          "Ala kontantman pou moun ki pa alé nan réyinion moun ki pa kòrèk yo ki pa kanpé nan chémin péchè yo, ki pa chita nan group moun mové plézantri yo,",
+          "min sé nan laloua Granmèt la li mét volonté-l, sé nan laloua-l la l-ap kalkilé lajounin kou lannuit.",
+          "L-ap tankou yon pié boua ki planté sou bò dlo k-ap kouri, k-ap bay foui-l nan sézon-l ; fèy li pap tonbé, ninpòt ki sa l-ap fè ap réyisi.",
+          "Méchan yo pa konsa, yo pa konsa, min sé tankou pousiè van-an ap broté.",
+          "Sèké Granmèt la konnin chémin moun ki kòrèk yo, épi rout moun ki pa kòrèk yo ap péri."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Ou té résévoua byin, Lazar té résévoua malè ; koulié-a l-ap konsolé isit la, ou minm minm ou nan soufrans.",
+        "source": "Léktu sint Évanjil la dapré Luk",
+        "reference": "16, 19-31",
+        "text": "Té gin yon mésié ki té rich, li té konn abiyé ak vlou ak soua, chak jou li té konn ap fè bèl résépsion. Min té gin yon pòv tou, yo té rélé Lazar, ki té kouché nan papòt li, li té plin ak blésu, li té anvi plin vant li ak ti kal manjé ki té konn ap tonbé sot sou tab rich la, min pèsòn pa-t konn ba li ; okontrè sé chyin yo ki té konn vi-n ap niché koté-l té malad yo.\nRivé pòv la vi-n mouri, anj yo poté-l nan léstomak Abraam ; rich la vi-n mouri tou, yo antéré-l nan lanfè.\nLi lévé jé-l anlè, pandan li t-ap soufri-a, li ouè Abraam byin louin avèk Lazar nan léstomak li. Li rélé byin fò, li di : ―Papa Abraam, pitié pou mouin, voyé Lazar, pou-l tranpé ti bout douèt li nan dlo, pou-l rafréchi lang mouin, paské m-ap soufri nan flanm sa-a‖.\nAbraam di-l : ―Pitit, sonjé ou té résévoua byin yo nan lavi-ou, Lazar minm té résévoua malè ; koulié-a atò li jouinn konsolasion isit la, ou minm minm ou-ap soufri. Ak tou sa, ant nou minm épi ou minm gin yon gran vid ki égzisté, atèl pouin moun ki t-a vlé sot isit la pou y-al travèsé koté-ou, yo pa kapab, ni sot koté-ou pou travèsé isit la‖.\nLi di : ―Mouin priyé-ou, Papa, pou-ou voyé-l kay papa-m (sèké mouin gin sink frè), pou-l bay témouagnaj dévan yo, pou yo minm tou yo pa vi-n nan koté soufrans sa yo isit la‖. Abraam di-l : ―Yo gin Moyiz ak profèt yo : sé pou yo kouté yo‖. Li di-l : ―Non, Papa Abraam ; min, si youn nan mò yo al koté yo, y-ap fè pénitans‖. Li di-l : ―Si ata Moyiz ak Profèt yo yo pa kouté yo, sé pa yon moun ki t-a lévé sot nan pami mò yo yo t-a kouté‖ ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "vendredi": {
+    "reading_mode": "standard",
+    "title": "DÉZIÈM SÉMÈN KARÈM – Vandrédi",
+    "readings": {
+      "first_reading": {
+        "title": "Min sa-a ki té fè rèv la k-ap vini : an-alé, n-ap touyé-l.",
+        "source": "Léktu liv Jénèz la",
+        "reference": "37, 3-4. 12-13 a. 17 b-28",
+        "text": "Israèl té rinmin Jozèf pi plis pasé tout pitit li yo, paské sé nan viéyès li li té anfanté-l ; li té fè yon rad long ki té gin anpil koulè. Lè frè-l yo ouè kijan papa-a té pi rinmin-l pasé tout pitit yo, yo rayi-l, yo pa-t kapab palé an-pè avèk li.\nKòm frè-l yo t-ap pasé yon tan Sikèm antan y-ap gadiyin mouton papa-a, Israèl di Jozèf : « Frè-ou yo ap gadiyin mouton Sikèm ; vini, m-ap voyé-ou koté yo ». Jozèf pati dèyè frè-l yo, li jouinn yo Dotayi-n.\nYo minm, kon yo ouè-l dépi byin louin, anvan-l proché koté yo, yo gin tan fè konplo pou yo touyé-l. Youn palé ak lòt : « Min sa-a ki fè rèv la k-ap vini : an nou ouè, n-ap jété-l nan yon vié pui, n-ap di : ―Yon bèt sovaj dévoré-l‖, konsa y-a ouè ki sa rèv li yo té sèvi-l‖ ».\nLè Rubin tandé sa, li t-ap éséyé délivré-l sot nan min yo, li t-ap di : « Pa touyé lavi-l, pa vidé san-l ; min jété-l nan pui sa-a ki nan dézè-a, konsa n-a kinbé min nou san yo pa koupab ». Li t-ap di sa, paské li té vlé ouété-l sot nan min yo pou-l rinmèt li bay papa-l.\nMinm lè li rivé kot frè-l yo, yo ouété rad ki té gin anpil valè-a, ki té gin bèl koulè-a, sot sou li, yo mété-l nan vié pui-a ki pa-t gin dlo-a.\nYo chita pou yo manjé pin, yo ouè Ismaélit yo k-ap vouayajé, ki té vi-n sot Galaad, avèk chamo yo ki t-ap poté losion, lansan, ak lami pou Éjip. Juda di frè-l yo : « Sa sa ap sèvi nou, si nou touyé frè nou-an, épi nou kaché san-l ? Li pi bon si nou vann li bay Ismaélit yo, konsa nou pap sal min nou ; sèké sé frè nou ak chè nou li yé ». Frè-l yo vi-n dakò avèk paròl li yo.\nLè machann Madianit yo vi-n ap pasé, yo ouété-l sot nan pui-a, yo vann li bay Ismaélit yo pou vin piès lajan, Ismaélit yo kondui-l Éjip.\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 104, 16-17. 18-19. 20-21 ( : 5 a)",
+        "verses": [16, 17, 18, 19, 20, 21],
+        "refrain": "Sonjé mèvèy Granmèt la fè yo.",
+        "text": [
+          "Li rélé grangou sou tè-a, épi li kasé tout baton pin.",
+          "Li voyé yon moun dévan yo, sé Jozèf yo té vann kòm ésklav la.",
+          "Yo fiské pié-l nan chinn, yo pasé kou-l nan fè,",
+          "joustan paròl li-a rivé, promès Granmèt la nétouayé-l.",
+          "Roua-a voyé lagé-l, chèf pèp yo ranvouayé-l ;",
+          "li instalé-l kòm mèt kay li, kòm chèf sou tou sa-l posédé."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Min éritié-a : vini, an nou touyé-l.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "21, 33-43. 45-46",
+        "text": "Té gin yon pèd-fanmi, li té planté yon jadin rézin, li mét lantouraj tout alantou-l, li fouyé yon présoua nan jadin-an, li bati yon kay ro, li loué jadin-an bay kiltivatè yo, li pati byin louin.\nLè tan foui yo t-ap proché, li voyé sèvitè-l yo kot kiltivatè yo, pou yo résévoua foui-l. Kiltivatè yo pran sèvitè-l yo, yo jété youn atè, yo touyé yon lòt, yo kalonnin yon lòt ak kout-ròch. Apré sa li voyé dòt sèvitè ankò pi plis pasé prémié yo, yo fè yo minm jan. Alafin, li voyé pròp pitit li-a koté yo, li di : ―Y-a réspékté pitit mouin-an‖.\nKiltivatè yo minm, lè yo ouè pitit la, yo di nan kè yo : ―Min éritié-a : an nou ouè, n-ap gin éritaj li-a‖. Yo pran-l, yo jété-l déyò jadin rézin-an, yo touyé-l. Lè mèt jadin rézin-an ap rivé, ki sa l-ap fè kiltivatè sa yo ? » Yo di-l : « Méchan yo, l-a fè yo péri mal, l-ap loué jadin rézin-l nan bay dòt kiltivatè, k-ap rinmèt li foui-a nan sézon yo ». Jézu di yo : « Èské nou pa-t janm li nan sa-k ékri yo : ―Ròch la bòs mason réfizé-a, sé li minm ki vi-n tounin tèt kouin-an : sé nan min Granmèt la bagay sa-a fèt, sé yon bagay éstraòdinè nan jé nou ? ― Sé pousa mouin di nou, y-ap ouété péyi roua Bondié-a sot nan min nou, y-ap rinmèt li nan min yon nasion k-ap fè-l donnin foui-l ».\nLè chèf prèt yo ak Farizyin yo tandé parabòl li yo, yo rékonèt sé osijè-yo li t-ap palé. Yo t-ap chèché arété-l, min yo té pè foul yo, paské yo té konsidéré-l kòm profèt.\nParòl Granmèt la."
+      }
+    }
+  },
+  "samedi g": {
+    "reading_mode": "standard",
+    "title": "DÉZIÈM SÉMÈN KARÈM – Samdi",
+    "readings": {
+      "first_reading": {
+        "title": "Sé pou-l jété tout péché nou yo nan fon lanmè-a.",
+        "source": "Léktu liv profèt Miché",
+        "reference": "7, 14-15. 18-20",
+        "text": "Kondui pèp ou-a, Granmèt, avèk bagèt ou-a, mouton éritaj ou-a, yo minm ki abité pou kont yo nan rak boua-a, nan mitan Karmèl la ; sé pou yo manjé zèb Bachan ak Galaad tankou jou lontan yo. Tankou jou ou té fè yo soti nan péyi Éjip la, fè yo ouè mèvèy.\nKilès ki tankou-ou, Bondié, ou minm ki ouété péché-a, ou minm ki padonnin fot rès éritaj ou-a ? Li pap fè kòlè ankò, paské sé mizérikòd li vlé.\nSé pou-l tounin, pou-l pran pitié pou nou, sé pou-l ouété péché nou yo, pou-l jété tout péché nou yo nan fon lanmè. Ou-ap bay Jakòb vérité-a, ou-ap bay Abraam mizérikòd la, sa-ou té fè sèman bay papa nou yo, dépi nan jou lontan yo.\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 102, 1-2. 3-4. 9-10. 11-12 ( : 8 a)",
+        "verses": [1, 2, 3, 4, 9, 10, 11, 12],
+        "refrain": "Granmèt la gin mizérikòd, li pran pitié.",
+        "text": [
+          "Fè konpliman pou Granmèt la, nanm mouin ; tou sa-k anndan-m, fè konpliman pou non-l ki sin.",
+          "Fè konpliman pou Granmèt la, nanm mouin, pa bliyé tou sa-ou doué-l.",
+          "Li minm ki padonnin tout péché-ou yo, ki géri tout maladi-ou yo ;",
+          "ki rachté lavi-ou sot nan lanmò, ki kouronnin-ou nan mizérikòd ak pitié.",
+          "Sé pa pou tout tan l-ap fè diskision, ni pou tout tan l-ap faché.",
+          "Sé pa dapré péché nou yo li aji avèk nou, ni dapré fot nou yo li rinmèt nou.",
+          "Sèké, otan sièl la ro anlè tè-a, mizérikòd li débòdé pou moun ki krinn li yo ;",
+          "otan olévan louin ak okouchan, li voyé péché nou yo louin nou."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Frè-ou la ki la-a, li té mouri, li réviv.",
+        "source": "Léktu sint Évanjil la dapré Luk",
+        "reference": "15, 1-3. 11-32",
+        "text": "Piblikin yo ak péchè yo t-ap proché kot Jézu, pou yo kouté-l. Farizyin yo ak skrib yo t-ap bougonnin, yo t-ap di : « Sa-a résévoua péchè yo, li manjé avèk yo ».\nLi di parabòl sa-a pou yo, li di : « Té gin yon mésié ki té gin dé pitit, pi jèn nan yo-a di papa-a : ―Papa, ban-m pòsion éritaj ki déstiné pou mouin-an‖. Li séparé éritaj la ba yo. Pa gin anpil jou ki pasé, pi jèn ti gason-an ranmasé tout afè-l, li pati, l-al fè rout li nan yon péyi byin louin ; lè-l rivé la, li gaspiyé éritaj li-a antan l-ap viv nan libètinaj.\nLè-l fi-n dépansé tout bagay, vi-n gin yon gro grangou nan réjion sa-a, li minm li kòmansé nan bézouin. Li pati, l-al nan sèvis yon mésié nan péyi sa-a, mésié-a voyé-l nan jadin-l, pou-l gadé kochon. Li té anvi plin vant li ak grinn boua yo, sa kochon yo t-ap manjé yo ; min pèsòn pa-t ba li.\nLi antré nan fon kè-l, li di : ―Konbyin jounalié nan kay papa-m gin kont pin yo, kanta mouin minm minm m-ap mouri grangou isit la ! M-ap lévé, m-apral kay papa-m, m-ap di-l : Papa, mouin fè péché kont sièl la ak dévan-ou : mouin pa mérité ankò pou yo rélé-m pitit ou : trété-m tankou youn nan jounalié-ou yo‖. Li lévé, li vi-n jouinn papa-l.\nPandan-l té louin toujou, papa-l ouè-l, kè-l boulvèsé ak mizérikòd, li kouri, li lagé kò-l nan kou-l, li anbrasé-l. Pitit la di-l : ―Papa, mouin fè péché kont sièl la ak dévan-ou : mouin pa mérité ankò pou yo rélé-m pitit ou‖. Papa-a minm di sèvitè yo : ―Fè vit poté pi bèl rad la, abiyé-l ; mété yon bag nan min-l, ak soulié nan pié-l. Minnin toro-a yo t-ap angrésé-a, touyé-l, n-ap manjé, n-ap fété ; paské pitit mouin sa-a ki té mouri-a, li réviv, li té péri, nou jouinn li‖. Épi, yo kòmansé fété.\nMin pi gran pitit li-a té nan jadin, lè-l rivé li proché bò kay la, li tandé chanté-dansé, li rélé youn nan sèvitè yo, li pozé-l késion ki kalité bagay sa yo. Sa-a minm di-l : ―Sé frè-ou la ki vini, papa-ou fè touyé toro-a yo t-ap angrésé-a, paské li jouinn pitit la an santé‖. Lòt la minm faché, li réfizé antré ; papa-l blijé soti, li kòmansé priyé-l. Li minm minm li réponn, li di papa-l : ―Min konbyin ané m-ap sèvi-ou, mouin pa janm dézobéyi yon kòmandman-ou époutan ou pa janm ban-m yon ti kabrit, pou-m fété avèk zanmi-m yo ; min pitit ou sa-a, ki fi-n dévoré éritaj li-a avèk fi mové vi, kon-l rivé, ou touyé toro yo t-ap angrésé-a, akòz li‖. Li minm li di-l : ―Pitit mouin, ou toujou avèk mouin, tou sa-m ginyin sé pou ou. Sèlman sé pou nou té fété, sé pou nou té fè kè nou kontan, paské frè-ou sa-a té mouri, li réviv, li té péri, nou jouinn li‖.\nParòl Granmèt la."
+      }
+    }
+  },
+  "dimanch": {
+    "reading_mode": "standard",
+    "title": "TOUAZIÈM SÉMÈN KARÈM – Dimanch, ané A",
+    "readings": {
+      "first_reading": {
+        "title": "Ba nou dlo pou nou bouè.",
+        "source": "Léktu liv Égzòd",
+        "reference": "17, 3-7",
+        "text": "Jou sa yo :\n   Pèp la té souaf poutèt pa-t gin dlo, li bougonnin kont Moyiz, li di :\n« Pouki sa ou té fè nou pati kité Éjip la, pou-ou touyé nou avèk pitit nou\nyo avèk bèt yo ak souaf ? » Moyiz minm rélé kot Granmèt la, li di : « Ki\nsa-ou fè pèp sa-a ? yon ti kras ankò épi l-ap kalonnin-m ».\n   Granmèt la di Moyiz : « Pran dévan pèp la, pran nan ansyin Israèl yo\navèk ou, ni baton-an, sa-ou té frapé riviè-a, pran-l nan min-ou, épi alé.\nMin m-ap kanpé laba-a dévan-ou sou ròch Orèb la ; ou-ap frapé ròch la,\ndlo ap soti ladan-l, pou pèp la bouè ».\n   Moyiz fè konsa dévan ansyin Israèl yo.\n   Yo rélé non koté sa-a « Tantasion » poutèt kont pitit Israèl yo, épi\npaské yo té tanté Granmèt la, yo t-ap di : « Èské Granmèt la nan mitan\nnou oubyin non ? »\n   Paròl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 94, 1-2. 6-7. 8-9 ( : 8)",
+        "verses": [1, 2, 6, 7, 8, 9],
+        "refrain": "Si jodi-a nou té kapab kouté voua Granmèt la : « Pa fèmin kè nou ».",
+        "text": [
+          "Vini, an nou fété pou Granmèt la ;\n  an nou fè fèt pou Bondié sovè nou-an.",
+          "An nou proché dévan fas li avèk louanj,\n  avèk kantik, an nou fè fèt pou li.",
+          "Vini, an nou adoré-l, an nou bésé atè,\n  an nou ajénou dévan Granmèt la ki fè nou-an,",
+          "paské sé li minm ki Bondié nou,\n  nou sé pèp pak li ak mouton min-l.",
+          "Si jodi-a nou té kapab tandé voua-l :\n  « Pa fèmin kè nou,",
+          "tankou nan Mériba, dapré jou Masa nan dézè-a,\n   koté zansèt nou yo té tanté-m nan ;\n   yo té chèché-m kont, malgré yo té ouè travay mouin yo »."
+        ]
+      },
+      "second_reading": {
+        "title": "Rinmin-an vidé nan nou gras a Éspri-a yo ba nou-an.",
+        "source": "Léktu lèt apot sin Pòl pou Romin yo",
+        "reference": "5, 1-2. 5-8",
+        "text": "Frè-m yo :\n   Kòm nou vi-n kòrèk gras a lafoua-a, sé pou nou gin lapè k-ap fè nou\nproché kot Bondié pa lintèmédiè Granmèt nou Jézu-Kri, sé pa lintèmédiè-l\ntou nou gin posibilité proché nan gras sa-a pa lintèmédiè lafoua-a, gras\nsa-a ki pèmèt nou jouinn konsidérasion nou, antan n-ap éspéré gloua pitit\nBondié yo.\n   Éspérans la minm pa fè nou ront, paské rinmin Bondié-a vidé nan kè\nnou pa lintèmédiè Éspri Sin-an yo ba nou-an. Réyèlman, Kris la, sé antan\nnou té fèb ankò-a, dapré tan-an li mouri pou péchè yo. Apèn yon moun\nkapab aksépté mouri pou yon lòt ki kòrèk ; sèké pou yon moun débyin,\npètèt yon moun t-a riské mouri ? Min Bondié montré jan-l rinmin nou,\npaské, malgré sé péchè nou té yé, Jézu-Kri mouri pou nou nan tan fiksé-a.\n   Paròl Granmèt la."
+      },
+      "gospel": {
+        "title": "Sous dlo k-ap vòltijé pou lavi ki pap janm fini-an.",
+        "source": "Léktu sint Évanjil la dapré Jan",
+        "reference": "4, 5-42",
+        "text": "Lè sa-a :\n    Jézu rivé nan vil Samari-a, sa yo rélé Sikar la, tou pré propriété-a\nJakòb té bay Jozèf pitit li-a. Té gin pui Jakòb la koté sa-a. Jézu minm\nfatigé ak rout la, li té chita konsa sou bò pui-a. Sé té apéprè midi.\n    Yon madanm Samari vi-n pou tiré dlo. Jézu di-l : « Ban-mouin\nbouè ». Disip li yo té pati nan vil la, pou yo achté manjé.\n    Madanm Samaritèn nan di-l konsa : « Kijan ou minm ki Juif, ou kapab\nmandé-m bouè, mouin minm yon madanm Samaritèn ? » Réyèlman Juif\nyo pa frékanté Samaritin yo.\n    Jézu réponn, li di-l : « Si-ou té konn kado Bondié-a épi kilès k-ap di-\nou : ―Ban-m bouè‖-a sé ou minm ki t-a mandé-l, épi li t-a ba-ou dlo\nvivan-an ».\n    Madanm nan di-l : « Mèt, ou pa minm gin dékoua pou-ou tiré dlo, épi\npui-a fon ; koté ou kapab jouinn dlo vivan-an ? Èské ou pi gran pasé\nJakòb papa nou-an, ki té ba nou pui-a, épi li té bouè ladan-l, ni pitit li yo\nni bèt li yo ? »\n    Jézu réponn, li di-l : « Tout moun ki bouè nan dlo sa-a l-ap souaf\nankò ; min moun ki bouè nan dlo m-ap ba li-a, li pap souaf pou tout tan ;\nmin dlo m-ap ba li-a, l-ap vi-n tounin yon sous dlo nan li, k-ap jayi pou\nlavi tout tan-an ».\n    Madanm nan di-l : « Mèt, ban-m dlo sa-a, pou-m pa souaf, ni pou-m\npa vi-n tiré dlo isit la ».\n    Jézu di-l : « Al rélé mari-ou, épi vini isit la ».\n    Madanm nan di : « Mouin pa gin mari ».\n    Jézu di-l : « Ou fè byin di : ―Mouin pa gin mari‖ ; sèké sé sink mari ou\nté ginyin, épi koulié-a, sa-a ou ginyin-an, sé pa mari-ou li yé : sa-a sé\nvérité ou di ».\n    Madanm nan di-l : « Mèt, mouin ouè sé yon profèt ou yé. Papa nou yo\nté adoré sou mòn sa-a, épi nou minm nou di sé Jéruzalèm koté pou nou\nadoré-a ».\n    Jézu di-l : « Madanm, kouè-m, lè-a rivé, sé pa ni sou mòn sa-a, ni\nJéruzalèm n-ap adoré Papa-a. Nou minm n-ap adoré sa nou pa konnin,\nnou minm minm nou adoré sa nou konnin, paské sové-a sé nan Juif yo li\nsoti. Min lè-a rivé, épi sé koulié-a, koté véritab moun k-ap adoré yo, y-ap\nadoré Papa-a nan éspri ak vérité. Réyèlman sé kalité moun sa yo Papa-a\nap chèché, pou adoré-l. Bondié sé Éspri, moun ki adoré-l yo, sé nan Éspri\nak vérité pou yo adoré ».\n    Madanm nan di-l : « Mouin konnin Mési-a ap vini, sa-a yo rélé Kris\nla ; lè-l vini, l-ap anonsé nou tout bagay ».\n    Jézu di-l : « Sé mouin minm, sa-a k-ap palé avèk ou-a ».\n    Nan vil la anpil moun té kouè nan li nan pami Samaritin yo, poutèt\nparòl madanm nan ki té sèvi témouin-an : « Li di-m tou sa-m té fè ! »\nKonsa lè yo vi-n koté-l, Samaritin yo mandé-l pou-l rété la-a. Li rété la-a\ndé jou. Gin plis moun ki kouè nan li toujou poutèt paròl li. Yo t-ap di\nmadanm nan : « Koulié-a sé pa poutèt paròl ou nou kouè ankò ; sèké nou\ntandé-l li minm, épi nou konnin sa-a sé Sovè tè-a tout bon vré ».\n    Paròl Granmèt la."
+      }
+    }
+  },
+  "lindi": {
+    "reading_mode": "standard",
+    "title": "TOUAZIÈM SÉMÈN KARÈM – Lindi",
+    "readings": {
+      "first_reading": {
+        "title": "Té gin anpil lépré nan Israèl, pèsòn nan yo pa-t géri, sof Naaman Siryin-an (Luk 4, 27).",
+        "source": "Léktu dézièm liv Roua yo",
+        "reference": "5, 1-15 a",
+        "text": "Jou sa yo :\n    Naaman, chèf lamé roua Siri-a, sé té yon mésié ki té gin gran plas kay\nmèt li, li té gin gro grad : sèké sé pa lintèmédiè-l Granmèt la té sové Siri ;\nsé té yon mésié ki té gin pouvoua, ki té rich, min li té lépré.\n    Yon lè, gin bandi ki soti Siri, yo mét min sou yon ti fi nan péyi Israèl\nla, ti fi-a vi-n nan sèvis madanm Naaman. Li di métrès li : « Pa pito mèt\nmouin t-al kot profèt ki Samari-a ! Sètènman li t-ap géri-l sot nan lalèp li\nginyin-an ».\n    Konsa Naaman antré kay mèt li, li ba-l nouvèl, li di : « Sé tèl jan ak tèl\nmaniè ti fi péyi Israèl la palé ak mouin ».\n    Roua Siri-a di-l : « Alé, m-ap voyé lèt bay roua Israèl la ».\n    Li pati, li pran dis piès lajan avèk li, ak simil piès lò ak dis bèl rad, li\nrinmèt roua Israèl la lèt yo, min paròl lèt yo : « Lè ou-ap résévoua lèt sa-\na, ou-a konnin mouin voyé Naaman sèvitè-m nan koté-ou pou -ou géri-l\nsot nan maladi lalèp li-a ».\n    Lè roua Israèl la li lèt yo, li chiré rad li, li di : « Èské sé Bondié mouin\nyé, pou-m kapab touyé, pou-m kapab bay lavi, ki fè sa-a voyé koté-m\nnan, pou-m géri yon moun sot nan lalèp li-a : konsidéré sa pou nou ouè si\nsé pa okazion l-ap chèché pou-l fè kont avèk mouin ».\n    Lè Élizé, moun Bondié-a, tandé roua-a té chiré rad li, li voyé koté-l, li\ndi : « Pouki sa ou chiré rad ou-a ? Sé pou-l vi-n koté-m épi l-a konnin gin\nyon profèt nan Israèl ».\n    Konsa Naaman rivé ak choual li, ak karòs li, li kanpé dévan pòt kay\nÉlizé. Élizé voyé yon mésajé koté-l pou-l di : « Al lavé kò-ou sèt foua\nnan Joudin-an, chè-ou ap rékòmansé jouinn santé, ou-ap géri ».\n    Naaman faché li kòmansé rékilé pou-l al fè rout li, li di : « Mouin té\npansé li t-ap soti vi-n jouinn mouin, li t-ap kanpé pou-l rélé non Granmèt\nBondié-l la, li t-ap touché koté-m gin lalèp la ak min-l li t-ap géri-m.\nÈské gran riviè Damas yo Abana ak Farfar pa pi bon pasé tout dlo Israèl\nyo, pou-m t-a lavé kò-m nan yo, pou-m t-a géri ? »\n    Kòm li t-ap viré pou-l al fè rout li byin faché, sèvitè-l yo proché koté-\nl, yo di-l : « Papa, si sé yon gran bagay profèt la té di-ou, sètènman ou t-\nap fè-l ; ou gin plis rézon pou-ou fè sa-l di-ou koulié-a : ―Lavé kò-ou, ou-\nap géri‖ ».\n    Li désann, li lavé kò-l nan Joudin-an sèt foua dapré paròl moun\nBondié-a, chè-l vi-n an santé tankou chè yon timoun piti, li géri.\n    Li tounin kot moun Bondié-a ansanm ak tout group li-a, li rivé, li\nkanpé dévan-l, li di : « Réyèlman, mouin konnin pa gin dòt Bondié sou\ntout tè-a, sof nan Israèl. Mouin priyé-ou pou-ou résévoua bénédiksion\nnan min sèvitè-ou la ».\n    Paròl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 41, 2. 3 ; Ps 42, 3. 4 ( : Ps 41, 3)",
+        "verses": [2, 3, 3, 4],
+        "refrain": "Nanm mouin souaf kot Bondié vivan-an ; kilè m-ap parèt dévan fas Bondié ?",
+        "text": [
+          "Tankou yon sèrf anvi al nan sous dlo yo,\n  konsa nanm mouin anvi al koté-ou, Bondié.",
+          "Nanm mouin souaf Bondié, Bondié vivan-an ;\n  kilè m-apral parèt dévan fas Bondié ?",
+          "Voyé limiè-ou la ak vérité-ou la, pou yo kondui-m,\n  pou yo minnin-m sou mòn ou-a ki sin-an, ak nan tant ou-a.",
+          "M-ap antré kot lotèl Bondié-a,\n  kot Bondié kè kontan mouin-an.\n  M-ap fè louanj ou sou gita, Bondié, Bondié-m."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Tankou Éli ak Élizé, sé pa pou Juif yo sèlman yo té voyé Jézu.",
+        "source": "Léktu sint Évanjil la dapré Luk",
+        "reference": "4, 24-30",
+        "text": "Lè Jézu rivé Nazarèt, li di pèp la nan sinagòg la :\n    « Amèn mouin di nou, okinn profèt pa jouinn moun lakay li résévoua-\nl byin.\n    Sé vérité mouin di nou, té gin anpil vèv sou tan Éli nan Israèl, lè sièl la\nté fèmin pandan touazan ak si moua-a, lè té gin gro grangou sou tout tè-\na ; min sé pa kot youn nan yo yo té voyé Éli, sof kot vèv la nan Sarépta\nSidon-an. Té gin anpil lépré nan Israèl sou tan profèt Élizé ; youn nan yo\npa-t géri, sof Naaman Siryin-an ».\n    Tout moun nan sinagòg la plin ak kòlè, lè yo tandé sa. Yo lévé, yo\nchasé-l sot nan vil la ; yo kondui-l sou tèt mòn nan, koté vil yo té bati-a,\npou yo jété-l anba. Li minm minm, li pasé nan mitan yo, l-al fè rout li.\n    Paròl Granmèt la."
+      }
+    }
+  },
+  "madi": {
+    "reading_mode": "standard",
+    "title": "TOUAZIÈM SÉMÈN KARÈM – Madi",
+    "readings": {
+      "first_reading": {
+        "title": "Ak kè nou krazé, ak éspri nou rabésé, ou-ap résévoua nou.",
+        "source": "Léktu liv profèt Danièl",
+        "reference": "3, 25. 34-43",
+        "text": "Jou sa yo :\n    Azarias kanpé, li priyé konsa : li louvri bouch li nan mitan difé-a, li\ndi :\n    « Tanpri, pa lagé nou pou tout tan poutèt non-ou, pa kasé téstaman-ou\nnan, pa ouété mizérikòd ou-a sot nan nou, poutèt Abraam, sa-a ou\nrinmin-an, ak Izaak sèvitè-ou la, ak Israèl sin-ou nan, yo minm ou palé ak\nyo-a, antan-ou té promèt ou t-ap fè ras yo vi-n anpil tankou zétoual sièl la\nak tankou sab ki sou bò lanmè-a.\n   Sèké, Granmèt, nou vi-n pi piti pasé tout nasion yo, nou vi-n rabésé\nsou tout tè-a jodi-a poutèt péché nou yo, nan tan sa-a pa gin roua ni chèf\nni profèt, ni sakrifis antié, ni sakrifis, ni kado, ni lansan, ni koté pou yo\nofri prémié foui dévan-ou, pou nou kapab jouinn mizérikòd ou.\n   Min ak kè nou krazé, ak éspri nou rabésé ou-ap résévoua nou ; tankou\nak sakrifis antié bouk ak toro, ak tankou avèk mil mouton gra, sé konsa\npou sakrifis nou-an yé jodi-a dévan-ou, pou-l fè-ou plézi, paské pa gin\nront pou moun ki mét konfians nan ou.\n   Koulié-a n-ap suiv ou ak tout kè nou, n-ap krinn ou, n-ap chèché fas\nou. Pa fè nou ront, min aji avèk nou dapré bon kè-ou, dapré tout pakèt\nmizérikòd ou, délivré nou, ak mèvèy ou yo, fè ouè gloua non-ou,\nGranmèt ».\n   Paròl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 24, 4 b c-5 ab. 6-7 bc. 8-9 ( : 6 a)",
+        "verses": [4, 5, 6, 7, 9, 9],
+        "refrain": "Sonjé mizérikòd ou yo, Granmèt ;",
+        "text": [
+          "Chémin-ou yo, Granmèt, montré-m yo,\n  santié-ou yo, aprann mouin yo.",
+          "Dirijé-m nan vérité-ou la, ban-m léson,\n  paské ou sé Bondié sovè mouin.",
+          "Sonjé bon kè-ou, Granmèt,\n  ak mizérikòd ou, paské sé dépi tout tan yo égzisté.",
+          "Dapré mizérikòd ou, sonjé-m,\n  poutèt bon kè-ou, Granmèt.",
+          "Granmèt la bon, li kòrèk,\n  poutèt sa, li aprann péchè yo chémin-l",
+          "l-ap dirijé moun ki dosil yo nan jijman-an,\n  l-ap aprann moun ki dou yo chémin-l yo."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Si nou chak pa padonnin frè-l, Papa nou pap padonnin nou tou.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "18, 21-35",
+        "text": "Lè sa-a :\n   Piè proché kot Jézu, li di : « Granmèt, konbyin foua pou frè-m fè\npéché kont mouin, pou-m padonnin-l ? Èské sé sèt foua ? »\n   Jézu di-l : « Mouin pa di-ou jouska sèt foua, min jouska souasant-dis\nfoua sèt foua.\n   Sé pousa péyi roua sièl la sanblé ak yon roua ki té vlé réglé avèk\nsèvitè-l yo. Lè-l kòmansé réglé sa yo té doué-l, yo minnin youn ba li ki té\ndoué-l di-mil piès lajan. Kòm li pa-t gin dékoua pou-l té rinmèt, mèt li\npasé lòd pou yo vann li ansanm ak madanm li ak pitit li yo ak tou sa-l té\nginyin, pou-l kapab rinmèt.\n   Sèvitè-a lagé kò-l atè, li priyé-l, li di : ―Pran pasians avèk mouin, m-ap\nrinmèt ou tout bagay‖. Mèt sèvitè sa-a pran pitié pou li, li lagé-l, li éfasé\ndèt la pou li.\n   Min sèvitè sa-a soti, li jouinn youn nan sèvitè parèy li yo, ki té doué-l\nsan piès lajan ; li kinbé-l pou-l toufé-l, li di : ―Rinmèt sa-ou doué‖. Lòt\nsèvitè-a lagé kò-l atè, li priyé-l, li di : ―Pran pasians avèk mouin, m-ap\nrinmèt ou tout bagay‖. Li minm minm li pa vlé, li pati, li voyé mété-l nan\nprizon, joustan li rinmèt dèt li.\n   Lè lòt sèvitè yo ouè sa-k pasé, yo pran lapinn anpil : yo rivé, yo\nrakonté mèt li tou sa-k té rivé.\n   Lè sa-a atò, mèt li rélé-l, li di-l : ―Mové sèvitè, tout dèt ou, mouin té\néfasé-l pou ou, paské ou té priyé-m ; èské ou pa-t doué pran pitié pou\nsèvitè parèy ou-a, minm jan mouin minm mouin té pran pitié pou ou-a ?‖\nMèt li faché, li rinmèt li nan min gad yo, joustan li rinmèt tout dèt li.\n   Sé konsa Papa-m ki nan sièl la ap fè nou, si nou chak nou pa padonnin\nfrè nou ak tout kè nou ».\n   Paròl Granmèt la."
+      }
+    }
+  },
+  "mekredi": {
+    "reading_mode": "standard",
+    "title": "TOUAZIÈM SÉMÈN KARÈM – Mèkrédi",
+    "readings": {
+      "first_reading": {
+        "title": "N-a obsèvé kòmandman yo, n-a réalizé yo nan aksion nou.",
+        "source": "Léktu liv Détéronòm",
+        "reference": "4, 1. 5-9",
+        "text": "Moyiz palé ak pèp la, li di :\n   « Koulié-a, Israèl, kouté kòmandman ak jijman, sa m-ap aprann ou,\npou-ou réalizé, pou-ou kapab viv, pou-ou kapab antré nan péyi-a, pou-ou\nposédé-l, sa Granmèt Bondié papa-ou yo ap ba ou-a.\n   Nou konnin mouin aprann nou kòmandman avèk jistis ; jan Granmèt\nBondié-m nan té kòmandé-m nan, sé konsa pou nou aji nan péyi-a n-\napral posédé-a ; n-ap obsèvé yo, n-a réalizé yo nan aksion nou. Sa-a sé\nsajès nou ak intélijans nou dévan pèp yo, pou lè yo tandé tout kalité\nkòmandman sa yo, yo di : ―Min yon pèp ki gin sajès, ki intélijan, yon\ngran nasion‖ !\n   Pa gin yon lòt nasion ki tèlman gran, ki kapab gin dié yo pré-l, tankou\nBondié nou-an prézan pou nou tout k-ap priyé-l. Kilès lòt nasion ki\ntèlman gran pou-l gin sérémoni ak jijman kòrèk ak tout laloua-a, sa-m\nprézanté jodi-a dévan jé nou-an ?\n   Konsa sé pou-ou kinbé pròp tèt ou, sé pou-ou véyé sou nanm ou. Pa\nbliyé paròl yo, sa jé-ou ouè yo, yo pa doué sot nan kè-ou pandan tout tan\nou-ap viv. Ou-a aprann pitit ou yo sa ni névé-ou yo ».\n   Paròl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 147, 12-13. 15-16. 19-20 ( : 12 a)",
+        "verses": [12, 13, 15, 16, 19, 20],
+        "refrain": "Fè louanj Granmèt la, Jéruzalèm.",
+        "text": [
+          "Fè louanj Granmèt la, Jéruzalèm ;\n   fè louanj Bondié-ou, Siyon.",
+          "Paské li ranfòsé krochèt pòtay ou yo,\n   li béni pitit ou yo anndan-ou.",
+          "Li minm ki voyé promès li sou tè-a,\n   avèk vitès paròl li-a kouri.",
+          "Li minm ki bay lanèj tankou linn,\n   li simin larouzé tankou sann.",
+          "Li minm ki anonsé paròl li bay Jakòb,\n   jistis li ak jijman-l bay Israèl.",
+          "Li pa aji konsa avèk tout nasion,\n   li pa montré yo jijman-l yo."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Moun ki fè épi ki anségné, y-ap rélé-l gran.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "5, 17-19",
+        "text": "Lè sa-a : Jézu di disip li yo :\n   « Pa konprann mouin vini pou-m défèt Laloua-a oubyin Profèt yo :\nmouin pa vi-n pou-m défèt, min pou-m akonpli. Amèn mouin di nou sa,\njoustan sièl la ak tè-a pasé, yon ti i oubyin yon ti trè pap pasé sot nan\nLaloua-a, joustan tout bagay réalizé.\n   Konsa moun k-ap défèt youn nan pi piti kòmandman sa yo, épi k-ap\naprann lézòm fè minm jan, y-ap rélé-l pi piti nan péyi roua sièl yo ; min\nmoun k-ap fè épi k-ap anségné y-ap rélé-l gran nan péyi roua sièl yo ».\n   Paròl Granmèt la."
+      }
+    }
+  },
+  "jedi": {
+    "reading_mode": "standard",
+    "title": "TOUAZIÈM SÉMÈN KARÈM – Jédi",
+    "readings": {
+      "first_reading": {
+        "title": "Sa-a sé yon nasion ki pa kouté voua Granmèt Bondié-l la.",
+        "source": "Léktu liv profèt Jérémi",
+        "reference": "7, 23-28",
+        "text": "Min paròl Granmèt la :\n  « Mouin té pasé yo lòd dapré paròl sa-a, mouin té di : ―Sé pou nou\nkouté voua-m, m-ap Bondié pou nou, n-ap pèp pou mouin ; sé pou nou\nmaché nan tout chémin m-ap kòmandé nou, pou sa kapab bon pou nou‖.\n   Min yo pa kouté, yo pa panché zòrèy yo, min yo pati dapré volonté\nyo, dapré mové panchan kè yo, yo rékilé, yo pa avansé, dépi jou mouin té\nfè papa yo sòti nan péyi Éjip la jous jodi-a.\n   Mouin voyé tout sèvitè-m yo, profèt yo, koté nou, mouin lévé byin\nbonè chak jou, mouin voyé yo ; min yo pa kouté-m, yo pa panché zòrèy\nyo, okontrè yo fè kou yo vi-n rèd, yo aji pi mal pasé papa yo.\n   Ou-a di yo tout paròl sa yo, yo pap kouté-ou. Ou-ap rélé yo, yo pap\nréponn ou. Ou-ap di yo : ―Sa-a sé yon nasion ki pa kouté voua Granmèt\nBondié-l la, ki pa résévoua édikasion. Lafoua-a péri, li soti sot nan bouch\nyo‖ ».\n   Paròl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 94, 1-2. 6-7. 8-9 ( : 8)",
+        "verses": [1, 2, 6, 7, 8, 9],
+        "refrain": "Si jodi-a, nou té kapab kouté voua Granmèt la : « Pa fèmin kè nou ».",
+        "text": [
+          "Vini, an nou fété pou Granmèt la ;\n  an nou fè fèt pou Bondié sovè nou-an.",
+          "An nou proché dévan fas li avèk louanj,\n  avèk Psòm an nou fè fèt pou li.",
+          "Vini, an nou adoré-l, an nou bésé atè,\n  an nou mét jénou atè dévan Granmèt la ki fè nou,",
+          "paské sé li minm ki Bondié nou,\n  nou minm nou sé pèp pak li, mouton min-l.",
+          "Jodi-a si nou té kapab kouté voua-l :\n  « Pa fèmin kè nou,",
+          "tankou nan Mériba dapré jou Masa nan dézè-a,\n  koté papa nou yo té tanté-m nan,\n  yo té sondé-m, malgré yo té ouè travay mouin »."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Moun ki pa avèk mouin, li kont mouin.",
+        "source": "Léktu sint Évanjil la dapré Luk",
+        "reference": "11, 14-23",
+        "text": "Lè sa-a :\n    Jézu t-ap chasé démon, démon-an té baba. Kon-l fi-n chasé démon-an,\nbaba-a palé, foul yo té sézi. Kèk moun nan yo t-ap di : « Sé pa pouvoua\nBélzéboub, chèf démon yo, l-ap chasé démon yo ». Dòt minm t-ap sondé-\nl, yo t-ap mandé-l yon sign ki sot nan sièl la.\n    Li minm, kòm li té ouè pansé yo, li di yo : « Tout péyi roua ki an\ndézakò sou pa anndan, l-ap vi-n tounin yon dézè, kay ap tonbé sou kay.\nKonsa si Satan an dézakò sou pa anndan, kijan péyi roua li ap fè kanpé ?\npaské nou di sé pa pouvoua Bélzéboub m-ap chasé démon yo. Si mouin\nminm sé pa pouvoua Bélzéboub m-ap chasé démon yo, pitit nou yo minm\npa pouvoua kilès y-ap chasé yo ? Sé pousa sé yo minm k-ap jijé nou. Min\nsi sé pa pouvoua douèt Bondié m-ap chasé démon yo, sèké péyi roua\nBondié-a tou rivé sou nou.\n    Lè yon moun byin amé, l-ap gadé lakou-l, tou sa-l posédé, yo asiré.\nMin si yon moun ki pi fò pasé-l vi-n rivé, épi li ranpòté viktoua sou li, li\npran tout zam yo koté li té mété konfians li-a, épi li séparé sa-l pran yo.\n    Moun ki pa avèk mouin, li kont mouin, moun ki pa ranmasé avèk\nmouin, l-ap gayé ».\n    Paròl Granmèt la."
+      }
+    }
+  },
+  "vandredi": {
+    "reading_mode": "standard",
+    "title": "TOUAZIÈM SÉMÈN KARÈM – Vandrédi",
+    "readings": {
+      "first_reading": {
+        "title": "Nou pap rélé travay min nou « Bondié nou » ankò.",
+        "source": "Léktu liv profèt Ozé",
+        "reference": "14, 2-10",
+        "text": "Min paròl Granmèt la :\n   « Israèl, tounin vi-n jouinn Granmèt Bondié-ou la, paské ou tonbé nan\npéché-ou. Pran paròl avèk nou, tounin vi-n jouinn Granmèt la, di-l :\n―Ouété tout péché nou, pran byin-an, n-ap ofri sakrifis bouch nou. Asiri\npap sové nou, nou pap monté sou choual ankò, paské sa-a ki nan ou-a,\nou-ap pran pitié pou li, òfélin-an‖.\n   M-ap géri yo pou yo sispann viré do ban mouin, m-ap rinmin yo ak\ntout élan kè-m, paské kòlè-m viré kité yo ; m-ap tankou larouzé, Israèl ap\njèmin tankou pié lis, rasi-n li ap éklaté tankou Liban. Ramo-l yo ap kouri,\ngloua li ap tankou pié oliv, odè-l ap tankou Liban.\n   Y-ap tounin vi-n chita anba lonbraj li, y-ap viv ak blé, y-ap jèmin\ntankou pié rézin ; souvni-l ap tankou divin Liban. Éfrayim, sa pou-m fè\navèk zidòl yo ankò ? M-ap kouté, m-ap rinmin-l tankou yon pié bouapin\nki byin vèt, sé nan mouin foui-ou ap soti ».\n   Paròl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 80, 6 c-8 a. 8 bc-9. 10-11 ab. 14 é 17 ( : cf. 11 é 9 a)",
+        "verses": [6, 7, 8, 9, 10, 11, 14, 17],
+        "refrain": "Sé mouin minm Granmèt Bondié-ou : kouté voua-m.",
+        "text": [
+          "Paròl mouin pa-t konnin, mouin tandé.",
+          "Mouin ouété do-l sot anba chaj yo,\n   min-l kité kòbèy la.",
+          "Nan tray la, ou rélé-m, mouin délivré-ou.\n   Mouin réponn ou nan kachèt toubiyon-an,\n   mouin sondé-ou bò dlo Mériba-a.",
+          "Kouté, pèp mouin, m-ap pozé-ou késion,\n   Israèl, pa pito-ou kouté-m.",
+          "Pap gin dié étranjé nan ou,\n   ni ou pap adoré dié étranjé.",
+          "Sé mouin minm ki Granmèt Bondié-ou,\n   ki té fè-ou soti nan péyi Éjip la.",
+          "Si pèp mouin-an té kouté-m,\n   si Israèl té maché nan chémin-m yo,",
+          "mouin t-a fè yo manjé nan blé ki gra,\n   mouin t-a plin vant yo ak mièl ròch la."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Granmèt Bondié-ou la sé yon sèl Bondié, sé pou-ou rinmin-l.",
+        "source": "Léktu sint Évanjil la dapré Mark",
+        "reference": "12, 28 b-34",
+        "text": "Lè sa-a :\n   Youn nan skrib yo proché kot Jézu, li pozé-l késion kilès ki prémié\nnan tout kòmandman yo.\n   Jézu minm réponn li : « Prémié kòmandman-an, sé : ―Kouté, Israèl :\nGranmèt Bondié-ou la sé yon sèl Bondié-a ; sé pou-ou rinmin Granmèt\nBondié-ou la ak tout kè-ou, ak tout nanm ou, ak tout éspri-ou, ak tout fòs\nou‖. Sa-a sé prémié kòmandman-an. Dézièm nan minm sanblé ak li : ―Sé\npou-ou rinmin prochin-ou tankou ou minm‖. Pa gin lòt kòmandman ki pi\ngran pasé sa yo ».\n   Skrib la di-l : « Sé byin, Mèt, ou palé vérité, sèké sé yon sèl la ki\nBondié, pa gin dòt sof li minm ; rinmin-l ak tout kè, ak tout intélijans, ak\ntout nanm, ak tout fòs ; épi rinmin prochin-an tankou pròp tèt nou, sa pi\ngran pasé tout sakrifis antié ak tout sakrifis ».\n   Jézu minm ouè li té réponn avèk sajès, li di-l : « Ou pa louin péyi-roua\nBondié-a ». Pèsòn pa-t ozé pozé-l késion ankò.\n   Paròl Granmèt la."
+      }
+    }
+  },
+  "samedi": {
+    "reading_mode": "standard",
+    "title": "TOUAZIÈM SÉMÈN KARÈM – Samdi",
+    "readings": {
+      "first_reading": {
+        "title": "Sé mizérikòd mouin vlé, sé pa sakrifis.",
+        "source": "Léktu liv profèt Ozé",
+        "reference": "6, 1-6",
+        "text": "Vini, an nou tounin kot Granmèt la, paské sé li minm ki chiré, l-ap géri\nnou, li frapé, l-ap souin nou. L-ap fè nou viv apré dé jou, sou touazièm jou-\na l-ap fè nou lévé, n-ap viv dévan fas li. N-ap chèché konprann, n-ap suiv\nchémin pou nou konnin Granmèt la. Sèké sòti-l préparé tankou dévan-\njou, l-ap vini sou nou tankou lapli sézon, tankou sérin sou tè-a.\n   « Sa pou-m fè-ou, Éfrayim ? sa pou-m fè-ou, Juda ? Mizérikòd nou\ntankou niaj matin, tankou larouzé k-ap pasé nan matin. Sé pousa mouin\nté rétranché nan profèt yo, mouin té touyé yo nan paròl bouch mouin,\njistis ou ap soti tankou limiè. Sèké sé mizérikòd mouin vlé, sé pa\nsakrifis : sé konésans Bondié plis pasé sakrifis antié ».\n   Paròl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 50, 3-4. 18-19. 20-21 ab ( : Oz 6, 6)",
+        "verses": [3, 4, 18, 19, 20, 21],
+        "refrain": "Sé mizérikòd mouin vlé, sé pa sakrifis.",
+        "text": [
+          "Pitié pou mouin, Bondié, dapré mizérikòd ou-a ;\n  dapré jan-ou gin mizérikòd,\n  éfasé fot nou-an.",
+          "Lavé-m byin lavé sot nan fot mouin-an,\n  pròpté-m sot nan péché-m nan.",
+          "Sèké ou pap pran plézi nan sakrifis,\n  sakrifis antié, si-m ofri-l, li pap fè-ou plézi.",
+          "Sakrifis pou Bondié, sé yon éspri ki krazé,\n  yon kè ki krazé, ki rabésé, Bondié pap méprizé-l.",
+          "Aji ak bon kè pou Siyon, Granmèt nan bòn volonté-ou\n  pou miray Jéruzalèm yo kapab rébati.",
+          "Lè sa-a ou-a aksépté sakrifis jistis,\n  kado avèk sakrifis antié."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Piblikin-an désann an règ lakay li, min pa farizyin-an.",
+        "source": "Léktu sint Évanjil la dapré Luk",
+        "reference": "18, 9-14",
+        "text": "Lè sa-a :\n   Té gin kèk moun ki té mét konfians yo nan yo minm kòm si sé yo\nminm ki kòrèk, yo t-ap méprizé lòt yo, Jézu di parabòl sa-a pou yo :\n    « Dé moun té monté nan tanp la pou yo priyé : youn té Farizyin, lòt la\nté piblikin. Farizyin-an kanpé la, l-ap priyé anndan kè-l : ―Bondié, mouin\ndi-ou mèsi, paské mouin pa tankou rès moun yo, yo vòlè, yo adiltè,\noubyin minm tankou piblikin sa-a. Mouin fè jèn dé foua chak sémèn,\nmouin bay dizièm pati nan tou sa-m ginyin‖.\n    Piblikin-an minm kanpé byin louin, li pa-t vlé lévé jé-l nan sièl la, min\nli t-ap frapé léstomak li li t-ap di : ―Bondié, pitié pou mouin, mouin sé\npéchè‖.\n    Mouin di nou, sa-a désann lakay li an règ plis pasé lòt la, paské tout\nmoun ki lévé tèt li, y-ap fè-l bésé-l, moun ki bésé tèt li, y-ap fè-l lévé-l ».\n    Paròl Granmèt la."
+      }
+    }
+  },
+  "dimanche_quatrieme_semaine": {
+  "reading_mode": "standard",
+  "title": "KATRIYÈM SÉMÈN KARÈM – Dimanch, Année A",
+  "readings": {
+    "first_reading": {
+      "title": "Yo sakré David kòm roua sou Israèl.",
+      "source": "Léktu prémié liv Samuèl",
+      "reference": "16, 1 b. 6-7. 10-13 a",
+      "text": "Jou sa yo :\n    Granmèt la di Samuèl : « Plin kòn ou-an ak luil, épi vini, pou-m voyé-\nou kot Jésé moun Bétléèm nan : sèké mouin déja chouazi davans nan pitit\nli yo yon roua pou mouin ».\n    Lè-l antré, li ouè Éliab, li di : « Èské kris Granmèt la pa dévan-l ? »\nGranmèt la di Samuèl : « Pa gadé fas li, ni rotè tay li, paské mouin réjté-\nl ; sé pa dapré konsidérasion lézòm mouin jijé : moun ouè sa-k sou déyò,\nGranmèt la minm konsidéré kè-a ».\n    Konsa Jésé minnin sèt pitit li yo dévan Samuèl, Samuèl di Jésé :\n« Granmèt la pa chouazi okinn nan sa yo », Samuèl di Jésé : « Èské sé tout pitit ou yo sa ? » Li réponn : « Gin yon ti pitit ki rété ankò, l-ap gadiyin mouton yo ». Samuèl di Jésé : « Voyé chèché-l ; sèké nou pap lonjé kò nou pou nou manjé anvan li vi-n isit la ». Konsa li voyé chèché-l, li minnin-l. Li té rouj, li té gin bèl aparans ak bèl figi. Granmèt la di : « Lévé, sakré-l : sé li minm minm ».\n    Konsa Samuèl pran kòn luil la, li sakré-l nan mitan frè-l yo ; éspri Granmèt la rivé tou douat nan David dépi jou sa-a pou jous apré.\n    Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 22, 1-3 a. 3 b-4. 5. 6 ( : 1)",
+      "verses": [1, 2, 3, 4, 5, 6],
+      "refrain": "Granmèt la ap souin-m, mouin pap manké anyin.",
+      "text": [
+        "Granmèt la ap souin-m, mouin pap manké anyin :\n  nan zèb vèt li instalé-m, sou dlo kalm li kondui-m,\n  li réfè nanm mouin.\n  Li minnin-m sou santié jistis poutèt non-l.",
+        "Sèké si m-ap maché nan tè fon lonbraj lanmò,\n  mouin pap pè malè, paské ou avèk mouin.\n  Baton-ou ak bagèt ou\n  sé yo k-ap konsolé-m.",
+        "Ou paré tab dévan-m\n  an fas sa yo k-ap fè-m pasé tray la ;\n  ou anbomé tèt mouin ak losion,\n  kalis mouin ap débòdé.",
+        "Réyèlman sé bon kè ak mizérikòd k-ap rapousuiv mouin\n  tou léjou lavi-m,\n  m-ap abité nan kay Granmèt la\n  pou longè jou yo."
+      ]
+    },
+    "second_reading": {
+      "title": "Lévé sot nan pami mò yo, Kris la ap kléré-ou.",
+      "source": "Léktu lèt apot sin Pòl pou Éfézyin yo",
+      "reference": "5, 8-14",
+      "text": "Frè-m yo :\n   Lontan nou té fènoua, koulié-a minm nou sé limiè nan Granmèt la : sé pou nou maché kòm pitit limiè. Foui limiè-a li nan tout bon kè, jistis ak vérité ; sé pou nou chèché fè sa-k fè Bondié plézi. Pa patisipé nan aksion fènoua yo ki pa donnin foui yo, okontrè sé pou nou réproché yo. Sèké sa y-ap fè an kachèt yo, yo ront minm di yo. Min lè yo dénonsé tout bagay sa yo, sé nan limiè yo parèt klè, sèké tou sa-k parèt klè sé limiè li yé.\n   Sé pousa li di : « Lévé, ou minm k-ap dòmi, lévé sot nan pami mò yo, Kris la ap kléré-ou ».\n   Paròl Granmèt la."
+    },
+    "gospel": {
+      "title": "L-alé, li lavé kò-l, li vini, li ouè.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "9, 1-41",
+      "text": "Pandan Jézu ap pasé, li ouè yon moun ki avèg dépi-l té fèt. Disip li yo pozé-l késion : « Rabi, kilès ki fè péché, sa-a oubyin paran-l yo, pou-l fèt tou avèg la ? » Jézu réponn : « Ni li minm li pa fè péché, ni paran-l yo ; min sé pou travay Bondié kapab parèt klè nan li. Mouin gin pou-m réalizé travay sa-a ki voyé-m nan, toutotan li jou ; lannuit la ap rivé, koté pèsòn pa kapab travay, toutotan mouin sou tè-a, mouin sé limiè tè-a ».\n   Kon-l fi-n di sa, li kraché atè-a, li fè labou ak saliv la, li pasé labou-a sou jé-l, li di-l : « Alé, lavé kò-ou, nan basin Siloé-a », sa vlé di « Sa-a yo voyé-a ». Konsa, l-alé, li lavé kò-l, li tounin antan-l ouè. Sé pousa vouazin yo ak moun ki té konn ouè-l anvan, paské sé charité li té konn mandé, yo t-ap di : « Èské sa-a sé pa li minm ki té konn chita ap mandé-a ? » Yon pati t-ap di. « Sé li minm minm ». Lòt yo minm. « Pa ditou, min sé youn ki sanblé ak li ».\nLi minm minm li t-ap di : « Sé mouin minm minm ».\n   Yo minnin-l kot Farizyin yo, sa-a ki té avèg anvan-an. Min sé té jou saba, lè Jézu té fè labou épi li té louvri jé-l la. Konsa Farizyin yo mandé-l ankò kijan li té fè ouè-a. Li minm minm li di yo : « Sé labou li mété sou jé-m, mouin lavé kò-m, mouin ouè ».\n   Gin kèk nan Farizyin yo ki t-ap di : « Moun sa-a pa vi-n sot nan Bondié, paské li pa obsèvé saba-a ». Dòt minm t-ap di : « Kòman yon moun ki péchè kapab fè sign sa yo ? » Té gin divizion nan pami yo. Yo di avèg la ankò : « Ou minm sa-ou di osijè sa-a ki louvri jé-ou la ? » Li minm li di : « Sé yon profèt ».\n   Yo réponn, yo di-l : « Sé nan péché ou fèt toutantié, épi ou-ap anségné nou ? » Yo jété-l déyò.\n   Jézu tandé yo té jété-l déyò, lè-l jouinn li, li di-l : « Èské ou kouè nan Pitit Bondié-a ? » Li réponn, li di : « Kilès li yé, Granmèt, pou-m kouè nan li ? » Jézu di-l : « Ou ouè-l, sé li minm k-ap palé avèk ou-a ». Li minm li di : « Mouin kouè, Granmèt ». Li bésé, li adoré-l.\n   Paròl Granmèt la."
+    }
+  }
+},
+"lundi_quatrieme_semaine": {
+  "reading_mode": "standard",
+  "title": "KATRIYÈM SÉMÈN KARÈM – Lindi",
+  "readings": {
+    "first_reading": {
+      "title": "Yo pap tandé voua kriyé ak voua rèl ankò.",
+      "source": "Léktu liv profèt Izayi",
+      "reference": "65, 17-21",
+      "text": "Min paròl Granmèt la :\n   « Min m-ap krèyé sièl nouvo ak tè nouvo ; yo pap sonjé prémié yo ankò, sa pap monté sou kè-a.\n   Min n-ap kontan, n-ap fété pou tout tan nan bagay sa yo mouin kréyé-a. Sèké mouin kréyé Jéruzalèm ―Fèt‖ ak pèp li-a ―Kè kontan‖. M-ap fété nan Jéruzalèm, m-ap kontan nan pèp mouin-an. yo pap tandé voua kriyé ankò ladan-I, ni voua rèl.\n   Pap gin timoun k-ap mouri tou piti ladan-l ankò, ni granmoun ki pap fi-n rivé nan tout laj yo, paské timoun nan sé santan pou-l ginyin anvan-l mouri, moun ki pa rivé santan, sé moun madichonnin. Y-ap bati kay, y-ap abité, y-ap planté jadin rézin, y-ap manjé foui yo ».\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 29, 2 é 4. 5-6. 11-12 a é 13 b ( : 2 a)",
+      "verses": [2, 4, 5, 6, 11, 12, 13],
+      "refrain": "M-ap fè louanj ou, Granmèt, paské ou délivré-m.",
+      "text": [
+        "M-ap fè louanj ou, Granmèt, paské ou délivré-m,\n  ou pa kité ènmi-m yo pran plézi sou do-m.",
+        "Granmèt, ou rétiré nanm mouin sot anba pouvoua lanfè,\n  ou fè-m viv, pou-m pa désann nan pièj bafon-an.",
+        "Chanté pou Granmèt la,\n  sin-yo fè louanj pou souvni-l ki sin.",
+        "Sèké sé pou yon ti moman li té faché,\n  min sé pou tout lavi li rinmin.\n  Nan asouè yo rété ap kriyé, nan matin sé kè kontan.",
+        "Kouté, Granmèt, pran pitié pou mouin,\n  Granmèt, poté-m sékou.",
+        "Ou fè rèl dèy mouin-an vi-n tounin dans pou mouin.",
+        "Granmèt Bondié-m, pou tout tan m-ap fè louanj ou."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Alé, pitit ou-a ap viv.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "4, 43-54",
+      "text": "Jézu soti Samari, l-al nan Galilé. Sé Jézu li minm minm ki té asiré pa gin profèt yo résévoua byin lakay li. Lè-l rivé nan Galilé, moun Galilé yo résévoua-l byin, poutèt tou sa yo té ouè-l fè Jéruzalèm nan jou fèt la ; sèké yo minm tou yo t-al nan fèt la.\n   Konsa li tounin Kana Galilé, koté li té fè dlo-a vi-n tounin divin-an. Té gin yon ofisié roua-a, pitit li té malad Kafarnaòm. Lè-l tandé Jézu té vi-n sot Judé pou-l antré Galilé, l-al koté-l, li priyé-l pou-l désann vi-n géri pitit li-a : sèké li té prèské mouri.\n   Jézu minm di-l : « Si nou pa ouè sign ak prodij, nou pap kouè ».\n   Li di Jézu : « Granmèt, désann anvan pitit mouin-an mouri ».\n   Jézu di-l : « Alé, pitit ou-a ap viv ». Mésié-a kouè paròl Jézu té di-l la, l-alé.\n   Pandan l-ap désann, sèvitè-l yo vi-n rankontré-l yo ba-l nouvèl, yo di pitit li-a ap viv. Li mandé yo ki lè li té gin soulajman. Yo di-l : « Sé yè, a u-nè-d-laprè-midi, lafièv la kité-l ». Papa-a rékonèt sé lè sa-a minm Jézu té di-l « Pitit ou-a ap viv » ; li kouè ni li minm ni tout kay li-a.\n   Sa-a sé dézièm sign nan Jézu té fè, lè-l té rivé sot nan Judé vi-n nan Galilé-a.\n   Paròl Granmèt la."
+    }
+  }
+},
+
+"mardi_quatrieme_semaine": {
+  "reading_mode": "standard",
+  "title": "KATRIYÈM SÉMÈN KARÈM – Madi",
+  "readings": {
+    "first_reading": {
+      "title": "Mouin ouè yon dlo k-ap soti nan tanp la, tout moun dlo sa-a rivé sou yo, yo sové",
+      "source": "Léktu liv profèt Ézékièl",
+      "reference": "47, 1-9. 12",
+      "text": "Jou sa yo :\n   Anj la fè-m viré jous nan pòt kay Granmèt la, min dlo t-ap soti anba papòt la nan diréksion olévan tanp la, sèké fas kay la t-ap gadé nan diréksion olévan, dlo yo minm t-ap désann bò koté douat nan mitan lotèl la. Li fè-m soti nan chémin ki t-ap gadé nan diréksion olévan-an ; té gin dlo ki t-ap koulé anpil sot nan koté douat la.\n   Lè mésié-a soti nan diréksion olévan-an, li té gin yon mèt nan min-l, li konté sink-san mèt, li fè-m travèsé nan dlo-a, jous nan talon. Apré sa, li konté sink san mèt, li fè-m travèsé nan dlo-a jous nan jénou ; li konté sink-san épi li fè-m travèsé nan dlo-a jous nan rin. Li konté sink san, sé té yon ravi-n mouin pa-t kapab travèsé, paské dlo ravi-n fon-an t-ap bouyi, yo pa-t kapab travèsé-l. Li di-m : « Sètènman ou ouè, pitit moun ». Li kondui-m, li fè-m travèsé jous sou bò ravi-n nan.\n   Lè-m viré, mouin ouè anpil pié boua sou bò ravi-n nan, sou chak koté. Li di-m : « Dlo sa yo, k-ap soti pou y-al nan réjion olévan-an, y-ap désann nan plinn dézè-a, y-ap antré nan lanmè-a ; y-ap soti, dlo yo ap sèvi rémèd : tout bèt vivan k-ap mouvmanté, y-ap viv, tout koté ravi-n nan ap rivé, ap gin anpil pouason, lè dlo sa yo rivé koté sa-a, tout bagay koté ravi-n nan rivé-a, y-ap géri, y-ap viv.\n   Anlè ravi-n nan, sou bò-l chak bò, ap gin pié boua k-ap lévé, y-ap donnin foui ; fèy yo pap tonbé, yo pap manké foui ; chak moua l-ap donnin prémié foui, paské dlo ravi-n nan sé nan tanp la y-ap soti, foui-l yo ap sèvi manjé, fèy li yo ap sèvi rémèd ».\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 45, 2-3. 5-6. 8-9 ( : 8)",
+      "verses": [2, 3, 5, 6, 8, 9],
+      "refrain": "Granmèt lamé yo avèk nou, kachèt pou nou Bondié Jakòb la.",
+      "text": [
+        "Bondié sé yon kachèt pou nou ak fòs, sékou nou jouinn tout tan nan tray.",
+        "Sé pousa nou pa pè, pandan tè-a ap mouvmanté, pandan mòn yo ap transpòté nan kè lanmè-a.",
+        "Bò riviè-a mété kontantman nan vil Bondié-a, tant Sa-a ki anro nèt la, ki sin yo.",
+        "Bondié nan mitan-l, li pap souké ; Bondié poté-l sékou dépi granmatin.",
+        "Granmèt lamé yo avèk nou, kachèt pou nou Bondié Jakòb la.",
+        "Vini, gadé aksion Granmèt la, mèvèy li mété sou tè-a."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Minm lè-a mésié sa-a vi-n géri.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "5, 1-16",
+      "text": "Sé té yon jou fèt Juif yo, Jézu monté Jéruzalèm. Jéruzalèm gin yon basin pou mouton yo, yo rélé-l nan langaj ébré Bétsayid, li gin sink galri. Nan yo té gin yon pakèt foul moun ki té kouché, ak maladi, avèg, sa k-ap bouaté, sa-k gin min yo séché.\n   Té gin yon mésié ki té la, li té gin trantuitan nan infimité-l la. Lè Jézu ouè-l kouché, li té konnin li té gin anpil tan déja, li di-l : « Èské-ou vlé géri ? »\n   Malad la réponn li : « Granmèt, mouin pa gin pèsòn, pou voyé-m nan basin-an, lè dlo-a ap fè mouvman ; lè-m rivé, yon lòt gin tan désann anvan-m ».\n   Jézu di-l : « Lévé, pran kabann ou, épi maché ». Minm lè-a mésié sa-a vi-n géri, li pran kabann li-a, li t-ap maché.\n   Sé té yon jou saba. Juif yo di moun nan ki té géri-a : « Sé saba ; ou pa gin doua pran kabann ou ».\n   Li réponn yo : « Sa-a ki géri-m nan, sé li minm ki di-m : ―Pran kabann ou, épi maché‖ ».\n   Yo pozé-l késion : « Kilès moun sa-a ki di-ou ―Pran kabann ou, épi maché‖-a ? » Sa-a minm ki té géri-a, li pa-t konnin ki moun sa ; Jézu té ouété kò-l sot nan foul la ki té la-a.\n   Apré sa, Jézu jouinn li nan tanp la, li di-l : « Min-ou géri, pa fè péché ankò, pou pi grav domaj pa rivé-ou ». Mésié-a alé, li bay Juif yo nouvèl, li di sé Jézu ki té fè-l géri. Sé pou sa Juif yo t-ap pèsékité Jézu, paské li té fè bagay sa yo jou saba.\n   Paròl Granmèt la."
+    }
+  }
+},
+"mercredi_quatrieme_semaine": {
+  "reading_mode": "standard",
+  "title": "KATRIYÈM SÉMÈN KARÈM – Mèkrédi",
+  "readings": {
+    "first_reading": {
+      "title": "Mouin instalé-ou kòm alians pèp la, pou-ou mét péyi-a kanpé.",
+      "source": "Léktu liv profèt Izayi",
+      "reference": "49, 8-15",
+      "text": "Min sa Granmèt la di :\n    « Nan tan favè-a mouin kouté-ou, nan jou pou sové-a mouin poté-ou sékou ; mouin protéjé-ou, mouin instalé-ou kòm alians pèp la, pou-ou mét péyi-a kanpé, pou-ou posédé éritaj ki gayé yo ; pou-ou di sa yo ki nan prizon yo : ―Sòti‖, épi sa ki nan fènoua yo : ―Parèt‖.\n    Sou rout yo, y-ap jouinn manjé, nan tout plinn y-ap jouinn jadin zèb yo. Yo pap grangou, yo pap souaf, chalè solèy la pap frapé yo, paské sa-a k-ap kondui yo-a, li pran pitié, l-ap pasé souaf yo nan sous dlo yo. M-ap fè tout mòn mouin yo vi-n tounin rout, santié-m yo ap drésé.\n    Min sa yo ap vi-n sot louin, min dòt k-ap vi-n sot nan nò ak réjion lanmè-a, dòt minm ankò sot nan péyi nan-sid ». Fè louanj, sièl yo ! fété, tè-a ! fè louanj éklaté, mòn yo ! paské Granmèt la konsolé pèp li-a, l-ap pran pitié pou pòv li yo.\n    Épi Siyon t-ap di : ―Granmèt la lagé-m, Granmèt la bliyé-m‖. Èské yon madanm kapab bliyé ti pitit li, pou-l pa pran pitié pou pitit zantray li ? Minm si youn t-ap bliyé, mouin minm mouin pap bliyé-ou ! »\n    Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 144, 8-9. 13 cd-14. 17-18 ( : 8 a)",
+      "verses": [8, 9, 13, 14, 17, 18],
+      "refrain": "Granmèt la gin pitié, li gin mizérikòd.",
+      "text": [
+        "Granmèt la gin pitié, li gin mizérikòd\n   li gin pasians, li gin anpil mizérikòd.",
+        "Granmèt la bon pou tout moun,\n   li gin mizérikòd pou tou sa-l fè.",
+        "Granmèt la fidèl nan tout paròl li yo,\n   li sin nan tout aksion-l yo.",
+        "Granmèt la soulajé tout moun ki tonbé,\n   li drésé tout moun ki fébli.",
+        "Granmèt la kòrèk nan tout chémin-l yo,\n   li sin nan tout travay li yo.",
+        "Granmèt la tou pré moun k-ap rélé-l yo,\n   tout moun yo k-ap rélé-l nan vérité-a."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Minm jan Papa-a lévé mò yo, li bay lavi-a, konsa tou, moun Pitit la vlé, li ba yo lavi.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "5, 17-30",
+      "text": "Jézu réponn Juif yo : « Jouskoulié-a, Papa-m ap travay, mouin minm tou m-ap travay ».\n   Sé pou sa minm Juif yo t-ap chèché touyé-l pi plis la, paské non sèlman li té anilé saba-a, min li té déklaré Bondié sé Papa-l antan-l fè pròp tèt li vi-n égal ak Bondié.\n   Konsa, Jézu réponn, li di yo :\n   « Amèn, amèn mouin di nou, Pitit la pa kapab fè anyin ak pròp tèt li, si-l pa ouè Papa-a fè ; tou sa-l fè réyèlman, Pitit la fè yo tou. Sèké Papa-a rinmin Pitit la, li montré-l tou sa li minm li fè ; l-ap montré-l pi gran aksion pasé sa yo ankò, pou nou kapab sézi.\n   Sèké minm jan Papa-a lévé mò yo, épi li bay lavi-a, konsa tou Pitit la sé moun li vlé li bay lavi. Papa-a pa jijé pèsòn, min li rinmèt Pitit la tout jijman-an, pou tout moun onoré Pitit la minm jan yo onoré Papa-a. Moun ki pa onoré Pitit la, li pa onoré Papa-a ki voyé-l la. Amèn, amèn mouin di nou moun ki kouté paròl mouin, ki kouè sa-a ki voyé-m nan, li gin lavi tout tan-an, li pa antré nan jijman, min li travèsé sot nan lanmò al nan lavi.\n   Amèn, amèn mouin di nou, lè-a rivé, épi sé koulié-a, lè mò yo ap tandé voua Pitit Bondié-a. Moun ki tandé yo, y-ap viv. Minm jan Papa-a gin lavi nan li minm minm nan, konsa li bay Pitit la pouvoua pou-l gin lavi nan li minm, li ba-l pouvoua tou pou-l fè jijman, paské sé Pitit moun li yé.\n   Pa sézi pou sa, sèké lè-a rivé, koté tout sa ki nan kavo yo, y-ap tandé voua Pitit Bondié-a ; y-ap soti, sa-k té fè byin yo, sé pou réziréksion lavi-a, sa-k té fè mal yo minm sé pou réziréksion jijman-an.\n   Mouin pa kapab fè anyin ak pròp tèt pa-m. Jan-m tandé-a, sé konsa mouin jijé, épi jijman-m nan kòrèk, paské mouin pa chèché volonté-m, min volonté sa-a ki voyé-m nan ».\n   Paròl Granmèt la."
+    }
+  }
+},
+
+"jeudi_quatrieme_semaine": {
+  "reading_mode": "standard",
+  "title": "KATRIYÈM SÉMÈN KARÈM – Jédi",
+  "readings": {
+    "first_reading": {
+      "title": "Padonnin fot pèp ou-a.",
+      "source": "Léktu liv Égzòd",
+      "reference": "32, 7-14",
+      "text": "Jou sa yo :\n    Granmèt la palé ak Moyiz, li di : « Alé, désann ; pèp ou-a fè péché, li minm ou té fè soti nan péyi Éjip la. Yo gin tan kité chémin-an ou té montré yo-a, yo fè yon ti toro avèk lò yo fonn nan difé, épi yo adoré-l ; yo ofri sakrifis ba li, yo di : ―Min dié-ou yo, Israèl, ki té fè-ou soti nan péyi Éjip la‖ ».\n    Granmèt la di Moyiz ankò : « Mouin ouè kijan pèp sa-a gin kou-l rèd ; kité-m pou kòlè-m boulé kont yo, pou-m éfasé yo, min m-ap fè-ou vi-n tounin yon gran nasion ».\n    Moyiz minm pran priyé Granmèt Bondié-l la, li di : « Pouki sa, Granmèt, pou kòlè-ou flanbé kont pèp ou-a, li minm ou té fè soti nan péyi Éjip la ak gran fòs, ak min ki gin pouvoua ? Pa kité Éjipsyin yo di : ―Sé nan pièj li pran yo pou-l té fè yo soti, pou-l té kapab touyé yo nan mòn yo, pou-l té éfasé yo sot sou tè-a‖ : kalmé kòlè-ou, padonnin fot pèp ou-a.\n    Sonjé Abraam, Izaak ak Israèl, sèvitè-ou yo, yo minm ou té fè sèman ba yo sou pròp tèt ou, ou té di : ―M-ap fè désandans nou fi-n anpil tankou zétoual sièl la, épi tout tè sa-a mouin té palé-a, m-ap bay désandans nou li, n-ap posédé-l tout tan‖ ».\n   Granmèt la vi-n kalmé, li pa fè malè-a li té di li t-ap fè kont pèp li-a.\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 105, 19-20. 21-22. 23 ( : 4 a)",
+      "verses": [19, 20, 21, 22, 23],
+      "refrain": "Sonjé nou, Granmèt, nan favè ou fè pèp ou-a.",
+      "text": [
+        "Yo fè yon ti toro nan Orèb, yo adoré yon pòtré ;",
+        "yo chanjé gloua yo pou pòtré yon toro k-ap manjé zèb.",
+        "Yo bliyé Bondié ki té sové yo-a. li minm ki té fè bagay éstraòdinè nan Éjip la,",
+        "mèvèy nan péyi Kam nan, prodij nan lanmè Rouj la.",
+        "Li di l-ap gayé yo, si sé pa-t Moyiz sa-a li té chouazi-a, ki té proché. Li kanpé nan trou miray la, dévan fas li, pou-l viré kòlè-l pou-l pa fè yo péri."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Sa-a k-ap akizé nou-an, sé Moyiz, li minm nou éspéré nan li-a.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "5, 31-47",
+      "text": "Jézu di Juif yo :\n   « Si mouin minm mouin sèvi pròp tèt mouin témouin, témouagnaj mouin-an pa vré. Gin yon lòt ki sèvi-m témouin, mouin konnin témouagnaj li rann mouin-an, li vré.\n   Nou minm nou té voyé kot Jan, li té sèvi-m témouin. Mouin minm sé pa nan min moun mouin résévoua témouagnaj mouin, min bagay sa yo mouin di yo pou nou kapab sové. Li minm sé té yon lanp k-ap chofé, k-ap kléré ; nou minm minm nou té vlé joui limiè-l la pou yon tan. Kanta mouin minm mouin gin yon témouagnaj ki pi gran pasé pa Jan-an.\n   Travay Papa-m ban mouin pou-m réalizé-a, sé travay sa yo minm mouin fè-a k-ap sèvi-m témouin, pou yo fè ouè sé Papa-a ki voyé-m. Papa-a ki voyé-m nan, sé li minm k-ap sèvi-m témouin. Nou pa janm tandé voua li, nou pa janm ouè fas li ; nou pa gin paròl li ki rét nan nou, paské, nou pa kouè nan sa-a li voyé-a.\n   N-ap fouyé sa-k ékri yo, paské nou konprann sé ladan yo n-ap jouinn lavi tout tan-an, sé yo minm minm k-ap sèvi-m témouin. Min nou pa vlé vi-n jouinn mouin, pou nou gin lavi.\n   Mouin pa résévoua gloua nan min lézòm. Min mouin rékonèt nou, nou pa gin rinmin Bondié-a nan nou. Mouin vini o non Papa-m, nou pa résévoua-m ; si yon lòt rivé o non-l, nou rcsévoua-l. Kijan nou t-a kapab kouè, nou minm k-ap résévoua gloua youn nan min lòt, épi gloua-a ki sot nan Bondié sièl la, nou pa chèché-l ?\n   Pa konprann sé mouin minm k-ap akizé nou dévan Papa-a : sa-a k-ap akizé nou-an, sé Moyiz, li minm nou éspéré nan li-a. Si nou té kouè nan Moyiz, nou t-a kouè nan mouin pétèt ; paské sé sou mouin li té ékri. Min si nou pa kouè nan sa-l ékri yo, kòman nou t-a kapab kouè nan paròl mouin yo ? »\n   Paròl Granmèt la."
+    }
+  }
+},
+"vendredi_quatrieme_semaine": {
+  "reading_mode": "standard",
+  "title": "KATRIYÈM SÉMÈN KARÈM – Vandrédi",
+  "readings": {
+    "first_reading": {
+      "title": "Sé mò laront n-ap kondané-l.",
+      "source": "Léktu liv Sajès la",
+      "reference": "2, 1a. 12-22",
+      "text": "Méchan yo di, antan y-ap kalkilé sa-k pa kòrèk nan kè yo :\n   « An nou fè konplo kont sa-a ki kòrèk la, paské li pa sèvi nou anyin, l-ap kontrarié aktivité nou, l-ap réproché nou péché nou fè kont laloua-a, l-ap déklaré péché nou fè kont édikasion nou. Li prétann li gin sians Bondié, li nonmin pròp tèt li pitit Bondié.\n   Li jinnin pansé nou : sé yon chaj li yé pou nou, minm pou nou gadé-l ; paské lavi-l pa minm avèk lòt yo, chémin-l yo pa chanjé. Li konsidéré nou tankou bagay ki pa gin valè, li évité chémin nou yo tankou bagay ki pa pròp ; li déklaré moun kòrèk yo ap kanpé nan dènié tan-an, li fè louanj di li gin Bondié kòm Papa.\n    Ébyin an nou ouè si paròl li yo vré, an nou éséyé pou nou ouè sa k-ap rivé-l, n-a konnin kijan l-ap yé nan dènié tan-an. Si sé pitit Bondié vré li yé, sé pou Bondié résévoua-l, 1-a délivré-l sot nan min moun k-ap ataké-l yo.\n    Ak afron, ak mové trétman n-ap pozé-l késion, pou nou konnin réspè-l, pou nou éséyé pasians li. Ak lanmò gro laront n-a kondané-l ; sèké dapré paròl li yo gin pèsonaj pou véyé sou li ».\n    Sé sa y-ap kalkilé, yo tronpé ; méchansté yo avéglé yo. Yo pa konnin bagay sakré Bondié yo, yo pa éspéré rékonpans jistis la, yo pa jijé konsidérasion nanm sin yo.\n    Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 33, 17-18. 19-20. 21 é 23 ( : 19 a)",
+      "verses": [17, 18, 19, 20, 21, 23],
+      "refrain": "Granmèt la tou pré moun ki gin kè yo séré.",
+      "text": [
+        "Fas Granmèt la sou moun k-ap fè sa-k mal yo, pou-l pèdi souvni yo sot sou tè-a.",
+        "Yo rélé, Granmèt la réponn, anba tout tray yo li délivré yo.",
+        "Granmèt la tou pré moun ki gin kè séré yo, l-ap sové sa-k gin éspri yo krazé yo.",
+        "Anpil tray pou moun ki kòrèk yo, anba yo tout Granmèt la délivré yo.",
+        "Li prézèvé tout zo yo, youn nan yo pap krazé.",
+        "Granmèt la ap rachté nanm sèvitè-l yo, tout moun ki éspéré nan li yo li pap pini yo."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Yo té vlé arété-l, min lè-l pa-t ko rivé.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "7, 1-2. 10. 25-30",
+      "text": "Jézu t-ap vouayajé nan Galilé ; li pa-t vlé al nan Judé, paské Juif yo t-ap chèché touyé-l.\n   Jou fèt Juif yo, fèt Tant yo, té toupré. Lè frè Jézu yo fi-n monté, lè-a li minm tou li monté nan fèt la, li pa kité yo ouè-l, min sé tankou an kachèt.\n   Nan pami moun Jéruzalèm yo, yo t-ap di : « Èské sé pa sa-a yo t-ap chèché touyé-a ? Épi gadé l-ap palé an piblik, san pèsòn pa di-l anyin. Èské chèf yo t-a rékonèt vré sé Kris la li yé ? Min sa-a nou konnin koté-l soti ; Kris la minm lè l-ap rivé, pèsòn pap konnin koté-l soti ».\n   Jézu t-ap rélé byin fò nan Tanp la ? li t-ap bay ansègnman, li t-ap di : « Nou konnin-m épi nou konnin koté-m soti : min sé pa ak pròp pouvoua pa-m mouin vini, sa-a ki voyé-m nan, li vré, nou pa konnin-l. Mouin konnin-l, paské sé nan li mouin soti, li minm minm ki voyé-m ».\n   Yo té vlé arété-l, min pèsòn pa-t lonjé min sou li, paské lè-l pa-t ko rivé.\n   Paròl Granmèt la."
+    }
+  }
+},
+
+"samedi_quatrieme_semaine": {
+  "reading_mode": "standard",
+  "title": "KATRIYÈM SÉMÈN KARÈM – Samdi",
+  "readings": {
+    "first_reading": {
+      "title": "Mouin tankou yon mouton tou dou, y-ap minnin labatoua.",
+      "source": "Léktu liv profèt Jérémi",
+      "reference": "11, 18-20",
+      "text": "Ou minm Granmèt, ou fè-m ouè, mouin konnin ; ou montré-m plan yo.\n    Mouin minm mouin té tankou yon mouton tou dou, y-ap minnin labatoua, mouin pa-t konnin, sé sou mouin yo t-ap kalkilé plan, yo t-ap di : « An nou mété boua nan pin-l, an nou ouété-l sot sou tè vivan yo, yo pap sonjé non-l ankò ».\n   Kanta ou minm, Granmèt lamé yo, ou minm ki jijé kòrèk, ki sondé rin ak kè, sé pou-m ouè vanjans ou sou yo ; sèké mouin dévoualé-ou kòz mouin.\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 7, 2-3. 9 bc-10. 11-12 ( : 2 a)",
+      "verses": [2, 3, 9, 10, 11, 12],
+      "refrain": "Granmèt Bondié-m, nan ou mouin éspéré.",
+      "text": [
+        "Granmèt Bondi-m, nan ou mouin éspéré ; sové-m sot nan min tout moun k-ap pèsékité-m yo, délivré-m,",
+        "pou-l pa pran lavi-m tankou lion, k-ap déchiré, san pa gin pèsòn pou sové.",
+        "Jijé-m, Granmèt, dapré jistis mouin, dapré inosans mouin ki nan mouin.",
+        "sé pou méchansté péchè yo boulé ; asiré sa-a ki kòrèk la : ou minm k-ap sondé kè ak rin, Bondié ki kòrèk.",
+        "Sékou-m kot Bondié, li minm ki sové moun ki douat nan kè yo.",
+        "Bondié jij kòrèk la, Fò-a, y-ap fè faché chak jou."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Èské Kris la t-a vi-n sot nan Galilé ?",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "7, 40-53",
+      "text": "Nan foul la, lè yo tandé paròl Jézu yo, yo t-ap di : « Sa-a sé profèt tout bon vré-a ». Dòt t-ap di : « Sa-a sé Kris la ». Kèk minm t-ap di : « Èské Kris la t-a vi-n sot Galilé ? » Èské sa ki ékri-a pa di : ―Sé nan ras David ak nan bouk Bétléèm, koté David té yé-a, pou Kris la vi-n soti‖ ? » Konsa té gin dézakò nan foul la poutèt li. Gin nan yo ki té vlé arété-l ; min pèsòn pa-t lonjé min sou li.\n   Sèvitè yo rivé kot prèt an chèf yo ak Farizyin yo. Sa yo di yo : « Pouki sa nou pa-t minnin-l ? »\n   Sèvitè yo réponn : « Pèsòn pa janm palé tankou mésié sa-a ».\n   Farizyin yo réponn yo, « Èské nou minm tou, nou kité yo tronpé nou ? Èské nan prèt an chèf yo gin yon moun ki kouè nan li, oubyin nan pami Farizyin yo ? Min foul sa-a, ki pa konn laloua-a, yo madichonnin ».\n   Nikodèm di yo, li minm ki té vi-n koté-l nannuit la, li minm ki té youn nan yo : « Èské laloua nou-an jijé yon moun san-l pa tandé-l anvan pou-l konnin sa-l fè ? »\n   Yo réponn, yo di-l : « Èské ou minm sé moun Galilé ou yé ? Fouyé sa-k ékri yo, gadé ou-ap ouè nan Galilé profèt la pa sot la ».\n   Konsa chak moun pati al lakay li.\n   Paròl Granmèt la."
+    }
+  }
+},
+"cinquieme_dimanche_careme": {
+  "reading_mode": "standard",
+  "title": "SINKIÈM SÉMÈN KARÈM – Dimanch",
+  "readings": {
+    "first_reading": {
+      "title": "M-ap mété Éspri-m nan nou, n-ap viv.",
+      "source": "Léktu liv profèt Ézékièl",
+      "reference": "37, 12-14",
+      "text": "Min paròl Granmèt Bondié :\n   « Min m-ap louvri tonbo nou yo, m-ap fè nou soti nan tonbo nou yo, pèp mouin, m-ap fè nou antré nan tè Israèl la ; n-ap konnin sé mouin minm Granmèt la, lè m-ap louvri tonbo nou yo, épi m-ap fè nou soti nan kavo nou yo, pèp mouin, lè m-ap mété Éspri-m nan nou, pou nou viv la, lè m-ap fè nou répozé sou tè nou-an, n-ap konnin sé mouin minm Granmèt la, mouin palé, épi mouin aji », sé sa Granmèt Bondié di.\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 129, 1-2. 3-4 ab. 5-6. 7-8 ( : 7)",
+      "verses": [1, 2, 3, 4, 5, 6, 7, 8],
+      "refrain": "Kot Granmèt la sé mizérikòd, épi sé rédanmsion an kantité koté-l.",
+      "text": [
+        "Nan bafon yo m-ap rélé koté-ou, Granmèt ;",
+        "Granmèt, kouté voua-m. Sé pou zòrèy ou panché nan voua priyè-m nan.",
+        "Si-ou kinbé fot yo, Granmèt, Granmèt, ki moun k-ap kanpé ?",
+        "Paské koté-ou sé padon, épi nou krinn-ou.",
+        "M-ap tann ou, Granmèt ; nanm mouin ap tann nan paròl li,",
+        "Nanm mouin éspéré nan Granmèt la. Plis pasé yon santinèl kap éspéré dévan-jou,",
+        "Sé pou Israèl éspéré nan Granmèt la. Paské kot Granmèt la sé mizérikòd, sé rédanmsion an kantité koté-l.",
+        "Sé li minm k-ap rachté Israèl sot nan tout fot li yo."
+      ]
+    },
+    "second_reading": {
+      "title": "Éspri sa-a ki résisité Jézu sot nan pami mò yo, li abité nan nou.",
+      "source": "Léktu lèt apot sin Pòl pou Romin yo",
+      "reference": "8, 8-11",
+      "text": "Frè-m yo : Moun yo ki réglé dapré chè-a, yo pa kapab fè Bondié plézi. Nou minm nou pa réglé nan chè-a, min nan Éspri-a, si réyèlman Éspri Bondié-a abité nan nou.\nSi yon moun pa gin Éspri Jézu-Kri-a, moun sa-a pa pou li. Si Jézu-Kri nan nou, kò-a mouri poutèt péché-a, Éspri-a viv poutèt sa-k fè-l vi-n sin-an. Si Éspri sa-a ki résisité Jézu sot nan pami mò yo abité nan nou, sa-a ki résisité Jézu-Kri sot nan pami mò yo ap fè kò lanmò nou yo viv tout poutèt Éspri-a ki abité nan nou-an.\nParòl Granmèt la."
+    },
+    "gospel": {
+      "title": "Mouin sé réziréksion-an ak lavi-a.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "11, 3-7. 20-27. 33 b-45",
+      "text": "Lè sa-a : Sè Lazar yo voyé kot Jézu, yo di : « Granmèt, min sa-a ou rinmin-an malad ». Lè Jézu minm tandé sa, li di yo : « Maladi sa-a pa pou lanmò, min pou gloua Bondié, pou Pitit Bondié-a jouinn gloua gras a li ».\nJézu minm té rinmin Mart ak sè-l la Mari, ak Lazar.\nKonsa lè-l tandé li té malad, lè sa-a li rété koté-l té yé-a pandan dé jou. Apré sa, li di disip li yo : « An-alé Judé ankò ».\nJézu rivé, li jouinn li dépi kat jou nan kavo.\nMart minm, lè-l tandé Jézu vini, li kouri al rankontré-l ; kanta Mari li minm, li té rét chita lakay la. Mart minm di Jézu : « Granmèt, si-ou té isit la, frè-m nan pa t-ap mouri ; min koulié-a mouin konnin tou sa-ou mandé Bondié, Bondié ap ba ou li ».\nJézu di-l : « Frè-ou la ap résisité ».\nMart di-l : « Mouin konnin l-ap résisité nan réziréksion nan dènié jou-a ».\nJézu di : « Mouin sé réziréksion-an ak lavi-a ; moun ki kouè nan mouin, minm si-l mouri, l-ap viv, épi tout moun k-ap viv épi ki kouè nan mouin, li pap janm mouri. Èské ou kouè sa ? »\nLi di-l : « Oui, Granmèt, mouin kouè ou sé Kris Pitit Bondié vivan-an, ki té vi-n sou tè sa-a ».\nKon-l fi-n di sa, li pati l-al rélé Mari sè-l la an kachèt, li di : « Mèt la la épi l-ap rélé-ou ». Li minm kon-l tandé sa, li lévé byin vit, li vi-n koté-l ; Jézu pa-t ko rivé nan bouk la ; min li té koté Mart té rankontré-l la toujou. Juif yo minm, ki té avèk li nan kay la, épi ki t-ap konsolé-l yo, lè yo ouè Mari, ki lévé byin vit, li soti, yo suiv li, yo di : « L-al nan kavo-a, pou-l kriyé laba-a ».\nMari minm, lè-l rivé koté Jézu té yé-a, kon-l ouè-l, li tonbé nan pié-l, li di-l : « Granmèt si-ou té isit la, frè-m nan pa t-ap mouri ».\nJézu minm, lè-l ouè l-ap kriyé, ni Juif yo tou ki té vi-n avèk li-a ki t-ap kriyé, li santi éspri-l trésayi li troublé anndan li minm, li di : « Koté nou té dépozé-l ? »\nYo di-l : « Granmèt vini, ou-a ouè ». Jézu kriyé. Juif yo di : « Gadé kijan li té rinmin-l ! » Kèk nan yo minm té di : « Èské li pa-t kapab fè pou sa-a pa mouri, li minm ki té louvri jé moun ki té fèt tou avèg la ».\nJézu minm trésayi ankò anndan li minm, li rivé nan kavo-a. Sé té yon trou ròch, yon ròch té pozé sou li. Jézu di : « Ouété ròch la ».\nMart, sè mò-a, di-l : « Granmèt, li déja gin mové sant, sa fè katriyèm jou li la ».\nJézu di-l : « Èské-m pa di-ou, si-ou kouè ou-ap ouè gloua Bondié-a ? »\nYo ouété ròch la. Jézu minm lévé jé-l anlè, li di : « Papa, mouin fè konpliman pou ou, poutèt ou kouté-m. Mouin té konnin ou toujou kouté-m ; min sé poutèt pèp la ki antouré-m nan, mouin palé, pou yo kouè sé ou minm ki voyé-m ». Kon-l fi-n di sa li rélé byin fò : « Lazar, vini déyò ».\nMinm lè-a li sòti, pié-l ak min-l byin maré ak bann toual, figi-l té maré ak yon mouchoua. Jézu di yo : « Lagé-l, kité-l alé ».\nAnpil nan Juif yo ki té vi-n kot Mari ak Mart la, lè yo ouè sa Jézu fè, yo vi-n kouè nan li.\nParòl Granmèt la."
+}
+  }
+},
+"cinquieme_semaine_lundi": {
+  "reading_mode": "standard",
+  "title": "5ÈM SÉMÈN KARÈM – Lendi",
+  "readings": {
+    "first_reading": {
+      "title": "Min m-ap mouri san-m pa fè anyin nan bagay sa yo.",
+      "source": "Léktu liv profèt Danièl",
+      "reference": "13, 41 c-62",
+      "text": "Foul la kondané Suza-n pou-l mouri.\nSuza-n rélé byin fò, li di : « Bondié ki égzisté tout tan, ou minm ki konnin sa-k kaché, ou minm ki konnin tout bagay anvan yo rivé, ou konnin sé fo-témouagnaj yo dépozé kont mouin. Min m-ap mouri, san-m pa fè anyin nan bagay sa yo mésié sa yo invanté avèk méchansté kont mouin-an ».\nGranmèt la kouté voua-l. Pandan y-ap kondui-l nan lanmò, Granmèt la drésé éspri sin yon jèn ti gason, yo té rélé-l Danièl ; li rélé byin fò : « Mouin inosan nan san madanm sa-a ». Tout pèp la viré koté-l, yo di-l : « Ki kalité paròl sa-a ou di-a ? » Li minm minm, li kanpé nan mitan yo, li di : « Sé konsa nou aji san réfléchi, pitit Israèl yo ? nou pa minm jijé, nou pa minm konnin sa-k vré, nou kondané yon pitit fi Israèl. Tounin nan jijman-an, paské sé fo-témouagnaj yo dépozé kont li ».\nKonsa pèp la tounin byin vit, granmoun yo di-l : « Vini, chita nan mitan nou, montré nou vérité-a, paské Bondié ba-ou konsidérasion viéyès ».\nDanièl di yo : « Séparé yo louin youn sot kot lòt, m-ap jijé yo ».\nLè yo fi-n séparé yo youn sot kot lòt, li rélé youn nan yo, li di-l : « Ou minm ki viéyi nan mal, koulié-a péché-ou yo fè mas, péché sa yo ou t-ap fè dépi lontan-an, lè-ou té konn ap jijé jijman ki pa kòrèk yo, lè-ou té konn ap krazé inosan yo, ou té konn ap lagé koupab yo, malgré Granmèt la di : ―Pa touyé inosan-an ak sa-a ki kòrèk la‖. Ébyin koulié-a, si-ou té ouè-l, di anba ki pié boua ou té ouè yo ap palé ansanm ». Li di : « Anba yon pié boua-d-chèn ». Danièl di : « Sé sou pròp tèt ou ou fè manti-a tou douat : sèké min anj Bondié-a, li résévoua rézilta jijman-an nan min-l, l-ap koupé-ou nan mitan ».\nLi voyé-l alé, li pasé lòd pou lòt la vini, li di-l : « Ras Kanaan, ou pa ras Juda, aparans la pran-ou nan pièj, mové anvi-a pèvèti kè-ou. Sé konsa nou té konn aji avèk pitit fi Israèl yo, épi yo té konn pè nou, yo té konn palé avèk nou ; min yon pitit Juda pa sipòté péché nou-an. Koulié-a, ébyin, di-m anba ki pié boua ou té siprann yo ap palé ansanm ». Li di « Anba yon pié kaliptis ». Danièl di-l : « Manti sa-a ou fè-a, sé sou tèt ou tou douat l-ap tonbé : sèké anj Granmèt la déja rét la, li gin épé-a nan min-l, l-ap koupé-ou nan mitan, l-ap touyé nou ».\nKonsa tout foul la rélé byin fò, yo fè konpliman pou Bondié, ki sové moun ki mété éspérans sou li, yo fonsé sou dé ansyin yo, yo fè yo sibi mal la yo té vlé fè prochin yo sibi-a, konsa yo aji dapré laloua Moyiz la, yo touyé yo, yo sové yon san inosan jou sa-a.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 22, 1-3 a. 3 b-4. 5. 6 ( : 4 a)",
+      "verses": [1, 2, 3, 4, 5, 6],
+      "refrain": "Si m-ap maché nan bafon lonbraj lanmò, mouin pap pè malè, paské ou avèk mouin.",
+      "text": [
+        "Granmèt la ap kondui-m, anyin pap manké-m : nan zèb vèt li instalé-m, sou bò dlo trankil li minnin-m, li réfè nanm mouin. Li kondui-m nan santié jistis poutèt non-l.",
+        "Sèké minm si m-ap maché nan bafon lonbraj lanmò, mouin pap pè malè, paské ou avèk mouin. Baton-ou ak bagèt ou sé yo k-ap konsolé-m.",
+        "Ou paré yon tab dévan fas mouin kont sila yo k-ap fè-m pasé tray ; ou souin tèt mouin ak losion, kalis mouin ap débòdé.",
+        "Réyèlman sé bon kè ak kè sansib k-ap rapousuiv mouin tout tan lavi-m, m-ap abité nan lakay Granmèt la pou tout longè tan yo."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Moun ki san péché nan pami nou-an, sé li minm an prémié ki pou voyé ròch la sou li.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "8, 1-11",
+      "text": "Jézu rivé sou mòn Olivié yo, li tounin nan kay sakré-a, tout pèp la vi-n koté-l, li chita, l-ap bay ansègnman.\nSkrib yo ak farizyin yo minnin yon madanm yo té jouinn ki t-ap fè adiltè, yo mété-l kanpé nan mitan, yo di-l : « Mèt, madanm sa-a yo jouinn li ap fè adiltè. Nan laloua-a, Moyiz pasé nou lòd pou nou touyé kalité moun sa yo avèk kout ròch ; ou minm minm sa-ou di ? » Yo té di sa pou yo éséyé-l, pou yo té kapab akizé-l.\nJézu minm panché atè-a, li kòmansé ékri ak douèt li atè-a. Kòm yo té kontinié ap pozé-l késion, li drésé, li di yo : « Moun ki san péché nan pami nou, sé li minm ki pou voyé ròch sou li an prémié ». Li panché ankò, li t-ap ékri atè-a. Lè yo tandé sa, youn pati apré lòt, kòmansé sou sa-k pi granmoun yo, Jézu rét pou kont li ak madanm nan ki kanpé nan mitan.\nJézu drésé kò-l, li di-l : « Madanm, koté moun yo ki t-ap akizé-ou yo ? Pèsòn pa kondané-ou ? » Li di : « Pèsòn, Granmèt ».\nJézu di : « Mouin minm tou mouin pa kondané-ou : alé, pa fè péché ankò ».\nParòl Granmèt la."
+    }
+  }
+},
+"cinquieme_semaine_mardi": {
+  "reading_mode": "standard",
+  "title": "5ÈM SÉMÈN KARÈM – Madi",
+  "readings": {
+    "first_reading": {
+      "title": "Moun ki té piké, kon-l gadé sèpan an kuiv la, li viv.",
+      "source": "Léktu liv Nonb",
+      "reference": "21, 4-9",
+      "text": "Ébré yo pati sot sou mòn Or la, nan chémin ki kondui nan lanmè rouj la, pou yo fè tout tou péyi Édòm nan. Pèp la kòmansé fatigé ak vouayaj li ak tray. Li palé kont Bondié ak Moyiz, li di : « Pouki nou té fè nou soti Éjip, pou nou mouri nan savann nan ? Pa gin pin, pa gin dlo, nanm nou kòmansé dégouté avèk manjé fad sa-a ».\nSé pousa Granmèt la voyé sèpan k-ap flanbé nan pèp la ; lè yo kòmansé fè moun yo malad, fè moun yo mouri, anpil moun vi-n kot Moyiz, yo di : « Nou fè péché, paské nou palé kont Granmèt la ak kont ou minm : lapriyè pou-l ouété sèpan sa yo sot koté nou ». Moyiz lapriyè pou pèp la.\nGranmèt la palé ak li : « Fè yon sèpan ak kuiv, mété-l kòm yon sign : moun sèpan yo mòdé, lè-l gadé-l, l-ap viv ». Moyiz fè yon sèpan avèk kuiv, li mété-l kòm sign ; kon moun sèpan té mòdé yo gadé-l, yo vi-n géri.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 101, 2-3. 16-18. 19-21 ( : 2)",
+      "verses": [2, 3, 16, 17, 18, 19, 20, 21],
+      "refrain": "Granmèt, kouté priyè-m, épi fè rèl mouin-an rivé koté-ou.",
+      "text": [
+        "Granmèt, kouté priyè-m, fè rèl mouin-an rivé koté-ou. Pa kaché fas ou louin-m ; nan ninpòt jou m-ap pasé tray la, panché zòrèy ou koté-m.",
+        "Nan ninpòt jou mouin rélé-ou, fè vit réponn mouin.",
+        "Nasion yo ap réspékté non-ou, Granmèt, tout roua yo sou tè-a ap réspékté gloua-ou la.",
+        "Paské Granmèt la ap bati Siyon, épi l-ap parèt nan gloua li.",
+        "L-ap voyé jé sou lapriyè pòv la, épi li pap méprizé lapriyè yo-a.",
+        "Sé pou yo ékri bagay sa yo pou lòt jénérasion-an, pèp k-ap kréyé-a, l-ap fè louanj Granmèt la.",
+        "Sèké li panché sot nan kay sakré-l la anro-a, Granmèt la gadé sou tè-a antan-l nan sièl la.",
+        "Pou-l kouté rèl prizonié yo, pou-l délivré pitit lanmò yo."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Lè n-a lévé Pitit moun nan anlè, lè sa-a n-a rékonèt sé mouin minm.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "8, 21-30",
+      "text": "Jézu di farizyin yo : « M-apralé, épi n-ap chèché-m, min n-ap mouri nan péché nou. Koté m-apralé-a, nou minm nou pa kapab vini ».\nJuif yo t-ap di : « Èské l-apral touyé tèt li, ki fè l-ap di : ―Koté m-apralé-a, nou minm nou pa kapab vini-an‖ ? »\nLi t-ap di yo : « Nou minm sé anba nou soti, mouin minm sé anro mouin soti ; nou minm sé sou tè sa-a nou soti, mouin minm mouin pa soti sou tè sa-a. Mouin di nou n-ap mouri nan péché nou yo ; si nou pa kouè sé mouin minm, n-ap mouri nan péché nou ».\nYo t-ap di-l : « Ou minm ki sa ou yé ? »\nJézu di yo : « Kòmansman-an, k-ap palé avèk nou-an. Mouin gin anpil bagay pou-m di sou nou, pou-m jijé. Min sila-a ki voyé-m nan, li vré ; mouin minm sé sa-m tandé nan min-l, sé sa mouin di sou tè-a ».\nJézu di yo : « Lè n-a lévé Pitit moun nan anlè, lè sa-a n-a rékonèt sé mouin minm ; mouin pa fè anyin ak pròp fòs mouin, min sé jan Papa-m aprann mouin-an, sé konsa mouin palé ».\nLè-l di sa, anpil moun vi-n kouè nan li.\nParòl Granmèt la."
+    }
+  }
+},
+"cinquieme_semaine_mercredi": {
+  "reading_mode": "standard",
+  "title": "5ÈM SÉMÈN KARÈM – Mèkrédi",
+  "readings": {
+    "first_reading": {
+      "title": "Li voyé anj li-a, li délivré sèvitè-l yo.",
+      "source": "Léktu liv profèt Danièl",
+      "reference": "3, 14-20. 91-92. 95",
+      "text": "Roua Nabukodonozò di : « Èské sé vré, Sidrak, Mizak avèk Abdénago, nou pa sèvi dié-m yo, nou pa adoré pòtré mouin fè avèk lò-a ? »\nSidrak, Mizak avèk Abdénago réponn : « Bondié nou-an kapab délivré nou sot nan boukan difé-a. Si-l pa vlé, ou mèt konn sa, mon roua, nou pap sèvi dié-ou yo ».\nNabukodonozò pasé lòd pou yo chofé boukan-an sèt foua plis, li jété yo ladan-l.\nLi di : « Min mouin ouè kat misié ki lib nan difé-a, katriyèm nan sanblé ak yon pitit Bondié ».\nLi di : « Konpliman pou Bondié Sidrak, Mizak avèk Abdénago, li minm ki voyé Anj li-a, li délivré sèvitè-l yo ».\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Dan 3, 52. 53. 54. 55. 56 ( : 52 b)",
+      "verses": [52, 53, 54, 55, 56],
+      "refrain": "Li mérité louanj, li anlè nèt pou tout tan.",
+      "text": [
+        "Konpliman pou ou, Granmèt, Bondié papa nou yo, konpliman pou non bèlté-ou la ki sin-an.",
+        "Konpliman pou ou nan kay sakré gloua-ou la ki sin-an.",
+        "Konpliman pou ou sou fotèy péyi roua-ou la.",
+        "Konpliman pou ou, ou minm ki sondé bafon yo, ki chita anlè chérubin yo.",
+        "Konpliman pou ou nan platfòm sièl la."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Si Pitit la délivré nou, n-ap lib tout bon vré.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "8, 31-42",
+      "text": "Jézu di Juif yo ki té kouè nan li yo : « Si nou rété nan paròl mouin-an, n-ap disip mouin tout bon vré, n-ap konnin vérité-a, vérité-a ap délivré nou ».\nYo di-l : « Sé ras Abraam nou yé ».\nJézu réponn : « Tout moun ki fè péché, li ésklav péché-a. Si Pitit la délivré nou, n-ap lib tout bon vré ».\nLi di yo : « Si Bondié té papa nou, nou t-a rinmin-m, paské sé nan Bondié mouin soti pou-m vini ».\nParòl Granmèt la."
+    }
+  }
+},
+"cinquieme_semaine_jeudi": {
+  "reading_mode": "",
+  "title": "5ÈM SÉMÈN KARÈM – Jédi",
+  "readings": {
+    "first_reading": {
+      "title": "Ou-ap papa anpil nasion.",
+      "source": "Léktu liv Jénèz la",
+      "reference": "17, 3-9",
+      "text": "Jou sa yo : Abram tonbé fas atè.\nBondié di-l : « Sé mouin minm, min kontra-m avèk ou, ou-ap papa anpil nasion. Yo pap rélé non-ou ―Abram‖ ankò, min y-ap rélé-ou ―Abraam‖, paské m-ap fè-ou vi-n tounin papa anpil nasion. M-ap fè-ou vi-n anpil anpil, m-ap fè-ou vi-n tounin nasion, gin roua k-ap soti nan ou.\nM-ap pasé alians mouin ant mouin minm ak ou minm, avèk ras ou apré-ou, pou jénérasion yo, alians pou tout tan, pou-m Bondié-ou ak Bondié ras ou apré-ou. M-ap ba-ou ni ou minm ni ras ou-a péyi koté-ou yé kòm étranjé-a, tout péyi Kanaan-an, kòm posésion pou tout tan, m-ap Bondié yo ».\nBondié di Abraam ankò : « Ou minm sé pou-ou kinbé kontra-m nan, épi ras ou apré-ou, pou jénérasion-l yo ».\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 104, 4-5. 6-7. 8-9 ( : 8 a)",
+      "verses": [4, 5, 6, 7, 8, 9],
+      "refrain": "Granmèt la sonjé téstaman-l pou tout tan.",
+      "text": [
+        "Chèché Granmèt la ak pouvoua-l,\nchèché fas li tout tan.",
+        "sonjé mèvèy li fè yo,\nprodij li ak jijman bouch li.",
+        "Ras Abraam, sèvitè-l,\npitit Jakòb, sila-a li chouazi-a.",
+        "Sé li minm Granmèt Bondié nou ;\nsou tout tè-a jijman-l yo.",
+        "Li sonjé téstaman-l nan pou tout tan,\nparòl li té kòmandé bay mil jénérasion yo,",
+        "sa-l té pasé avèk Abraam nan,\nsèman li té fè bay Izaak la."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Abraam papa nou té fè kè-l kontan, pou-l té ouè jou-m nan.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "8, 51-59",
+      "text": "Lè sa-a :\nJézu di Juif yo : « Amèn, amèn mouin di nou, si yon moun kinbé paròl mouin-an, li pap janm ouè lanmò ».\nJuif yo di : « Koulié-a nou konnin ou gin yon démon. Abraam mouri, ni profèt yo ; épi ou di : ―Si yon moun kinbé paròl mouin-an, li pap gouté lanmò minm‖. Èské ou pi gran pasé papa nou Abraam, ki mouri-a ? É profèt yo mouri tou. Ki sa-ou konprann ou yé ? »\nJézu réponn : « Si mouin fè louanj pou pròp tèt mouin, louanj mouin-an pa anyin ; sé Papa-m k-ap fè louanj mouin, li minm nou di sé Bondié nou-an, nou pa konnin-l. Mouin minm mouin konnin-l ; é si-m di mouin pa konnin-l, m-ap tankou nou, yon mantè. Min mouin konnin-l, mouin kinbé paròl li. Abraam papa nou té fè kè-l kontan pou-l té ouè jou-m : li ouè-l, li kontan ».\nJuif yo di-l : « Ou pa ko gin sinkant-an, épi ou ouè Abraam ? »\nJézu di yo : « Amèn, amèn mouin di nou : anvan Abraam té kòmansé égzisté, mouin la ».\nYo ranmasé ròch, pou yo voyé sou li ; Jézu minm kaché kò-l, li soti nan kay sakré-a.\nParòl Granmèt la."
+    }
+  }
+},
+"cinquieme_semaine_vendredi": {
+  "reading_mode": "",
+  "title": "5ÈM SÉMÈN KARÈM – Vandrédi",
+  "readings": {
+    "first_reading": {
+      "title": "Granmèt la avèk mouin, tankou yon sòlda ki gin fòs.",
+      "source": "Léktu liv profèt Jérémi",
+      "reference": "20, 10-13",
+      "text": "Mouin tandé afron anpil moun ap fè-m, ak boui toutalantou : « An nou pèsékité-l, an nou pèsékité-l ». Tout moun ki t-ap viv an pè avèk mouin, ki té konn rét tou kolé-m : ―Si-l té kapab pran nan pièj, pou nou ranpòté viktoua kont li, pou nou tiré vanjans sou li‖ ».\nMin Granmèt la avèk mouin, tankou yon sòlda ki gin fòs ; sé pousa moun k-ap pèsékité-m yo sé yo minm k-ap tonbé, sé yo minm k-ap fébli, y-ap ront anpil, paské yo pa-t konprann laront tout tan-an, ki pap janm éfasé-a. Kanta ou minm, Granmèt lamé yo, ou minm ki éséyé sa-k kòrék la, ki ouè rin ak kè, sé pou-m ouè vanjans ou-ap tiré sou yo, tanpri ; paské sé ou minm mouin dévoualé koz mouin.\nChanté pou Granmèt la, fè louanj Granmèt la, paské li délivré nanm pòv la sot nan min méchan.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 17, 2-3 a. 3 bc-4. 5-6. 7 ( : cf. 7)",
+      "verses": [2, 3, 4, 5, 6, 7],
+      "refrain": "Nan tray mouin-an, mouin rélé Granmèt la, épi li kouté-m.",
+      "text": [
+        "Mouin rinmin-ou, Granmèt, fòs mouin.",
+        "Granmèt, kay défans mouin kachèt mouin,\nak libératè-m nan ;\nBondié mouin, sékou-m mouin éspéré nan li.\nprotéktè-m, kòn k-ap sové-m, li minm k-ap soutni-m.",
+        "M-ap rélé Granmèt la ki mérité louanj la,\nl-ap sové-m sot nan min lénmi-m yo.",
+        "Lanm dlo lanmò yo vlopé-m,\népi ravi-n Bélial yo troublé-m ;",
+        "kòd lanfè yo antouré-m,\nfilè lanmò yo sènin-m.",
+        "Nan tray mouin-an, mouin rélé Granmèt la,\nmouin rélé kot Bondié-m nan ;\nli kouté voua-m, antan-l nan tanp li-a,\nrèl mouin rivé dévan fas li, nan zòrèy li."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Yo t-ap chéché sézi-l, li chapé sot nan min yo.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "10, 31-42",
+      "text": "Lè sa-a :\nJuif yo pran ròch, pou yo kalonnin Jézu. Jézu pran laparòl, li di yo : « Mouin montré nou anpil bon aksion ki sot nan Papa-m ; pou kilès nan aksion sa yo n-ap kalonnin-m nan ? »\nJuif yo réponn li : « Sé pa pou yon bon aksion n-ap kalonnin-ou, min sé poutèt ou blasfémé, sé moun ou yé, épi ou pran pòz Bondié-ou ».\nJézu réponn yo : « Èské nan laloua nou-an yo pa ékri : ―Mouin di : Sé dié nou yé‖ ? Si yo di yo sé dié, yo minm paròl Bondié-a fèt pou yo-a (épi yo pa kapab défèt sa-k ékri-a), sa-a minm Papa-a fè sin-an, li voyé sou tè-a, nou di : ―Ou blasfémé, paské-ou di : mouin sé Pitit Bondié‖. Si-m pa fè aksion Papa-m yo, nou pa bézouin kouè-m. Min si-m fè yo, minm si nou pa vlé kouè-m, sé pou nou kouè aksion yo, pou nou konnin, pou nou kouè Papa-a nan mouin, mouin nan Papa-a ».\nKonsa yo t-ap chèché sézi-l, min li chapé sot nan min yo. Li pati lòt bò Joudin-an ankò, koté Jan té konn batizé anvan-an, li rét la.\nAnpil moun vi-n koté-l, yo t-ap di : « Jan pa-t fè okinn sign ; min tou sa Jan té di sou li yo sé té vré ». Anpil moun kouè nan li.\nParòl Granmèt la."
+    }
+  }
+},
+"cinquieme_semaine_samedi": {
+  "reading_mode": "standard",
+  "title": "5ÈM SÉMÈN KARÈM – Samdi",
+  "readings": {
+    "first_reading": {
+      "title": "M-ap fè yo vi-n tounin yon sèl nasion.",
+      "source": "Léktu liv profèt Ézékièl",
+      "reference": "37, 21-28",
+      "text": "Min paròl Granmèt Bondié :\n« Min m-ap pran pitit Israèl yo sot nan mitan nasion yo, koté yo té pati-a, m-ap rasanblé yo sot tout koté, m-ap minnin yo nan tè yo-a, m-ap fè yo vi-n tounin yon sèl nasion nan péyi-a, sou mòn Israèl yo ; sé yon sèl roua k-ap kòmandé yo tout, yo pap dé nasion ankò, yo pap séparé nan dé péyi-roua ankò.\nYo pap sal ankò nan zidòl yo, nan bagay lèd yo, ak nan tout péché yo ; m-ap sové yo sot nan tout koté yo té konn fè péché, m-ap pròpté yo, y-ap pèp mouin, m-ap Bondié yo.\nSèvitè-m David ap roua sou yo, sé yon sèl gadyin yo tout ap ginyin. Y-ap maché nan jijman-m yo, y-ap kinbé kòmandman-m yo, y-ap obsèvé yo. Y-ap abité sou tè-a mouin té bay sèvitè-m Jakòb la, koté zansèt nou yo té abité yo ; y-ap abité ladan-l, ni yo minm, ni pitit yo, ni pitit pitit yo pou tout tan, épi David sèvitè-m nan ap roua yo pou tout tan.\nM-ap pasé alians lapè avèk yo, sé yon alians tout tan l-ap yé pou yo, map asiré yo, m-ap fè yo vi-n anpil ; m-ap mété Tanp mouin-an nan mitan yo pou tout tan, tant mouin-an ap nan mitan yo, m-ap Bondié yo, yo minm y-ap pèp mouin ; nasion yo ap konnin mouin sé Granmèt la k-ap fè Israèl vi-n sin, paské Tanp mouin-an ap nan mitan yo pou tout tan ».\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Jér 31, 10. 11-12 ab. 13 ( : 10 d)",
+      "verses": [10, 11, 12, 13],
+      "refrain": "Granmèt la ap véyé nou tankou yon gadyin fè pou bann mouton-l.",
+      "text": [
+        "Kouté paròl Granmèt la, nasion yo,\nanonsé sa nan zilé yo ki louin yo,\ndi : « Sa-a ki té gayé Israèl la, l-ap rasanblé-l,\nl-ap véyé sou li tankou yon gadyin fè pou bann mouton-l ».",
+        "Granmèt la délivré Jakòb,\nli délivré-l sot nan min sa-k pi fò.",
+        "Y-ap rivé, y-ap fè louanj sou mòn Siyon,\ny-ap vi-n ansanm nan byin Granmèt yo.",
+        "Lè sa-a vièj la ap kontan nan dans la,\nni jèn jan ni granmoun ansanm ;\nm-ap fè dèy yo-a vi-n tounin kè kontan,\nm-ap konsolé yo, m-ap fè kè yo kontan nan plas soufrans yo-a."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Sé pou pitit Bondié yo, ki té gayé yo, té kapab rasanblé vi-n tounin yon sèl.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "11, 45-56",
+      "text": "Lè sa-a :\nAnpil nan Juif yo, ki té vi-n kot Mari ak Mart, ki té ouè sa Jézu té fè, yo té vi-n kouè nan li. Min kèk nan yo al jouinn farizyin yo, yo di yo sa Jézu té fè.\nKonsa, chèf prèt yo ak farizyin yo rasanblé yon réyinion, yo di : « Ki sa n-ap fè, paské mésié sa-a ap fè anpil sign ? Si nou kité-l konsa, tout moun ap kouè nan li, Romin yo ap rivé, y-ap pran plas nou-an ak nasion nou-an ».\nYoun nan yo yo té rélé Kayif, ki té chèf prèt ané sa-a, li di yo : Nou minm minm nou pa konprann anyin ; nou pa réfléchi li pi bon pou nou, si yon sèl moun nan mouri pou pèp la, pou tout nasion-an pa péri ».\nBagay sa-a, sé pa nan li minm sa soti ki fè-l di-l ; min kòm li té chèf prèt ané sa-a, li té profétizé Jézu té gin pou-I té mouri pou nasion-an, épi sé pa nou nasion-an sèlman min pou pitit Bondié yo, ki té gayé yo, pou yo té kapab rasanblé fè yon sèl. Konsa dépi jou sa-a, yo t-ap réfléchi pou yo touyé-l.\nJézu minm pa-t maché an piblik lakay Juif yo ankò, min l-al nan réjion bò dézè-a, nan yon vil yo rélé Éfrèm, li té rété la ansanm avèk disip li yo.\nPak Juif yo té tou pré, anpil moun té monté Jéruzalèm sot nan réjion yo, pou Pak la, pou yo té kapab sanktifié. Yo t-ap chèché Jézu, youn t-ap palé ak lòt, pandan yo té kanpé nan Tanp la : « Sa-ou pansé èské li pa vini nan fèt la ? » Chèf prèt yo ak farizyin yo té pasé lòd pou si yon moun té konnin koté-l yé, pou-l té déklaré sa, pou yo té kapab arété-l.\nParòl Granmèt la."
+    }
+  }
+},
+"dimanch_ramo": {
+  "reading_mode": "sunday_with_procession",
+  "title": "DIMANCH RAMO – SOUFRANS GRANMÈT LA",
+  "readings": {
+    "procession_gospel": {
+      "title": "Konpliman pou sa-a k-ap vini o non Granmèt la.",
+      "source": "Léktu sint Évanjil la dapré Matié",
+      "reference": "21, 1-11",
+      "text": "Kòm yo t-ap proché Jéruzalèm épi yo té rivé Bétfajé sou mòn Olivié yo, lè sa-a Jézu voyé dé disip, li di yo: « Alé nan bouk la, ki an fas nou-an, tou-suit n-ap jouinn yon bourik ki maré, ak ti pitit la bò koté-l: Lagé-l, épi minnin-l ban mouin, épi si yon moun di nou kichòy, di: “Granmèt la ki bézouin yo”, épi minm lè-a l-ap kité yo ». Bagay sa-a rivé pou sa yo té di pa lintèmédiè profèt la akonpli:\nDi fi Siyon-an: « Min Roua-ou la ap vi-n koté-ou, tou dou, épi chita sou yon bourik, ak sou yon ti pitit bèt chaj ».\nAntan disip yo alé vré, yo fè jan Jézu té pasé yo lòd la, yo minnin bourik-la ak ti pitit la, épi yo pozé rad yo sou yo, épi yo fè-l chita sou li. Anpil foul té ranjé rad yo atè sou rout la; dòt minm t-ap kasé branch nan pié boua yo, épi yo t-ap ranjé atè-a; foul yo minm, ki t-ap maché dévan yo épi ki t-ap suiv yo, yo t-ap rélé byin fò, antan y-ap di: « Ozana pou pitit David la; konpliman pou sa-a k-ap vini o non Granmèt la; Ozana nan rotè ki anlè nèt yo ».\nLè l-ap antré Jéruzalèm tout vil la nèt boulvèsé, l-ap di: « Kilès sa-a ? » Pèp yo minm t-ap di: « Sa-a sé Jézu profèt ki soti Nazarèt Galilé-a ».\nParòl Granmèt la."
+    },
+    "first_reading": {
+      "title": "Mouin pa kaché fas mouin bay moun yo k-ap maltrété-m yo, min mouin konnin mouin pap ront.",
+      "source": "Léktu liv profèt Izayi",
+      "reference": "50, 4-7",
+      "text": "Granmèt la ban-m yon lang ki gin konésans, pou-m kapab soutni ak paròl moun ki bouké-a. Dépi granmatin, li révéyé, granmatin li révéyé zòrèy mouin, pou-m kouté tankou sé yon mèt k-ap palé. Granmèt Bondié louvri zòrèy mouin.\nMouin minm mouin pa fè rébèl ; mouin pa rékilé dèyè. Mouin rinmèt kò-m bay moun yo k-ap frapé-m nan, mouin rinmèt figi-m bay moun yo k-ap mété voual sou mouin-an ; mouin pa kaché fas mouin bay moun yo k-ap maltrété-m nan, k-ap kraché sou mouin-an.\nGranmèt Bondié-a ap poté-m sékou, sé pousa mouin pa ront. Sé pousa mouin fè fas mouin tankou ròch ki pi di-a, mouin konnin mouin pap ront.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 21, 8-9. 17-18 a. 19-20. 23-24 ( : 2 a)",
+      "verses": [8, 9, 17, 18, 19, 20, 23, 24],
+      "refrain": "Bondié, Bondié mouin, pou ki sa ou lagé-m ?",
+      "text": [
+        "Tout moun ki ouè-m yo pasé-m nan jouèt ;\n yo tiré lang, yo souké tèt :\n « Li té éspéré nan Granmèt la, sé pou-l délivré-l ;\n sé pou-l sové-l, paské li rinmin-l ».",
+        "Sèké anpil chyin sènin-m,\n yon bann moun méchan fè lavironn mouin.\n Yo pèsé min-m ak pié-m,\n yo konté tout zo mouin yo.",
+        "Yo séparé rad mouin yo antré yo,\n yo tiré manto-m nan osò.",
+        "Ou minm, Granmèt, pa rét louin,\n fòs mouin, fè vit vi-n édé mouin.",
+        "M-ap rakonté non-ou bay frè mouin yo,\n nan mitan asanblé-a m-ap fè louanj ou.",
+        "Nou minm ki krinn Granmèt la, sé pou nou fè louanj li,\n tout ras Jakòb, déklaré gloua li,\n sé pou tout ras Israèl krinn li."
+      ]
+    },
+    "second_reading": {
+      "title": "Li imilié tèt li : sé pousa Bondié lévé-l anlè.",
+      "source": "Léktu lèt apot sin Pòl pou Filipyin yo",
+      "reference": "2, 6-11",
+      "text": "Kris Jézu, malgré sé sa Bondié yé-a li yé, li pa konsidéré rét égal ak Bondié-a tankou yon bagay pou-l kinbé pou li sèl, min li fè pròp tèt li vi-n pa anyin, antan li pran natu ésklav, li vi-n sanblé ak lézòm, yo rékonèt li tankou moun. Li imilié tèt li, antan li obéyi jous nan lanmò, épi lanmò lakoua.\nSé pousa Bondié lévé-l anlè, li ba-l non ki anlè tout non, pou o non Jézu sa-a, tout jénou bésé nan sièl, sou tè, ak anba tè, épi tout lang déklaré Jézu-Kri sé Granmèt, nan gloua Bondié Papa-a.\nParòl Granmèt la."
+    },
+    "gospel": null
+  }
+},
+  "lendi_sen": {
+    "reading_mode": "standard",
+    "title": "Lendi Sen",
+    "readings": {
+      "first_reading": {
+        "title": "Li pap rélé, yo pap tandé voua-l déyò.",
+        "source": "Léktu liv profèt Izayi",
+        "reference": "42, 1-7",
+        "text": "« Min sèvitè-m nan, m-ap soutni-l, li minm mouin chouazi-a nanm mouin jouinn plézi nan li : mouin mété Éspri-m sou li, l-ap poté jijman-an nan nasion yo. Li pap rélé, li pap konsidéré figi moun, yo pap tandé voua-l déyò. Rozo ki félé-a, li pap krazé-l, mèch k-ap fè lafimin-an, li pap étinn li, sé nan vérité-a l-ap fè jijman-an soti. Li pap tris, li pap sakajé anyin, joustan li pozé jijman-an sou tè-a ; zilé yo ap tann laloua-l la ».\nMin paròl Granmèt Bondié-a, li minm ki kréyé sièl yo, li minm ki déplouayé yo, li minm ki asiré tè-a, ni sa k-ap jèmin nan li, li minm ki bay pèp la laparòl, pèp sa-a ki sou tè-a, li minm ki mété éspri pou sa yo k-ap maché sou tè-a :\n« Mouin minm Granmèt la, mouin rélé-ou nan jistis, mouin pran min-ou, mouin protéjé-ou, mouin mété-ou kòm alians pèp la, kòm limiè nasion yo, pou-ou louvri jé avèg yo, pou-ou fè prizonié yo sot nan prizon, pou-ou fè sa-k chita nan fènoua yo soti nan kacho-a ».\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 26, 1. 2. 3. 13-15 ( : 1 a)",
+        "verses": [1, 2, 3, 13, 14],
+        "refrain": "Granmèt la sé limiè-m ak délivrans mouin.",
+        "text": [
+          "Granmèt la sé klèté-m ak sa k-ap sové-m nan, kilès ki pou fè-m pè ?\nGranmèt la sé protéktè-m, dévan kilès pou-m tranblé ?",
+          "Lè moun k-ap chèché fè-m ditò yo proché sou mouin,\npou yo manjé chè-m ;\nsa yo k-ap fè-m pasé tray la ak ènmi-m yo,\nsé yo minm ki fébli, épi ki tonbé.",
+          "Si lamé kanpé an fas mouin,\nkè-m pa gin doua pè ;\nsi batay lévé kont mouin,\nsé nan sa mouin minm m-ap éspéré.",
+          "Mouin kouè m-ap jouinn byin Granmèt la nan péyi vivan yo.",
+          "Tann Granmèt la, aji avèk kouraj,\nasiré kè-ou, sé pou-ou tann Granmèt la."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Kité-l, sé pou jou antèman-m li té konsèvé sa.",
+        "source": "Léktu sint Évanjil la dapré Jan",
+        "reference": "12, 1-11",
+        "text": "Si jou anvan Pak la, Jézu rivé Bétani, koté Lazar té mouri-a, li minm Jézu té lévé-a. Yo té fè yon résépsion ; Mart t-ap sèvi, Lazar té nan pami moun yo ki té sou tab avèk li-a. Mari minm pran yon liv losion bon kalité ki kouté byin chè, li bingnin pié Jézu, li souyé pié-l avèk chévé-l ; kay la vi-n plin ak odè losion-an.\nYoun nan disip li yo, Juda Iskariòt, sa-a ki t-ap bay li-a, li di : « Pouki sa yo pa vann losion sa-a touasan piès lajan pou yo bay pòv ? » Li té di sa, sé pa paské li té gin konsidérasion pou pòv yo, min sé paské sé vòlè li té yé, épi sé li minm ki té gin bous la, sa yo té mété ladan-l, li té pran-l.\nKonsa Jézu di : « Kité-l sé pou jou antèman-m li té konsèvé-l. Pòv yo réyèlman, sé tout tan n-ap ginyin yo avèk nou, kanta mouin minm, nou pap ginyin-m tout tan ».\nAnpil foul nan Juif yo vi-n konnin li la, yo pa vini pou Jézu sèlman, min pou yo té kapab ouè Lazar tou, sa-a li té lévé sot nan pami mò yo. Gran prèt yo minm t-ap fè kalkil pou yo touyé Lazar tou, paské anpil moun té kité Juif yo poutèt li, yo té kouè nan Jézu.\nParòl Granmèt la."
+      }
+    }
+  },
+
+  "madi_sen": {
+    "reading_mode": "standard",
+    "title": "Madi Sen",
+    "readings": {
+      "first_reading": {
+        "title": "Mouin mété-ou kòm limiè nasion yo, pou délivrans mouin rivé jous nan bout tè-a.",
+        "source": "Léktu liv profèt Izayi",
+        "reference": "49, 1-6",
+        "text": "Kouté, zilé yo, fè atansion, pèp ki louin yo : Granmèt la rélé-m dépi nan vant, dépi nan zantray manman-m li sonjé non-m ; li mété bouch mouin tankou yon épé pointu, li protéjé-m nan lonbraj min-l, li mété-m tankou yon flèch ki byin chouazi, li kaché-m nan sak li.\nLi di-m : « Sé sèvitè-m ou yé, Israèl, paské sé nan ou m-ap jouinn gloua mouin ».\nÉpi mouin minm mouin té di : « Sé pou granmési mouin té travay, sé san rézon ak pou anyin mouin té dépansé fòs mouin ; époutan jijman-m avèk Granmèt la, rézilta travay mouin avèk Bondié-m nan ».\nKoulié-a, min sa Granmèt la di, li minm ki fòmé-m dépi nan vant pou-m kapab vi-n tounin sèvitè-l, pou-m fè Jakòb tounin vi-n jouinn li, pou-m rasanblé Israèl ba li, mouin jouinn gloua dévan jé Granmèt la, Bondié-m nan vi-n tounin fòs mouin. Li di : « Sa pa kont pou-ou sèvitè-m pou-ou kapab lévé ras Jakòb yo, pou-ou fè débri pèp Israèl yo tounin : min mouin mété-ou kòm limiè nasion yo, pou sové m-ap sové-a rivé jous nan bout tè-a ».\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 70, 1-2. 3-4 a. 5-6 ab. 15 é 17 ( : cf. 15)",
+        "verses": [1, 2, 3, 4, 5, 6, 15, 17],
+        "refrain": "Bouch mouin ap anonsé sové ou sové nou-an, Granmèt,",
+        "text": [
+          "Sé nan ou, Granmèt, mouin éspéré,\npa kité-m ront pou tout tan.",
+          "Nan jistis ou-a délivré-m, sové-m ;\npanché zòrèy ou sou mouin, sové-m.",
+          "Sé pou-ou sèvi-m yon ròch sitadèl,\nak yon kay défans, pou-ou sové-m,\npaské fòs mouin ak kachèt mouin sé ou minm.",
+          "Bondié mouin, ouété-m nan min péchè-a.",
+          "Paské sé ou minm ki éspérans mouin, Granmèt ;\nGranmèt, éspérans mouin dépi-m tou jèn.",
+          "Sé sou ou mouin apuiyé dépi-m nan vant,\ndépi nan vant manman-m sé ou minm ki soutni-m.",
+          "Bouch mouin ap anonsé jistis ou,\ntout jounin sové ou sové nou-an,\npou-m t-a konté-l, mouin pa kapab.",
+          "Bondié, ou ban-m ansègnman dépi-m tou jèn ;\njous koulié-a m-ap anonsé mèvèy ou yo."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Youn nan nou ap bay mouin… Kòk la pap chanté, ou-ap gin tan nié-m toua foua.",
+        "source": "Léktu sint Évanjil la dapré Jan",
+        "reference": "13, 21-33. 36-38",
+        "text": "Lè sa-a : Jézu té sou tab avèk disip li yo, éspri-l vi-n troublé, li témouagné, li di : « Amèn, amèn mouin di nou sa, youn nan nou ap trayi-m ».\nDisip yo youn t-ap gadé lòt, yo pa-t fi-n konprann sa-l té vlé di-a.\nYoun nan disip Jézu yo ki té sou tab yo té kouché sou léstonmak li, sa-a Jézu té rinmin-an. Simon Piè fè-l sign, li di-l : « Ki moun l-ap palé-a ? »\nKòm sa-a té kouché sou pouatri-n Jézu, li di-l : « Granmèt, kilès ? »\nJézu réponn : « Sé sa-a m-ap lonjé pin-an mouin fi-n tranpé-a ba li ».\nKon-l tranpé pin-an, li bay Juda, pitit Simon Iskariòt la. Apré bouché-a, Satan antré nan li.\nJézu di-l : « Sa ou-ap fè-a, fè-l vit ».\nKon-l fi-n pran bouché-a, li soti minm lè-a. Sé té nannuit.\nKon-l fi-n sòti, Jézu di : « Koulié-a Pitit moun nan jouinn gloua li, Bondié jouinn gloua li nan li tou… »\n« Kòk la pap chanté, ou-ap déja nié-m toua foua ».\nParòl Granmèt la."
+      }
+    }
+  },
+
+  "mekredi_sen": {
+    "reading_mode": "standard",
+    "title": "Mèkrédi Sen",
+    "readings": {
+      "first_reading": {
+        "title": "Mouin pa viré fas mouin louin moun k-ap maltrété-m yo.",
+        "source": "Léktu liv profèt Izayi",
+        "reference": "50, 4-9 a",
+        "text": "Granmèt la ban-m yon lang ki gin konésans, pou-m kapab soutni ak paròl moun ki bouké-a…\nMin Granmèt Bondié k-ap poté-m sékou ; kilès k-ap kondané-m ?\nParòl Granmèt la."
+      },
+      "psalm": {
+        "title": null,
+        "reference": "Ps 68, 8-10. 21 bcd-22. 31 é 33-34 ( : 14 c é b)",
+        "verses": [8, 9, 10, 21, 22, 31, 33, 34],
+        "refrain": "Nan pakèt mizérikòd ou, Granmèt, kouté-m, nan tan gras la.",
+        "text": [
+          "Sèké sé poutèt ou mouin sipòté afron, laront kouvri fas mouin ;\nmouin vi-n tounin étranjé pou frè-m yo.",
+          "Sèké jalouzi kay ou-a dévoré-m,\nafron moun k-ap manké-ou déga yo, yo tonbé sou mouin.",
+          "Afron-an krazé kè-m, mouin fébli.",
+          "Yo mété fièl nan manjé-m,\nnan souaf mouin yo ban-m bouè vinèg.",
+          "M-ap fè louanj non Bondié-a avèk kantik.",
+          "Sé pou pòv yo ouè, pou yo kontan.",
+          "Paské Granmèt la kouté pòv yo,\nli pa méprizé prizonié-l yo."
+        ]
+      },
+      "second_reading": null,
+      "gospel": {
+        "title": "Pitit moun nan apralé jan sa ékri-a ; min ala malè pou sa-a ki sèvi lantrémiz pou bay li-a.",
+        "source": "Léktu sint Évanjil la dapré Matié",
+        "reference": "26, 14-25",
+        "text": "Youn nan douz yo alé, sa yo rélé Juda Iskariòt la…\n« Ou di-l ».\nParòl Granmèt la."
+      }
+    }
+  },
+  "jeudi_saint_chrisme": {
+  "reading_mode": "multiple",
+  "title": "Jédi sin – Mès Sin-Krèm",
+  "readings": {
+    "first_reading": {
+      "title": "Granmèt la sakré-m, li voyé-m anonsé pòv yo bon nouvèl la, ba yo losion kè kontan-an.",
+      "source": "Léktu liv profèt Izayi",
+      "reference": "61, 1-3 a. 6 a. 8 b-9",
+      "text": "Éspri Granmèt la sou mouin, sé pousa Granmèt la sakré-m, li voyé-m\npoté nouvèl bay pòv yo, pou-m pansé kè ki krazé yo, pou-m préché\npadon bay prizonié yo, délivrans bay sa-k fèmin yo, pou-m préché yon\nané koté Granmèt la fè gras, yon jou vanjans pou Bondié nou-an, pou-m\nkonsolé tout moun ki nan lapinn, pou-m mété yon kouròn nan plas sann\npou moun Siyon yo ki nan lapinn yo, losion kè kontan nan plas dèy,\nmanto louanj nan plas éspri tristès.\nNou minm y-ap rélé nou « prèt Granmèt la », y-ap di nou « sèvitè\nBondié nou-an ».\nM-ap ba yo rézilta travay yo nan vérité, m-ap pasé yon alians tout tan\navèk yo. Y-ap rékonèt ras yo nan nasion yo, ak sa-k sot nan yo nan mitan\npèp yo. Tout moun k-ap ouè yo ap rékonèt yo, paské yo sé sémans\nGranmèt la béni.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 88, 21-22. 25 é 27 ( : cf. 2 a)",
+      "verses": [21, 22, 25, 27],
+      "refrain": "Mizérikòd ou, Granmèt, sé tout tan m-ap chanté-l.",
+      "text": [
+        "Mouin jouinn David sèvitè-m nan ;\nak luil mouin ki sin-an mouin sakré-l.",
+        "Min-m ap rét fèm avèk li,\nbra-m ap ba li fòs.",
+        "Vérité-m ak mizérikòd mouin ap avèk li,\no non-m l-ap lévé kòn li.",
+        "Li minm l-ap rélé-m : « Sé Papa-m ou yé,\nBondié-m ak kachèt k-ap sové-m nan »."
+      ]
+    },
+    "second_reading": {
+      "title": "Li fè nou vi-n tounin péyi-roua ak prèt pou Bondié Papa-a.",
+      "source": "Léktu liv Apokalips apot sin Jan",
+      "reference": "1, 5-8",
+      "text": "Gras pou nou ak lapè sot nan Jézu-Kri, ki témouin fidèl la, prémié pitit\nnan pami mò yo, ak chèf roua yo ki sou tè-a, li minm ki rinmin nou, ki\nlavé nou sot nan péché nou yo nan san-l, ki fè nou vi-n tounin péyi-roua\nak prèt pou Bondié Papa-l ; konpliman pou li ak otorité pou tout tan gin\ntan. Amèn.\nMin l-ap vini avèk niaj yo, tout jé ap ouè-l, minm sa-k té transpèsé-l\nyo ; tout ras sou tè-a ap plinn sou li. Oui. Amèn.\nSé mouin minm alfa ak oméga, kòmansman ak finisman, sé sa Granmèt\nla di, li minm ki la, ki té la, k-ap vini, li minm ki gin tout pouvoua-a.\nParòl Granmèt la."
+    },
+    "gospel": {
+      "title": "Éspri Granmèt la sou mouin ; sé pousa li sakré-m.",
+      "source": "Léktu sint Évanjil la dapré Luk",
+      "reference": "4, 16-21",
+      "text": "Jézu rivé Nazarèt, koté yo té fè édikasion-l nan, li antré nan sinagòg la\ndapré abitid li, jou saba-a, li lévé pou-l li. Yo rinmèt li liv profèt Izayi-a.\nLi louvri liv la, li jouinn koté ki ékri-a :\n« Éspri Granmèt la sou mouin ; sé pousa li sakré-m, li voyé-m poté\nbòn nouvèl la bay pòv yo... »\nLi kòmansé di yo : « Jodi-a sa-k ékri la-a akonpli nan zòrèy nou ».\nParòl Granmèt la."
+    }
+  }
+},
+  "jeudi_saint_cene": {
+  "reading_mode": "multiple",
+  "title": "Jédi sin – Mès soupé Granmèt la asouè",
+  "readings": {
+    "first_reading": {
+      "title": "Kòmandman pou soupé pak la.",
+      "source": "Léktu liv Égzòd",
+      "reference": "12, 1-8. 11-14",
+      "text": "Granmèt la di Moyiz avèk Aaron nan péyi Éjip...\nN-ap gin jou sa-a kòm souvni n-ap fété-l tankou yon gran fèt pou\nGranmèt la nan jénérasion nou ak yon sèvis pou tout tan.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 115, 12-13. 15-16 bc. 17-18 ( : cf. 1 Kor 10, 16)",
+      "verses": [12, 13, 15, 16, 17, 18],
+      "refrain": "Kalis bénédiksion-an sé kominion San Jézu-Kri.",
+      "text": [
+        "Ki sa pou-m rinmèt Granmèt la\npou tou sa-l fè pou mouin ?",
+        "M-ap pran kalis k-ap sové-a,\nm-ap rélé non Granmèt la.",
+        "Li gin valè dévan jé Granmèt la\nlanmò sin-l yo.",
+        "Ou kasé chinn mouin yo.",
+        "M-ap sakrifié sakrifis louanj ba ou.",
+        "M-ap rinmèt Granmèt la sa-m té promèt yo,\ndévan tout pèp la."
+      ]
+    },
+    "second_reading": {
+      "title": "Chak foua n-ap manjé, n-ap bouè, sé lanmò Granmèt la n-ap anonsé.",
+      "source": "Léktu prémié lèt apot sin Pòl pou Korintyin yo",
+      "reference": "11, 23-26",
+      "text": "Granmèt Jézu, nan nuit yo té rinmèt li-a...\nRéyèlman chak foua n-ap manjé pin sa-a...\njoustan li vini.\nParòl Granmèt la."
+    },
+    "gospel": {
+      "title": "Li rinmin yo jous nan bout.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "13, 1-15",
+      "text": "Anvan jou fèt Pak la...\nMouin ba nou égzanp,\npou jan-m fè avèk nou-an konsa pou nou fè tou.\nParòl Granmèt la."
+    }
+  }
+},
+"vendredi_saint": {
+  "reading_mode": "passion_single_block",
+  "title": "Vandrédi sin – Sérémoni Soufrans Granmèt la",
+  "readings": {
+    "first_reading": {
+      "title": "Li blésé poutèt péché nou yo (Katriyèm chan Sèvitè Granmèt la).",
+      "source": "Léktu liv profèt Izayi",
+      "reference": "52, 13-53, 12",
+      "text": "Min sèvitè-m nan ap gin konprann, y-ap lévé-l anlè, y-ap lévé-l byin\nro, l-ap anlè nèt...\nli t-ap lapriyè pou sa-k fè péché yo.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 30, 2 é 6. 12-13. 15-16. 17 é 25 ( : Lk 23, 46)",
+      "verses": [2, 6, 12, 13, 15, 16, 17, 25],
+      "refrain": "Papa, nan min-ou mouin rinmèt léspri-m.",
+      "text": [
+        "Nan ou, Granmèt, mouin éspéré, pa kité-m ront pou tout tan ;\nnan jistis ou délivré-m.",
+        "Nan min-ou mouin rinmèt léspri-m ;\nou délivré-m, Granmèt, Bondié vérité-a.",
+        "Dévan tout ènmi-m yo mouin vi-n tounin dézonè,\nni pou vouazin-m yo minm, sézisman pou zanmi-m yo.",
+        "Yo bliyé-m nan kè, tankou yon moun mouri ;\nmouin tankou yon véso ki pèdi.",
+        "Min mouin minm sé nan ou mouin éspéré, Granmèt ;\nmouin di : « Sé Bondié-m ou yé ».",
+        "Nan min-ou déstiné-m yé.\nDélivré-m sot nan min ènmi-m yo.",
+        "Kléré fas ou sou sèvitè-ou,\nsové-m nan mizérikòd ou.",
+        "Aji avèk kouraj, rafèmi kè nou,\nnou tout ki éspéré nan Granmèt la."
+      ]
+    },
+    "second_reading": {
+      "title": "Li aprann obéyisans, li vi-n tounin kòz délivrans pou tout moun ki obéyi-l.",
+      "source": "Léktu lèt Ébré yo",
+      "reference": "4, 14-16 ; 5, 7-9",
+      "text": "Kòm nou gin yon gran prèt an chèf, ki antré nan sièl yo, Jézu Pitit\nBondié...\nli vi-n tounin kòz délivrans tout tan-an pou tout moun ki obéyi-l.\nParòl Granmèt la."
+    },
+    "gospel": {
+      "title": "Yo arété Jézu, yo maré-l.",
+      "source": "Soufrans Granmèt nou Jézu-Kri dapré Jan",
+      "reference": "18, 1-19, 42",
+      "text": "Jézu soti avèk disip li yo lòt bò ravi-n Sédron-an...\nSé la yo té mété Jézu."
+    }
+  }
+},
+"lindi_oktav_pak": {
+  "reading_mode": "standard",
+  "title": "Lindi anndan oktav Pak la",
+  "readings": {
+    "first_reading": {
+      "title": "Jézu sa-a, Bondié fè-l résisité, nou tout nou sèvi-l témouin.",
+      "source": "Léktu Travay Apot yo",
+      "reference": "2, 14. 22-33",
+      "text": "Jou Pannkot la, Piè kanpé avèk onz yo, li lévé voua-l, li déklaré :\n« Mésié Juif yo ak nou tout ki abité Jéruzalèm, aprann sa, paré zòrèy nou nan paròl mouin yo. Mésié Israèl yo, kouté paròl sa yo : Jézu moun Nazarèt la, mésié sa-a Bondié té sèvi-l témouin nan mitan nou-an, avèk mèvèy, prodij ak sign Bondié té fè pa lantrémiz li nan mitan nou, jan nou konnin-an, sé li minm nou té touyé-a, lè nou fi-n rinmèt li nan min méchan yo pou yo fè-l pasé tray, dapré plan Bondié té fiksé ak prévouayans li. Bondié lévé-l, li détoui soufrans anba tè yo, paské sa pa-t posib pou-l té rét kinbé anba-l. Sèké David di osijè-l : ―Mouin té ouè Granmèt la dévan fas mouin davans tout tan, paské li adouat mouin, mouin pap tranblé. Sé pousa kè-m kontan, lang mouin ap fété, ata chè-m rét pozé nan éspérans ; paské ou pap lagé nanm mouin anba tè-a, ou pap kité Sin-ou nan ouè dékonpozision. Ou fè-m konnin rout lavi-a, ou-ap plin-m ak kè kontan dévan fas ou‖.\nMésié frè-m yo, kité-m palé nou karéman sou papa nou David, li mouri, yo antéré-l, kavo-l lakay nou jous jodi-a. Kòm li té profèt, li té konnin Bondié té fè-l sèman osijè foui rin li, pou-l té fè-l chita sou tro-n li, li té prévoua li t-ap palé sou réziréksion Jézu-Kri-a, sèké li pa abandoné anba tè-a, chè-l pa ouè dékonpozision. Jézu sa-a, Bondié résisité-l, nou tout nou sèvi-l témouin. Antan-l lévé anlè réyèlman gras a min douat Bondié, épi li résévoua promès Éspri Sin-an nan min Papa-a, li vidé-l, sa nou tandé-a épi nou ouè-a ».\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 15, 1-2 a é 5. 7-8. 9-10. 11 ( : 1)",
+      "verses": [1, 2, 5, 7, 8, 9, 10, 11],
+      "refrain": "Prézèvé-m, Bondié, paské mouin éspéré nan ou.",
+      "text": [
+        "Prézèvé-m Bondié, paské mouin éspéré nan ou.\nMouin di Granmèt la : « Sé Granmèt mouin mouin ou yé ».",
+        "Granmèt, pòsion éritaj mouin ak kalis mouin :\nsé ou minm ki kinbé déstiné mouin.",
+        "M-ap fè konpliman pou Granmèt la ki ban-m intélijans ;\nminm nannuit rin-m ban-m léson.",
+        "Mouin té mété Granmèt la dévan fas mouin tout tan,\npaské li adouat mouin, mouin pap tranblé.",
+        "Sé pousa kè-m kontan, tout anndan fon kè-m ap dansé ;\nminm chè-m pozé nan éspérans.",
+        "Paské ou pap lagé nanm mouin nan abitasion mò yo,\nou pap kité sin-ou nan ouè dékonpozision.",
+        "Ou-ap fè-m konnin rout lavi yo,\nkè kontan k-ap débòdé avèk fas ou,\nplézi adouat ou jous pou tout tan."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Anonsé frè-m yo pou y-al nan Galilé, sé la y-a ouè-m.",
+      "source": "Léktu sint Évanjil la dapré Matié",
+      "reference": "28, 8-15",
+      "text": "Lè sa-a : médam yo pati byin vit sot nan kavo-a ak sézisman ak gran kè kontan, y-al pot nouvèl bay disip li yo. Jézu vi-n rankontré yo, li di : « Salu ». Yo minm yo proché, yo kinbé pié-l, yo adoré-l. Lè sa-a atò, Jézu di yo : « Pa pè ; alé, anonsé frè-m yo, pou y-al nan Galilé, sé la y-a ouè-m ».\nPandan y-alé, gin kèk nan gad yo ki rivé nan vil la ; yo anonsé gran prèt yo tou sa-k té pasé. Yo rasanblé, yo fè réyinion avèk ansyin yo, yo bay sòlda yo anpil lajan, yo di : « Di sé disip li yo ki vi-n nannuit, yo vòlè-l, pandan nou t-ap dòmi. Si préfè-a aprann sa, n-a konvink li, n-a fè nou gin asirans ». Yo minm, lè yo vi-n résévoua lajan-an, yo fè jan yo té aprann yo-a. Paròl sa-a gayé kay Juif yo jous jounin jodi-a.\nParòl Granmèt la."
+    }
+  }
+},
+"madi_oktav_pak": {
+  "reading_mode": "standard",
+  "title": "Madi anndan sémèn Pak la",
+  "readings": {
+    "first_reading": {
+      "title": "Fè pénitans, sé pou chak moun nan nou batizé o non Jézu.",
+      "source": "Léktu Travay Apot yo",
+      "reference": "2, 36-41",
+      "text": "Jou Pannkot la, Piè t-ap di Juif yo :\n« Sètènman sé pou tout kay Israèl la konn sa, Bondié fè-l Granmèt ak Kris, Jézu sa-a nou té klouré sou koua-a ». Lè yo tandé paròl sa yo, yo chagrin nan kè yo, yo di Piè ak lòt Apot yo : « Ki sa pou nou fè, mésié frè nou yo ? »\nPiè minm di yo : « Sé pou nou fè pénitans, sé pou chak moun nan nou batizé o non Jézu, pou padon péché nou yo, n-a résévoua kado Éspri Sin-an. Sèké sé pou nou promès la yé, ansanm ak pitit nou yo, ak tout moun ki louin yo, tou sa Granmèt Bondié nou-an rélé yo ». Ak anpil dòt paròl ankò li t-ap sèvi témouin, li t-ap ankourajé yo, li t-ap di : « Sové lavi nou sot nan jénérasion sa-a ki mové-a ». Moun yo ki té résévoua paròl li-a, yo batizé, jou sa-a té gin apéprè toua mil moun ki vi-n tounin disip.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 32, 4-5. 18-19. 20. 22 ( : 5b)",
+      "verses": [4, 5, 18, 19, 20, 22],
+      "refrain": "Mizérikòd Granmèt la plin tè-a.",
+      "text": [
+        "Sèké paròl Granmèt la douat,\ntout aksion-l yo nan fidélité.\nLi rinmin jistis ak jijman,\nmizérikòd Granmèt la plin tè-a.",
+        "Min jé Granmèt la sou moun ki réspékté-l yo,\nsou moun ki éspéré sou kè sansib li,\npou-l délivré nanm yo sot nan lanmò,\npou-l ba yo manjé nan grangou.",
+        "Nanm nou ap konté sou Granmèt la,\npaské sé sékou nou ak protéksion nou li yé.\nSé pou mizérikòd ou vi-n sou nou, Granmèt,\ntankou nou té éspéré nan ou."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Mouin ouè Granmèt la, sé bagay sa yo li di-m.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "20, 11-18",
+      "text": "Lè sa-a :\nMari té kanpé bò kavo-a, sou pa déyò, li t-ap kriyé. Pandan l-ap kriyé, li panché, li gadé anndan kavo-a. Li ouè dé Anj an blan ki chita, youn bò tèt la ak lòt la bò pié yo, koté yo té pozé kò Jézu-a. Yo di-l : « Madanm, pouki sa ou-ap kriyé ? » Li di yo : « Sé paské yo pran Granmèt mouin-an, mouin pa konnin koté yo mété-l ».\nPandan l-ap di sa, li viré gadé dèyè, li ouè Jézu kanpé ; min li pa-t konnin sé té Jézu. Jézu di-l : « Madanm, poukisa ou-ap kriyé ? Kilès ou-ap chèché ? » Li minm antan-l konprann sé jéran jadin-an, li di li : « Mèt, si sé ou-k té ouété-l, di-m koté-ou té dépozé-l ; épi mouin minm m-a pran-l ». Jézu di-l : « Mari ! » Li viré, li di-l : « Raboni (sa vlé di Mèt) ! » Jézu di-l : « Pa touché-m ; mouin pa ko monté kot Papa-m. Min al kot frè-m yo, di yo : ―M-ap monté kot Papa-m ak Papa nou-an, Bondié-m nan ak Bondié nou-an‖ ». Mari Madlèn rivé, li anonsé disip yo : « Mouin ouè Granmèt la, sé bagay sa yo li di-m ».\nParòl Granmèt la."
+    }
+  }
+},
+"mekredi_oktav_pak": {
+  "reading_mode": "standard",
+  "title": "Mèkrédi anndan sémèn Pak la",
+  "readings": {
+    "first_reading": {
+      "title": "Sa-m ginyin-an, mouin ba ou-l : o non Jézu, lévé, maché.",
+      "source": "Léktu Travay Apot yo",
+      "reference": "3, 1-10",
+      "text": "Jou sa yo :\nPiè ak Jan t-ap monté nan Tanp la pou lè lapriyè névièm è-a. Té gin yon mésié ki té infim dépi nan vant manman-l, yo t-ap poté-l. Chak jou yo té konn dépozé-l bò pòt Tanp la, sa yo rélé Bèl la, pou-l mandé moun yo k-ap antré nan Tanp la lacharité.\nLi minm, kon-l ouè Piè ak Jan k-apral antré nan kay sakré-a, li mandé yo pou yo fè-l jouinn lacharité. Piè minm antan-l ap gadé-l byin ansanm ak Jan, li di : « Gadé nou ». Li minm li pozé jé-l sou yo, li té éspéré li t-ap jouinn kichòy nan min yo. Piè minm di : « Lajan ak lò, mouin pa gin sa ; sa-m ginyin-an mouin ba ou-l : o non Jézu-Kri moun Nazarèt la, lévé, maché ».\nLi pran min douat li, li lévé-l, minm lè-a jouintu ak plant pié-l vi-n solid. Li vòltijé kanpé, li t-ap maché, li antré avèk yo nan Tanp la, l-ap maché, l-ap vòltijé, l-ap fè louanj Bondié. Tout pèp la ouè l-ap maché, l-ap fè louanj Bondié. Yo té rékonèt li, sé li minm ki té konn chita bò Bèl Pòt Tanp la, pou lacharité-a ; yo té plin ak sézisman, yo té dékontrolé pou sa-k té rivé-l la.\nParòl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 104, 1-2. 3-4. 6-7. 8-9 ( : 3 b)",
+      "verses": [1, 2, 3, 4, 6, 7, 8, 9],
+      "refrain": "Sé pou kè moun yo k-ap chèché Granmèt la kontan.",
+      "text": [
+        "Fè louanj Granmèt la, rélé non-l,\nanonsé travay li nan pami nasion yo.\nChanté pou li, joué mizik pou li,\nkalkilé sou tout mèvèy li yo.",
+        "Fè louanj nou nan non-l ki sin-an,\nsé pou kè moun yo k-ap chèché Granmèt la kontan.\nChèché Granmèt la ak pouvoua-l,\nchèché fas li tout tan.",
+        "Ras Abraam, sèvitè-l,\npitit Jakòb, sila-a chouazi-a.\nSé li minm Granmèt Bondié nou ;\nsou tout tè-a jijman-l yo.",
+        "Li sonjé alians li-a tout tan,\nparòl li té kòmandé bay mil jénérasion yo,\nsa-l té pasé avèk Abraam nan,\nsèman li té fè bay Izaak la."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Yo rékonèt li nan kasé pin-an.",
+      "source": "Léktu sint Évanjil la dapré Luk",
+      "reference": "24, 13-35",
+      "text": "Té gin dé nan disip Jézu yo ki t-apral nan bouk, prémié jou sémèn sa-a, bouk la té yon distans onz kilomèt parapò a Jéruzalèm, yo té rélé-l Émayus. Yo minm yo t-ap palé antré yo sou tou sa-k té pasé.\nRivé, pandan y-ap kozé, y-ap chèché antré yo, Jézu minm proché, l-ap maché avèk yo. Jé yo té gin yon bagay ki kinbé yo, pou yo pa rékonèt li. Li di yo : « Ki paròl sa yo, n-ap palé antré nou pandan n-ap maché-a, épi ki fè nou tris la ? » Youn yo rélé Kléofas, di-l : « Sé ou minm sèl ki étranjé nan Jéruzalèm, ou pa konnin sa-k rivé nan jou sa yo ? » Li di yo : « Ki bagay ? »\nYo di : « Osijè Jézu moun Nazarèt la, ki té yon profèt, ki gin pouvoua nan aksion ak paròl dévan Bondié ak tout pèp la. Kijan prèt an chèf yo ak chèf nou yo rinmèt li nan kondanasion lanmò, épi yo klouré-l sou koua. Nou minm nou té éspéré, sé li minm ki t-ap délivré Israèl ; koulié-a minm sou tout bagay sa yo jodi-a sé touazièm jou dépi yo rivé.\nMin kèk médam nan pami nou té fè nou sézi, yo t-al nan kavo-a dévan-jou, yo pa jouinn kò-l, yo vi-n di yo ouè vizion Anj yo, ki di yo li vivan. Kèkzin nan nou al nan kavo-a, yo jouinn bagay yo jan médam yo di-a ; min li minm yo pa jouinn li ».\nLi di yo : « Nou sòt, nou pran tan nan kè nou pou nou kouè tou sa profèt yo té palé yo ! Èské Kris la pa-t gin pou-l soufri, épi sé konsa pou-l antré nan gloua-l la ? » Li kòmansé dépi sou Moyiz ak tout profèt yo, li éspliké yo nan tout sa-k ékri-a sa-k té konsèné-l.\nYo proché bò bouk la koté yo t-apralé-a, li minm li fè kòmsi l-apral pi louin ; yo fòsé-l, yo di : « Rét avèk nou, paské asouè rivé, jou-a déja bésé ». Li antré avèk yo.\nPandan li atablé avèk yo, li pran pin, li béni, li kasé, li ba yo. Jé yo louvri, yo rékonèt li. Li minm minm li disparèt sot dévan jé yo.\nYoun di lòt : « Èské kè nou pa-t cho anndan nou, pandan li t-ap palé sou chémin-an, li t-ap éspliké nou sa-k ékri yo ? » Yo lévé minm lè-a, yo tounin Jéruzalèm. Yo jouinn onz yo rasanblé, ni sa yo ki té avèk yo-a ; yo di : « Granmèt la lévé vré, li parèt dévan Simon ». Yo rakonté sa-k té pasé sou chémin-an, kijan yo té rékonèt li nan kasé pin-an.\nParòl Granmèt la."
+    }
+  }
+},
+"jedi_oktav_pak": {
+  "reading_mode": "standard",
+  "title": "Jédi anndan sémèn Pak la",
+  "readings": {
+    "first_reading": {
+      "title": "Nou touyé Lotè lavi-a, Bondié résisité-l sot nan pami mò yo.",
+      "source": "Léktu Travay Apot yo",
+      "reference": "3, 11-26",
+      "text": "Jou sa yo :\n   Kòm infim nan ki té géri-a té kinbé Piè ak Jan, tout pèp la kouri koté yo, bò pòtay yo rélé pòtay Salomon-an, yo té sézi. Lè Piè ouè sa, li réponn pèp la : « Mésié Israèl yo, pouki sa nou sézi pou bagay sa-a ? oubyin pouki sa n-ap gadé nou-an, kòm si sé ak fòs nou oubyin sé ak pouvoua nou nou fè mésié sa-a maché-a ? Bondié Abraam ak Bondié Izaak ak Bondié Jakòb la, Bondié papa nou yo fè ouè gloua Pitit li-a Jézu, li minm nou té bay la, nou té nié dévan fas Pilat la, lè Pilat té jijé pou-l té lagé-l la. Nou minm sé Sin-an ak sa-a ki kòrèk la nou té nié, nou té mandé pou yo ba nou yon moun ki touyé moun ; Lotè lavi-a minm, nou touyé-l, min Bondié résisité-l sot nan pami mò yo, nou sèvi-l témouin. Nan lafoua o non-l, sa-a nou ouè-a, nou konnin-an, non-l fè-l kanpé fèm ; sé lafoua ki réalizé pa lantrémiz li-a, ki bay santé sa-a ki intak la dévan fas nou tout la. Koulié-a frè-m yo mouin konnin sé paské nou pa-t konnin ki fè nou fè sa, minm jan ak chèf nou yo. Min Bondié, sa-l té anonsé davans nan bouch profèt yo, pou Kris li-a soufri-a, sé konsa li réalizé-l. Konsa sé pou nou fè pénitans, sé pou nou chanjé konduit, pou péché nou yo éfasé ; pou lè tan fréchè yo rivé vi-n sot nan fas Granmèt la, li voyé sa-a yo té préché nou-an, Jézu-Kri, li minm sièl la gin pou-l kinbé jous nan tan y-ap rémété tout bagay nan plas yo-a, sa Bondié té palé nan bouch sin-l yo lontan-an, profèt yo. Sèké Moyiz té di : ―Granmèt Bondié nou-an ap fè yon profèt lévé pou nou nan mitan frè nou yo, tankou mouin minm ; sé pou nou kouté-l, dapré tou sa l-ap di nou. Tout moun ki pa kouté profèt sa-a, y-ap ouété-l sot nan pèp la‖. Tout profèt yo dépi Samuèl ak sa-k vi-n apré-l yo, ki té palé yo, yo té anonsé jou sa yo.\n   Nou minm nou sé pitit profèt yo ak alians la, sa Bondié té pasé ak papa nou yo, lè-l té di Abraam nan : ―Nan ras ou tout fanmi tè-a ap jouinn bénédiksion‖. Sé nou minm an prémié Bondié voyé Pitit li-a ba nou, sa-l résisité-a, ki béni nou-an, pou nou chak viré do sot nan péché-l yo‖ ».\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 8, 2 a é 5. 6-7. 8-9 ( : 2 ab)",
+      "verses": [2, 5, 6, 7, 8, 9],
+      "refrain": "Granmèt, Granmèt nou, ala gran non-ou gran sou tout tè-a !",
+      "text": [
+        "Granmèt, Granmèt nou,",
+        "sa moun nan yé, pou-ou sonjé-l ?",
+        "Ou fè-l vi-n pi ba yon ti kras anba Anj yo,",
+        "ak gloua ak konsidérasion ou kouronnin-l ;",
+        "ou instalé-l anlè travay min-ou yo.",
+        "Ni mouton ni bèf, yo tout,",
+        "zouazo sièl yo ak pouason lanmè yo."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Sé konsa Kris la té gin pou-l té soufri, pou-l résisité sot nan pami mò yo sou touazièm jou-a.",
+      "source": "Léktu sint Évanjil la dapré Luk",
+      "reference": "24, 35-48",
+      "text": "Lè sa-a :\n   Disip yo t-ap rakonté bagay ki té pasé sou chémin-an... Nou minm nou témouin bagay sa yo ».\n   Paròl Granmèt la."
+    }
+  }
+},
+
+"vandredi_oktav_pak": {
+  "reading_mode": "standard",
+  "title": "Vandrédi anndan sémèn Pak la",
+  "readings": {
+    "first_reading": {
+      "title": "Pa gin sové yo kapab sové nan pèsòn lòt moun.",
+      "source": "Léktu Travay Apot yo",
+      "reference": "4, 1-12",
+      "text": "Jou sa yo :\n   Piè ak Jan t-ap palé ak pèp la toujou...\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 117, 1-2 é 4. 22-24. 25-27 a ( : 22)",
+      "verses": [1, 2, 4, 22, 23, 24, 25, 26, 27],
+      "refrain": "Ròch la bòs mason yo réjté-a, sé li minm ki vi-n tounin tèt kouin-an.",
+      "text": [
+        "Fè louanj Granmèt la, poutèt li bon,",
+        "Sé pou Israèl di sa koulié-a, poutèt li bon,",
+        "Sé pou sa yo ki krinn Granmèt la di,",
+        "Ròch la bòs mason yo té réjté-a,",
+        "sé nan Granmèt la sa soti pou-l fèt,",
+        "Sa-a sé jou Granmèt la fè-a :",
+        "Granmèt, sové-m,",
+        "Konpliman pou sa-a k-ap vini o non Granmèt la.",
+        "Bondié Granmèt la kléré nou."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Jézu rivé, li pran pin-an, li ba yo ak pouason-an.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "21, 1-14",
+      "text": "Lè sa-a :\n   Jézu parèt ankò dévan disip yo bò lanmè Tibériad la...\n   Paròl Granmèt la."
+    }
+  }
+},
+
+"samdi_oktav_pak": {
+  "reading_mode": "standard",
+  "title": "Samdi anndan sémèn Pak la",
+  "readings": {
+    "first_reading": {
+      "title": "Nou pa kapab pa di sa nou ouè ak sa nou tandé.",
+      "source": "Léktu Travay Apot yo",
+      "reference": "4, 13-21",
+      "text": "Jou sa yo :\n   Lè chèf prèt yo ak ansyin yo...\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 117, 1. 14-15. 16 ab-18. 19-21 ( : 21 a)",
+      "verses": [1, 14, 15, 16, 18, 19, 20, 21],
+      "refrain": "M-ap fè louanj ou, Granmèt, paské ou kouté mouin.",
+      "text": [
+        "Fè louanj Granmèt la, poutèt li bon,",
+        "Fòs mouin ak louanj mouin sé Granmèt la,",
+        "Voua kè kontan ak sové nou sové-a",
+        "Min douat Granmèt la fè mèvèy,",
+        "Granmèt la korijé-m byin korijé,",
+        "Louvri pòt jistis yo pou mouin,",
+        "Sa-a sé pòt Granmèt la,",
+        "M-ap fè louanj ou, paské ou kouté-m."
+      ]
+    },
+    "second_reading": null,
+    "gospel": {
+      "title": "Alé, sou tout tè-a préché Bòn Nouvèl la.",
+      "source": "Léktu sint Évanjil la dapré Mark",
+      "reference": "16, 9-15",
+      "text": "Jézu résisité granmatin, prémié jou sémèn nan...\n   Paròl Granmèt la."
+    }
+  }
+},
+"deziem_dimanch_pak": {
+  "reading_mode": "solemn",
+  "title": "Dézièm Dimanch tan Pak – Divi-n Mizèrikòd",
+  "readings": {
+    "first_reading": {
+      "title": "Tout moun ki té kouè yo té ansanm, yo té gin tout bagay an komin.",
+      "source": "Léktu Travay Apot yo",
+      "reference": "2, 42-47",
+      "text": "Frè yo té pèsévéré nan ansègnman Apot yo, ak kominion pin-an yo séparé-a, ak priyè yo.\n   Krint té rivé nan tout kè. Té gin anpil prodij ak sign ki t-ap fèt pa lantrémiz Apot yo nan Jéruzalèm, té gin gro krintif nan tout moun. Tout moun ki té kouè yo té ansanm, yo té gin tout bagay an komin : yo té vann propriété yo ak byin yo, yo té séparé yo pou tout moun, dapré sa chak moun té bézouin.\n   Chak jou yo té pèsévéré ansanm nan Tanp la, yo té séparé pin-an lakay yo, yo té konn pran manjé-a avèk kontantman ak yon kè sinp, antan y-ap fè louanj Bondié, yo té gin favè tout foul la. Chak jou Granmèt la té ajouté nan yo lòt moun, ki té sovè yo.\n   Paròl Granmèt la."
+    },
+    "psalm": {
+      "title": null,
+      "reference": "Ps 117, 2-4. 13-15. 22-24 ( : 1)",
+      "verses": [2, 3, 4, 13, 14, 15, 22, 23, 24],
+      "refrain": "Fè louanj Granmèt la poutèt li bon, poutèt mizérikòd li pou tout tan.",
+      "text": [
+        "Sé pou Israèl di sa koulié-a, poutèt li bon, poutèt mizérikòd li pou tout tan.",
+        "Sé pou kay Aaron-an di sa koulié-a, poutèt mizérikòd li pou tout tan.",
+        "Sé pou sa yo ki krinn Granmèt la di, poutèt mizérikòd li pou tout tan.",
+        "Yo pousé-m byin pousé, pou-m tonbé, min Granmèt la poté-m sékou.",
+        "Fòs mouin ak louanj mouin sé Granmèt la, sé li minm ki sové-m.",
+        "Voua kè kontan ak sové nou sové-a nan tant sa yo ki kòrèk yo.",
+        "Ròch la bòs mason yo té réjté-a, sé li minm ki vi-n tounin tèt kouin-an,",
+        "sé nan Granmèt la sa soti pou-l fèt, sé yon bagay éstraòdinè nan jé nou.",
+        "Sa-a sé jou Granmèt la fè-a : sé pou nou fété, sé pou nou kontan nan li."
+      ]
+    },
+    "second_reading": {
+      "title": "Li réfè nou nan éspérans vivan-an gras a réziréksion Jézu-Kri sot nan pami mò yo.",
+      "source": "Léktu prémié lèt apot sin Piè",
+      "reference": "1, 3-9",
+      "text": "Konpliman pou Bondié, ak Papa Granmèt nou Jézu-Kri, li minm ki té réfè nou nan éspérans vivan-an gras a réziréksion Jézu-Kri sot nan pami mò yo, dapré gran mizérikòd li-a, pou yon éritaj ki pap détoui, ki pap sal, ki pap vi-n vié, k-ap diré nan sièl la pou nou, nou minm yo prézèvé pou sové nou sové-a gras a lafoua-a, nan pouvoua Bondié-a, sové nou sové sa-a yo paré pou révélé-l nan dènié tan-an.\n   Nan li nou gin kè kontan, minm si koulié-a, nou gin pou nou gin chagrin nan divès bagay k-ap tanté nou ; pou éprèv lafoua nou-an ki gin plis pri pasé lò-a, sa yo éséyé nan difé-a, li rivé nan louanj ak gloua ak konsidérasion nan révélasion Jézu-Kri-a, li minm nou rinmin san nou pa ouè-l la ; li minm nou kouè nan li, minm si koulié-a nou pa ouè-l la ; antan nou kouè-a n-ap kontan nan yon kontantman san parèy, ki nan gloua, n-ap jouinn rékonpans lafoua nou nan délivrans nanm yo.\n   Paròl Granmèt la."
+    },
+    "gospel": {
+      "title": "Apré ui jou, Jézu rivé.",
+      "source": "Léktu sint Évanjil la dapré Jan",
+      "reference": "20, 19-31",
+      "text": "Lè asouè rivé, jou sa-a, prémié jou sémèn nan, tout pòt yo té fèmin, koté disip yo té rasanblé poutèt yo té pè Juif yo, Jézu rivé, li kanpé nan mitan, li di yo : « Lapè pou nou »... épi pou antan nou kouè-a, nou gin lavi o non-l.\n   Paròl Granmèt la."
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+  }
+

@@ -1,0 +1,3289 @@
+[
+  {
+    "date": "2026-01-01",
+    "title": "Jeudi de la Sainte Marie, Mère de Dieu",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Sainte Marie, Mère de Dieu",
+    "lectionary_id": "A-TPSNOEL-01-JEU"
+  },
+  {
+    "date": "2026-01-02",
+    "title": "Vendredi - Saint Basile le Grand et Saint Grégoire de Nazianze, évêques et docteurs de L’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Saint Basile le Grand et Saint Grégoire de Nazianze, évêques et docteurs de L’Église",
+    "lectionary_id": "A-TPSNOEL-01-VEN"
+  },
+  {
+    "date": "2026-01-03",
+    "title": "Samedi du Temps de la Nativité - Le Saint Nom de Jésus",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Le Saint Nom de Jésus",
+    "lectionary_id": "A-TPSNOEL-01-SAM"
+  },
+  {
+    "date": "2026-01-04",
+    "title": "Dimanche - L’Épiphanie",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "L’Épiphanie",
+    "lectionary_id": "A-TPSNOEL-01-DIM"
+  },
+  {
+    "date": "2026-01-05",
+    "title": "Lundi après l’Épiphanie",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-LUN"
+  },
+  {
+    "date": "2026-01-06",
+    "title": "Mardi après l’Épiphanie",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-MAR"
+  },
+  {
+    "date": "2026-01-07",
+    "title": "Mercredi après l’Épiphanie - Saint Raymond de Penyafort, prêtre",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Saint Raymond de Penyafort, prêtre",
+    "lectionary_id": "A-TO-02-MER"
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Jeudi après l’Épiphanie",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-JEU"
+  },
+  {
+    "date": "2026-01-09",
+    "title": "Vendredi après l’Épiphanie",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-VEN"
+  },
+  {
+    "date": "2026-01-10",
+    "title": "Samedi après l’Épiphanie",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-SAM"
+  },
+  {
+    "date": "2026-01-11",
+    "title": "Dimanche - Le Baptême du Seigneur",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Le Baptême du Seigneur",
+    "lectionary_id": "A-TO-02-DIM"
+  },
+  {
+    "date": "2026-01-12",
+    "title": "Lundi de la 1ᵉʳ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-TO-01-LUN"
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Mardi de la 1ᵉʳ Semaine du Temps Ordinaire - Saint Hilaire, évêque et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Saint Hilaire, évêque et docteur de l’Église",
+    "lectionary_id": "A-TO-01-MAR"
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Mercredi de la 1ᵉʳ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-TO-01-MER"
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Jeudi de la 1ᵉʳ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-TO-01-JEU"
+  },
+  {
+    "date": "2026-01-16",
+    "title": "Vendredi de la 1ᵉʳ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-TO-01-VEN"
+  },
+  {
+    "date": "2026-01-17",
+    "title": "Samedi - Saint Antoine, abbé",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Saint Antoine, abbé",
+    "lectionary_id": "A-TO-01-SAM"
+  },
+  {
+    "date": "2026-01-18",
+    "title": "Dimanche - 2ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-DIM"
+  },
+  {
+    "date": "2026-01-19",
+    "title": "Lundi de la 2ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-LUN"
+  },
+  {
+    "date": "2026-01-20",
+    "title": "Mardi de la 2ᵉ Semaine du Temps Ordinaire - Saint Fabien, pape et martyr / Saint Sébastien, martyr",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Saint Fabien, pape et martyr / Saint Sébastien, martyr",
+    "lectionary_id": "A-TO-02-MAR"
+  },
+  {
+    "date": "2026-01-21",
+    "title": "Mercredi - Notre-Dame d’Altagrâce",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Notre-Dame d’Altagrâce",
+    "lectionary_id": "A-TO-02-MER"
+  },
+  {
+    "date": "2026-01-22",
+    "title": "Jeudi de la 2ᵉ Semaine du Temps Ordinaire - Saint Vincent, diacre et martyr",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Saint Vincent, diacre et martyr",
+    "lectionary_id": "A-TO-02-JEU"
+  },
+  {
+    "date": "2026-01-23",
+    "title": "Vendredi de la 2ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TO-02-VEN"
+  },
+  {
+    "date": "2026-01-24",
+    "title": "Samedi - Saint François de Sales, évêque et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Saint François de Sales, évêque et docteur de l’Église",
+    "lectionary_id": "A-TO-02-SAM"
+  },
+  {
+    "date": "2026-01-25",
+    "title": "Dimanche - 3ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-TO-03-DIM"
+  },
+  {
+    "date": "2026-01-26",
+    "title": "Lundi - Saint Timothée et Saint Tite, évêques",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Timothée et Saint Tite, évêques",
+    "lectionary_id": "A-TO-03-LUN"
+  },
+  {
+    "date": "2026-01-27",
+    "title": "Mardi de la 3ᵉ Semaine du Temps Ordinaire - Sainte Angèle Merici, vierge",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Sainte Angèle Merici, vierge",
+    "lectionary_id": "A-TO-03-MAR"
+  },
+  {
+    "date": "2026-01-28",
+    "title": "Mercredi - Saint Thomas d’Aquin, prêtre et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Thomas d’Aquin, prêtre et docteur de l’Église",
+    "lectionary_id": "A-TO-03-MER"
+  },
+  {
+    "date": "2026-01-29",
+    "title": "Jeudi de la 3ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-TO-03-JEU"
+  },
+  {
+    "date": "2026-01-30",
+    "title": "Vendredi de la 3ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-TO-03-VEN"
+  },
+  {
+    "date": "2026-01-31",
+    "title": "Samedi - Saint Jean Bosco, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Jean Bosco, prêtre",
+    "lectionary_id": "A-TO-03-SAM"
+  },
+  {
+    "date": "2026-02-01",
+    "title": "4ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-TO-04-DIM"
+  },
+  {
+    "date": "2026-02-02",
+    "title": "La Présentation du Seigneur au Temple",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "La Présentation du Seigneur",
+    "lectionary_id": "A-TO-04-LUN"
+  },
+  {
+    "date": "2026-02-03",
+    "title": "Mardi de la 4ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc / Rouge",
+    "week": 4,
+    "saint": "Saint Anschaire, évêque ; Saint Blaise, évêque et martyr",
+    "lectionary_id": "A-TO-04-MAR"
+  },
+  {
+    "date": "2026-02-04",
+    "title": "Mercredi de la 4ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-TO-04-MER"
+  },
+  {
+    "date": "2026-02-05",
+    "title": "Sainte Agathe, vierge et martyre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 4,
+    "saint": "Sainte Agathe, vierge et martyre",
+    "lectionary_id": "A-TO-04-JEU"
+  },
+  {
+    "date": "2026-02-06",
+    "title": "Saint Paul Miki et ses compagnons, martyrs",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 4,
+    "saint": "Saint Paul Miki et ses compagnons, martyrs",
+    "lectionary_id": "A-TO-04-VEN"
+  },
+  {
+    "date": "2026-02-07",
+    "title": "Samedi de la 4ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-04-SAM"
+  },
+  {
+    "date": "2026-02-08",
+    "title": "5ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-TO-05-DIM"
+  },
+  {
+    "date": "2026-02-09",
+    "title": "Lundi de la 5ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-TO-05-LUN"
+  },
+  {
+    "date": "2026-02-10",
+    "title": "Sainte Scholastique, vierge",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "Sainte Scholastique, vierge",
+    "lectionary_id": "A-TO-05-MAR"
+  },
+  {
+    "date": "2026-02-11",
+    "title": "Mercredi de la 5ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "Notre-Dame de Lourdes",
+    "lectionary_id": "A-TO-05-MER"
+  },
+  {
+    "date": "2026-02-12",
+    "title": "Jeudi de la 5ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-TO-05-JEU"
+  },
+  {
+    "date": "2026-02-13",
+    "title": "Vendredi de la 5ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-TO-05-VEN"
+  },
+  {
+    "date": "2026-02-14",
+    "title": "Saint Cyrille, moine, et Saint Méthode, évêque",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "Saint Cyrille, moine, et Saint Méthode, évêque",
+    "lectionary_id": "A-TO-05-SAM"
+  },
+  {
+    "date": "2026-02-15",
+    "title": "6ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-TO-06-DIM"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "Lundi de la 6ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-TO-06-LUN"
+  },
+  {
+    "date": "2026-02-17",
+    "title": "Mardi de la 6ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Mémoire facultative" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "Les sept saints fondateurs des Servites de Marie",
+    "lectionary_id": "A-TO-06-MAR"
+  },
+  {
+    "date": "2026-02-18",
+    "title": "Mercredi des Cendres",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 0,
+    "saint": "",
+    "lectionary_id": "A-CAR-ASH-MER"
+  },
+  {
+    "date": "2026-02-19",
+    "title": "Jeudi après les Cendres",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 0,
+    "saint": "",
+    "lectionary_id": "1J-ASH"
+  },
+  {
+    "date": "2026-02-20",
+    "title": "Vendredi après les Cendres",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 0,
+    "saint": "",
+    "lectionary_id": "A-CAR-ASH-VEN"
+  },
+  {
+    "date": "2026-02-21",
+    "title": "Samedi après les Cendres",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 0,
+    "saint": "Saint Pierre Damien, évêque et docteur de l’Église",
+    "lectionary_id": "A-CAR-ASH-SAM"
+  },
+  {
+    "date": "2026-02-22",
+    "title": "1ᵉʳ Dimanche de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-CAR-01-DIM"
+  },
+  {
+    "date": "2026-02-23",
+    "title": "Lundi de la 1ᵉʳ Semaine de Carême",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Rouge",
+    "week": 1,
+    "saint": "Saint Polycarpe, évêque et martyr",
+    "lectionary_id": "A-CAR-01-LUN"
+  },
+  {
+    "date": "2026-02-24",
+    "title": "Mardi de la 1ᵉʳ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-CAR-01-MAR"
+  },
+  {
+    "date": "2026-02-25",
+    "title": "Mercredi de la 1ᵉʳ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-CAR-01-MER"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "Jeudi de la 1ᵉʳ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-CAR-01-JEU"
+  },
+  {
+    "date": "2026-02-27",
+    "title": "Vendredi de la 1ᵉʳ Semaine de Carême",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Saint Grégoire de Narek, abbé et docteur de l’Église",
+    "lectionary_id": "A-CAR-01-VEN"
+  },
+  {
+    "date": "2026-02-28",
+    "title": "Samedi de la 1ᵉʳ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-CAR-01-SAM"
+  },
+  {
+    "date": "2026-03-01",
+    "title": "2ᵉ Dimanche de Carême",
+    "liturgical_rank": { "type": "Dimanche de Carême" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-CAREME-2-DIM"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "Lundi de la 2ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-CAREME-2-LUN"
+  },
+  {
+    "date": "2026-03-03",
+    "title": "Mardi de la 2ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-CAREME-2-MAR"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "Mercredi de la 2ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "Saint Casimir",
+    "lectionary_id": "A-CAREME-2-MER"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "Jeudi de la 2ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-CAREME-2-JEU"
+  },
+  {
+    "date": "2026-03-06",
+    "title": "Vendredi de la 2ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-CAREME-2-VEN"
+  },
+  {
+    "date": "2026-03-07",
+    "title": "Samedi de la 2ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "Sainte Perpétue et Sainte Félicité, martyres",
+    "lectionary_id": "A-CAREME-2-SAM"
+  },
+  {
+    "date": "2026-03-08",
+    "title": "3ᵉ Dimanche de Carême",
+    "liturgical_rank": { "type": "Dimanche de Carême" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-CAREME-3-DIM"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "Lundi de la 3ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "Sainte Françoise Romaine, religieuse",
+    "lectionary_id": "A-CAREME-3-LUN"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "Mardi de la 3ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-CAREME-3-MAR"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "Mercredi de la 3ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-CAREME-3-MER"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "Jeudi de la 3ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-CAREME-3-JEU"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "Vendredi de la 3ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-CAREME-3-VEN"
+  },
+  {
+    "date": "2026-03-14",
+    "title": "Samedi de la 3ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-CAREME-3-SAM"
+  },
+  {
+    "date": "2026-03-15",
+    "title": "4ᵉ Dimanche de Carême",
+    "liturgical_rank": { "type": "Dimanche de Carême" },
+    "liturgical_color": "Rose ou Violet",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-CAREME-4-DIM"
+  },
+  {
+    "date": "2026-03-16",
+    "title": "Lundi de la 4ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-CAREME-4-LUN"
+  },
+  {
+    "date": "2026-03-17",
+    "title": "Mardi de la 4ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "Saint Patrice, évêque",
+    "lectionary_id": "A-CAREME-4-MAR"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Mercredi de la 4ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "Saint Cyrille de Jérusalem, évêque et docteur de l’Église",
+    "lectionary_id": "A-CAREME-4-MER"
+  },
+  {
+    "date": "2026-03-19",
+    "title": "Saint Joseph, époux de la Vierge Marie",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "Saint Joseph",
+    "lectionary_id": "A-CAREME-4-JEU"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "Vendredi de la 4ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-CAREME-4-VEN"
+  },
+  {
+    "date": "2026-03-21",
+    "title": "Samedi de la 4ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-CAREME-4-SAM"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "5ᵉ Dimanche de Carême",
+    "liturgical_rank": { "type": "Dimanche de Carême" },
+    "liturgical_color": "Violet",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-CAREME-5-DIM"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "Saint Turibio de Mogrovejo, évêque",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "Saint Turibio de Mogrovejo",
+    "lectionary_id": "A-CAREME-5-LUN"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Mardi de la 5ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-CAREME-5-MAR"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "L’Annonciation du Seigneur",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "L’Annonciation du Seigneur",
+    "lectionary_id": "A-CAREME-5-MER"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Jeudi de la 5ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-CAREME-5-JEU"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Vendredi de la 5ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-CAREME-5-VEN"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Samedi de la 5ᵉ Semaine de Carême",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-CAREME-5-SAM"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "Dimanche des Rameaux et de la Passion du Seigneur",
+    "liturgical_rank": { "type": "Dimanche de Carême" },
+    "liturgical_color": "Rouge",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-CAREME-6-DIM"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Lundi Saint",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-CAREME-6-LUN"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Mardi Saint",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-CAREME-6-MAR"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Mercredi Saint",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-CAREME-6-MER"
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Jeudi Saint: La Cène du Seigneur",
+    "liturgical_rank": { "type": "Triduum" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TRIDUUM-1-JEU"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Vendredi Saint: Célébration de la Passion et de la Mort du Seigneur",
+    "liturgical_rank": { "type": "Triduum" },
+    "liturgical_color": "Rouge",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TRIDUUM-2-VEN"
+  },
+  {
+    "date": "2026-04-04",
+    "title": "Samedi Saint",
+    "liturgical_rank": { "type": "Triduum" },
+    "liturgical_color": "Aucun",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-TRIDUUM-3-SAM"
+  },
+  {
+    "date": "2026-04-05",
+    "title": "Dimanche de Pâques: La Résurrection du Seigneur",
+    "liturgical_rank": { "type": "Dimanche de Pâques" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-1-DIM"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Lundi dans l’Octave de Pâques",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-1-LUN"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Mardi dans l’Octave de Pâques",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-1-MAR"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Mercredi dans l’Octave de Pâques",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-1-MER"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Jeudi dans l’Octave de Pâques",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-1-JEU"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Vendredi dans l’Octave de Pâques",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-1-VEN"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Samedi dans l’Octave de Pâques",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-1-SAM"
+  },
+  {
+    "date": "2026-04-12",
+    "title": "2ᵉ Dimanche de Pâques ou de la Miséricorde",
+    "liturgical_rank": { "type": "Dimanche de Pâques" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-2-DIM"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Lundi de la 2ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Saint Martin Iᵉʳ, pape et martyr",
+    "lectionary_id": "A-PASQUE-2-LUN"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Mardi de la 2ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-2-MAR"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Mercredi de la 2ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-2-MER"
+  },
+  {
+    "date": "2026-04-16",
+    "title": "Jeudi de la 2ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-2-JEU"
+  },
+  {
+    "date": "2026-04-17",
+    "title": "Vendredi de la 2ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-2-VEN"
+  },
+  {
+    "date": "2026-04-18",
+    "title": "Samedi de la 2ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-2-SAM"
+  },
+  {
+    "date": "2026-04-19",
+    "title": "3ᵉ Dimanche de Pâques",
+    "liturgical_rank": { "type": "Dimanche de Pâques" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-3-DIM"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "Lundi de la 3ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-3-LUN"
+  },
+  {
+    "date": "2026-04-21",
+    "title": "Mardi de la 3ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Anselme, évêque et docteur de l’Église",
+    "lectionary_id": "A-PASQUE-3-MAR"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Mercredi de la 3ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-3-MER"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "Jeudi de la 3ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Adalbert, évêque; Saint Georges, martyr",
+    "lectionary_id": "A-PASQUE-3-JEU"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Vendredi de la 3ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Fidèle de Sigmaringen, prêtre et martyr",
+    "lectionary_id": "A-PASQUE-3-VEN"
+  },
+  {
+    "date": "2026-04-25",
+    "title": "Saint Marc, évangéliste",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Marc",
+    "lectionary_id": "A-PASQUE-3-SAM"
+  },
+  {
+    "date": "2026-04-26",
+    "title": "4ᵉ Dimanche de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-4-DIM"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "Lundi de la 4ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-4-LUN"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "Mardi de la 4ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "Saint Louis-Marie Grignion de Montfort, prêtre; Saint Pierre Chanel, prêtre et martyr",
+    "lectionary_id": "A-PASQUE-4-MAR"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "Sainte Catherine de Sienne, vierge et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "Sainte Catherine de Sienne",
+    "lectionary_id": "A-PASQUE-4-MER"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Jeudi de la 4ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "Saint Pie V, pape",
+    "lectionary_id": "A-PASQUE-4-JEU"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "Vendredi de la 4ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "Saint Joseph travailleur",
+    "lectionary_id": "A-PASQUE-4-VEN"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "Saint Athanase, évêque et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 4,
+    "saint": "Saint Athanase",
+    "lectionary_id": "A-PASQUE-4-SAM"
+  },
+  {
+    "date": "2026-05-03",
+    "title": "5ᵉ Dimanche de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-5-DIM"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Lundi de la 5ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-5-LUN"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Mardi de la 5ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-5-MAR"
+  },
+  {
+    "date": "2026-05-06",
+    "title": "Mercredi de la 5ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-5-MER"
+  },
+  {
+    "date": "2026-05-07",
+    "title": "Jeudi de la 5ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-5-JEU"
+  },
+  {
+    "date": "2026-05-08",
+    "title": "Vendredi de la 5ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-5-VEN"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Samedi de la 5ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 5,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-5-SAM"
+  },
+  {
+    "date": "2026-05-10",
+    "title": "6ᵉ Dimanche de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-6-DIM"
+  },
+  {
+    "date": "2026-05-11",
+    "title": "Lundi de la 6ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-6-LUN"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "Mardi de la 6ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "Saint Nérée et Saint Achille, martyrs; Saint Pancrace, martyr",
+    "lectionary_id": "A-PASQUE-6-MAR"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Mercredi de la 6ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "Notre-Dame de Fatima",
+    "lectionary_id": "A-PASQUE-6-MER"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "Ascension du Seigneur",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-6-JEU"
+  },
+  {
+    "date": "2026-05-15",
+    "title": "Vendredi de la 6ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-6-VEN"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "Samedi de la 6ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 6,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-6-SAM"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "7ᵉ Dimanche de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 7,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-7-DIM"
+  },
+  {
+    "date": "2026-05-18",
+    "title": "Lundi de la 7ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 7,
+    "saint": "Saint Jean Iᵉʳ, pape et martyr",
+    "lectionary_id": "A-PASQUE-7-LUN"
+  },
+  {
+    "date": "2026-05-19",
+    "title": "Mardi de la 7ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 7,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-7-MAR"
+  },
+  {
+    "date": "2026-05-20",
+    "title": "Mercredi de la 7ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 7,
+    "saint": "Saint Bernardin de Sienne, prêtre",
+    "lectionary_id": "A-PASQUE-7-MER"
+  },
+  {
+    "date": "2026-05-21",
+    "title": "Jeudi de la 7ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 7,
+    "saint": "Saint Christophe Magallanès, prêtre, et ses compagnons, martyrs",
+    "lectionary_id": "A-PASQUE-7-JEU"
+  },
+  {
+    "date": "2026-05-22",
+    "title": "Vendredi de la 7ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 7,
+    "saint": "Sainte Rita de Cascia, religieuse",
+    "lectionary_id": "A-PASQUE-7-VEN"
+  },
+  {
+    "date": "2026-05-23",
+    "title": "Samedi de la 7ᵉ Semaine de Pâques",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 7,
+    "saint": "",
+    "lectionary_id": "A-PASQUE-7-SAM"
+  },
+  {
+    "date": "2026-05-24",
+    "title": "Dimanche de la Pentecôte",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Rouge",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "A-PENTECOTE-1-DIM"
+  },
+  {
+    "date": "2026-05-25",
+    "title": "Bienheureuse Vierge Marie, Mère de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 8,
+    "saint": "Bienheureuse Vierge Marie, Mère de l’Église",
+    "lectionary_id": "A-TO-8-LUN"
+  },
+  {
+    "date": "2026-05-26",
+    "title": "Saint Philippe Neri, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 8,
+    "saint": "Saint Philippe Neri",
+    "lectionary_id": "A-TO-8-MAR"
+  },
+  {
+    "date": "2026-05-27",
+    "title": "Mercredi de la 8ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 8,
+    "saint": "Saint Augustin de Cantorbéry, évêque",
+    "lectionary_id": "A-TO-8-MER"
+  },
+  {
+    "date": "2026-05-28",
+    "title": "Jeudi de la 8ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 8,
+    "saint": "",
+    "lectionary_id": "A-TO-8-JEU"
+  },
+  {
+    "date": "2026-05-29",
+    "title": "Vendredi de la 8ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 8,
+    "saint": "Saint Paul VI, pape",
+    "lectionary_id": "A-TO-8-VEN"
+  },
+  {
+    "date": "2026-05-30",
+    "title": "Samedi de la 8ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 8,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-8-SAM"
+  },
+  {
+    "date": "2026-05-31",
+    "title": "La Très Sainte Trinité",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 8,
+    "saint": "",
+    "lectionary_id": "A-TO-8-DIM"
+  },
+  {
+    "date": "2026-06-01",
+    "title": "Saint Justin, martyr",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 9,
+    "saint": "Saint Justin, martyr",
+    "lectionary_id": "A-TO-9-LUN"
+  },
+  {
+    "date": "2026-06-02",
+    "title": "Mardi de la 9ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 9,
+    "saint": "Saint Marcellin et Saint Pierre, martyrs",
+    "lectionary_id": "A-TO-9-MAR"
+  },
+  {
+    "date": "2026-06-03",
+    "title": "Saint Charles Lwanga et ses compagnons, martyrs",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 9,
+    "saint": "Saint Charles Lwanga et ses compagnons, martyrs",
+    "lectionary_id": "A-TO-9-MER"
+  },
+  {
+    "date": "2026-06-04",
+    "title": "Le Saint-Sacrement du Corps et du Sang du Christ",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 9,
+    "saint": "",
+    "lectionary_id": "A-TO-9-JEU"
+  },
+  {
+    "date": "2026-06-05",
+    "title": "Saint Boniface, évêque et martyr",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 9,
+    "saint": "Saint Boniface, évêque et martyr",
+    "lectionary_id": "A-TO-9-VEN"
+  },
+  {
+    "date": "2026-06-06",
+    "title": "Samedi de la 9ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 9,
+    "saint": "Saint Norbert, évêque; La Vierge Marie",
+    "lectionary_id": "A-TO-9-SAM"
+  },
+  {
+    "date": "2026-06-07",
+    "title": "10ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 10,
+    "saint": "",
+    "lectionary_id": "A-TO-10-DIM"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "Lundi de la 10ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 10,
+    "saint": "",
+    "lectionary_id": "A-TO-10-LUN"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Mardi de la 10ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 10,
+    "saint": "Saint Éphrem, diacre et docteur de l’Église",
+    "lectionary_id": "A-TO-10-MAR"
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Mercredi de la 10ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 10,
+    "saint": "",
+    "lectionary_id": "A-TO-10-MER"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Saint Barnabé, apôtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 10,
+    "saint": "Saint Barnabé, apôtre",
+    "lectionary_id": "A-TO-10-JEU"
+  },
+  {
+    "date": "2026-06-12",
+    "title": "Le Sacré-Cœur de Jésus",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 10,
+    "saint": "",
+    "lectionary_id": "A-TO-10-VEN"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Samedi de la 10ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 10,
+    "saint": "Le Cœur Immaculé de Marie; Saint Antoine de Padoue, prêtre et docteur de l’Église",
+    "lectionary_id": "A-TO-10-SAM"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "11ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 11,
+    "saint": "",
+    "lectionary_id": "A-TO-11-DIM"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Lundi de la 11ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 11,
+    "saint": "",
+    "lectionary_id": "A-TO-11-LUN"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Mardi de la 11ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 11,
+    "saint": "",
+    "lectionary_id": "A-TO-11-MAR"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Mercredi de la 11ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 11,
+    "saint": "",
+    "lectionary_id": "A-TO-11-MER"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Jeudi de la 11ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 11,
+    "saint": "",
+    "lectionary_id": "A-TO-11-JEU"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Vendredi de la 11ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 11,
+    "saint": "Saint Romuald, abbé",
+    "lectionary_id": "A-TO-11-VEN"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Samedi de la 11ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 11,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-11-SAM"
+  },
+  {
+    "date": "2026-06-21",
+    "title": "12ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 12,
+    "saint": "",
+    "lectionary_id": "A-TO-12-DIM"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Lundi de la 12ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 12,
+    "saint": "Saint Jean Fisher, évêque, et Saint Thomas More, martyrs; Saint Paulin de Nole, évêque",
+    "lectionary_id": "A-TO-12-LUN"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Mardi de la 12ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 12,
+    "saint": "",
+    "lectionary_id": "A-TO-12-MAR"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "La Nativité de Saint Jean Baptiste",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 12,
+    "saint": "Saint Jean Baptiste",
+    "lectionary_id": "A-TO-12-MER"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Jeudi de la 12ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 12,
+    "saint": "",
+    "lectionary_id": "A-TO-12-JEU"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Vendredi de la 12ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 12,
+    "saint": "",
+    "lectionary_id": "A-TO-12-VEN"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Notre-Dame du Perpétuel Secours",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 12,
+    "saint": "Notre-Dame du Perpétuel Secours",
+    "lectionary_id": "A-TO-12-SAM"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "13ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 13,
+    "saint": "",
+    "lectionary_id": "A-TO-13-DIM"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Saint Pierre et Saint Paul, apôtres",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Rouge",
+    "week": 13,
+    "saint": "Saint Pierre et Saint Paul, apôtres",
+    "lectionary_id": "A-TO-13-LUN"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Mardi de la 13ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 13,
+    "saint": "Les premiers martyrs de l’Église de Rome",
+    "lectionary_id": "A-TO-13-MAR"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "Mercredi de la 13ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 13,
+    "saint": "",
+    "lectionary_id": "A-TO-13-MER"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Jeudi de la 13ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 13,
+    "saint": "",
+    "lectionary_id": "A-TO-13-JEU"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Saint Thomas, apôtre",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 13,
+    "saint": "Saint Thomas, apôtre",
+    "lectionary_id": "A-TO-13-VEN"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Tous les Saints Souverains Pontifes",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 13,
+    "saint": "Tous les Saints Souverains Pontifes",
+    "lectionary_id": "A-TO-13-SAM"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "14ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 14,
+    "saint": "",
+    "lectionary_id": "A-TO-14-DIM"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Lundi de la 14ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 14,
+    "saint": "Sainte Maria Goretti, vierge et martyre",
+    "lectionary_id": "A-TO-14-LUN"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Mardi de la 14ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 14,
+    "saint": "",
+    "lectionary_id": "A-TO-14-MAR"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Mercredi de la 14ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 14,
+    "saint": "",
+    "lectionary_id": "A-TO-14-MER"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Jeudi de la 14ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 14,
+    "saint": "Saint Augustin Zhao Rong, prêtre, et ses compagnons, martyrs",
+    "lectionary_id": "A-TO-14-JEU"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Vendredi de la 14ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 14,
+    "saint": "",
+    "lectionary_id": "A-TO-14-VEN"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "Saint Benoît, abbé",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 14,
+    "saint": "Saint Benoît, abbé",
+    "lectionary_id": "A-TO-14-SAM"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "15ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 15,
+    "saint": "",
+    "lectionary_id": "A-TO-15-DIM"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Lundi de la 15ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 15,
+    "saint": "Saint Henri",
+    "lectionary_id": "A-TO-15-LUN"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "Mardi de la 15ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 15,
+    "saint": "Saint Camille de Lellis, prêtre",
+    "lectionary_id": "A-TO-15-MAR"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "Saint Bonaventure, évêque et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 15,
+    "saint": "Saint Bonaventure, évêque et docteur de l’Église",
+    "lectionary_id": "A-TO-15-MER"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Jeudi de la 15ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 15,
+    "saint": "Notre-Dame du Mont-Carmel",
+    "lectionary_id": "A-TO-15-JEU"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Vendredi de la 15ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 15,
+    "saint": "",
+    "lectionary_id": "A-TO-15-VEN"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Samedi de la 15ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 15,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-15-SAM"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "16ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 16,
+    "saint": "",
+    "lectionary_id": "A-TO-16-DIM"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Lundi de la 16ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 16,
+    "saint": "Saint Apollinaire, évêque et martyr",
+    "lectionary_id": "A-TO-16-LUN"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Mardi de la 16ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 16,
+    "saint": "Saint Laurent de Brindisi, prêtre et docteur de l’Église",
+    "lectionary_id": "A-TO-16-MAR"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Sainte Marie Madeleine",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 16,
+    "saint": "Sainte Marie Madeleine",
+    "lectionary_id": "A-TO-16-MER"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Jeudi de la 16ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 16,
+    "saint": "Sainte Brigitte de Suède, religieuse",
+    "lectionary_id": "A-TO-16-JEU"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Vendredi de la 16ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 16,
+    "saint": "Saint Charbel Maklouf, prêtre",
+    "lectionary_id": "A-TO-16-VEN"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Saint Jacques, apôtre",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 16,
+    "saint": "Saint Jacques, apôtre",
+    "lectionary_id": "A-TO-16-SAM"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "17ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 17,
+    "saint": "",
+    "lectionary_id": "A-TO-17-DIM"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "Lundi de la 17ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 17,
+    "saint": "",
+    "lectionary_id": "A-TO-17-LUN"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Mardi de la 17ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 17,
+    "saint": "",
+    "lectionary_id": "A-TO-17-MAR"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Sainte Marthe, Sainte Marie et Saint Lazare",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 17,
+    "saint": "Sainte Marthe, Sainte Marie et Saint Lazare",
+    "lectionary_id": "A-TO-17-MER"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Jeudi de la 17ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 17,
+    "saint": "Saint Pierre Chrysologue, évêque et docteur de l’Église",
+    "lectionary_id": "A-TO-17-JEU"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Saint Ignace de Loyola, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 17,
+    "saint": "Saint Ignace de Loyola, prêtre",
+    "lectionary_id": "A-TO-17-VEN"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "Saint Alphonse-Marie de Liguori, évêque et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 18,
+    "saint": "Saint Alphonse-Marie de Liguori, évêque et docteur de l’Église",
+    "lectionary_id": "A-TO-18-SAM"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "18ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 18,
+    "saint": "",
+    "lectionary_id": "A-TO-18-DIM"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "Lundi de la 18ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 18,
+    "saint": "",
+    "lectionary_id": "A-TO-18-LUN"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Saint Jean-Marie Vianney, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 18,
+    "saint": "Saint Jean-Marie Vianney, prêtre",
+    "lectionary_id": "A-TO-18-MAR"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Mercredi de la 18ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 18,
+    "saint": "La Dédicace de la Basilique Sainte-Marie Majeure",
+    "lectionary_id": "A-TO-18-MER"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "La Transfiguration du Seigneur",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 18,
+    "saint": "La Transfiguration du Seigneur",
+    "lectionary_id": "A-TO-18-JEU"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Vendredi de la 18ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 18,
+    "saint": "Saint Gaétan, prêtre; Saint Sixte II, pape, et ses compagnons, martyrs",
+    "lectionary_id": "A-TO-18-VEN"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "Saint Dominique, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 18,
+    "saint": "Saint Dominique, prêtre",
+    "lectionary_id": "A-TO-18-SAM"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "19ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 19,
+    "saint": "",
+    "lectionary_id": "A-TO-19-DIM"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Saint Laurent, diacre et martyr",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 19,
+    "saint": "Saint Laurent, diacre et martyr",
+    "lectionary_id": "A-TO-19-LUN"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Sainte Claire, vierge",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 19,
+    "saint": "Sainte Claire, vierge",
+    "lectionary_id": "A-TO-19-MAR"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Mercredi de la 19ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 19,
+    "saint": "Sainte Jeanne-Françoise de Chantal, religieuse",
+    "lectionary_id": "A-TO-19-MER"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Jeudi de la 19ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 19,
+    "saint": "Saint Pontien, pape, et Saint Hippolyte, prêtre, martyrs",
+    "lectionary_id": "A-TO-19-JEU"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Saint Maximilien Kolbe, prêtre et martyr",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 19,
+    "saint": "Saint Maximilien Kolbe, prêtre et martyr",
+    "lectionary_id": "A-TO-19-VEN"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "L’Assomption de la Vierge Marie",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 19,
+    "saint": "L’Assomption de la Vierge Marie",
+    "lectionary_id": "A-TO-19-SAM"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "20ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 20,
+    "saint": "",
+    "lectionary_id": "A-TO-20-DIM"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Lundi de la 20ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 20,
+    "saint": "",
+    "lectionary_id": "A-TO-20-LUN"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Mardi de la 20ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 20,
+    "saint": "",
+    "lectionary_id": "A-TO-20-MAR"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Mercredi de la 20ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 20,
+    "saint": "Saint Jean Eudes, prêtre",
+    "lectionary_id": "A-TO-20-MER"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Saint Bernard, abbé et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 20,
+    "saint": "Saint Bernard, abbé et docteur de l’Église",
+    "lectionary_id": "A-TO-20-JEU"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Saint Pie X, pape",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 20,
+    "saint": "Saint Pie X, pape",
+    "lectionary_id": "A-TO-20-VEN"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "La Vierge Marie Reine",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 20,
+    "saint": "La Vierge Marie Reine",
+    "lectionary_id": "A-TO-20-SAM"
+  },
+  {
+    "date": "2026-08-23",
+    "title": "21ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 21,
+    "saint": "",
+    "lectionary_id": "A-TO-21-DIM"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Saint Barthélemy, apôtre",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 21,
+    "saint": "Saint Barthélemy, apôtre",
+    "lectionary_id": "A-TO-21-LUN"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Mardi de la 21ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 21,
+    "saint": "Saint Joseph de Calasanz, prêtre; Saint Louis, roi de France",
+    "lectionary_id": "A-TO-21-MAR"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Mercredi de la 21ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 21,
+    "saint": "",
+    "lectionary_id": "A-TO-21-MER"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Sainte Monique",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 21,
+    "saint": "Sainte Monique",
+    "lectionary_id": "A-TO-21-JEU"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Saint Augustin, évêque et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 21,
+    "saint": "Saint Augustin, évêque et docteur de l’Église",
+    "lectionary_id": "A-TO-21-VEN"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Le Martyre de Saint Jean Baptiste",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 21,
+    "saint": "Le Martyre de Saint Jean Baptiste",
+    "lectionary_id": "A-TO-21-SAM"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "22ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 22,
+    "saint": "",
+    "lectionary_id": "A-TO-22-DIM"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Lundi de la 22ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 22,
+    "saint": "",
+    "lectionary_id": "A-TO-22-LUN"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Mardi de la 22ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 22,
+    "saint": "",
+    "lectionary_id": "A-TO-22-MAR"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Mercredi de la 22ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 22,
+    "saint": "",
+    "lectionary_id": "A-TO-22-MER"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Saint Grégoire le Grand, pape, docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 22,
+    "saint": "Saint Grégoire le Grand, pape, docteur de l’Église",
+    "lectionary_id": "A-TO-22-JEU"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Vendredi de la 22ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 22,
+    "saint": "",
+    "lectionary_id": "A-TO-22-VEN"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Samedi de la 22ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 22,
+    "saint": "Sainte Teresa de Calcutta, vierge; La Vierge Marie",
+    "lectionary_id": "A-TO-22-SAM"
+  },
+  {
+    "date": "2026-09-06",
+    "title": "23ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 23,
+    "saint": "",
+    "lectionary_id": "A-TO-23-DIM"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Lundi de la 23ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 23,
+    "saint": "",
+    "lectionary_id": "A-TO-23-LUN"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "La Nativité de la Vierge Marie",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 23,
+    "saint": "La Nativité de la Vierge Marie",
+    "lectionary_id": "A-TO-23-MAR"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Saint Pierre Claver, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 23,
+    "saint": "Saint Pierre Claver, prêtre",
+    "lectionary_id": "A-TO-23-MER"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Jeudi de la 23ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 23,
+    "saint": "",
+    "lectionary_id": "A-TO-23-JEU"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Vendredi de la 23ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 23,
+    "saint": "",
+    "lectionary_id": "A-TO-23-VEN"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Samedi de la 23ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 23,
+    "saint": "Le Saint Nom de Marie",
+    "lectionary_id": "A-TO-23-SAM"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "24ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 24,
+    "saint": "",
+    "lectionary_id": "A-TO-24-DIM"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "La Croix Glorieuse",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 24,
+    "saint": "La Croix Glorieuse",
+    "lectionary_id": "A-TO-24-LUN"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Notre-Dame des Douleurs",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 24,
+    "saint": "Notre-Dame des Douleurs",
+    "lectionary_id": "A-TO-24-MAR"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Saint Corneille, pape, et Saint Cyprien, évêque, martyrs",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 24,
+    "saint": "Saint Corneille, pape, et Saint Cyprien, évêque, martyrs",
+    "lectionary_id": "A-TO-24-MER"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Jeudi de la 24ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 24,
+    "saint": "Saint Robert Bellarmin, évêque et docteur de l’Église; Sainte Hildegarde de Bingen, vierge et docteur de l’Église",
+    "lectionary_id": "A-TO-24-JEU"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Vendredi de la 24ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 24,
+    "saint": "",
+    "lectionary_id": "A-TO-24-VEN"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Samedi de la 24ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 24,
+    "saint": "Saint Janvier, évêque et martyr; La Vierge Marie",
+    "lectionary_id": "A-TO-24-SAM"
+  },
+  {
+    "date": "2026-09-20",
+    "title": "25ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 25,
+    "saint": "",
+    "lectionary_id": "A-TO-25-DIM"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Saint Matthieu, apôtre et évangéliste",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 25,
+    "saint": "Saint Matthieu, apôtre et évangéliste",
+    "lectionary_id": "A-TO-25-LUN"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Mardi de la 25ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 25,
+    "saint": "",
+    "lectionary_id": "A-TO-25-MAR"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Saint Pio de Pietrelcina, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 25,
+    "saint": "Saint Pio de Pietrelcina, prêtre",
+    "lectionary_id": "A-TO-25-MER"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Jeudi de la 25ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 25,
+    "saint": "",
+    "lectionary_id": "A-TO-25-JEU"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Vendredi de la 25ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 25,
+    "saint": "",
+    "lectionary_id": "A-TO-25-VEN"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Samedi de la 25ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 25,
+    "saint": "Saint Côme et Saint Damien, martyrs; La Vierge Marie",
+    "lectionary_id": "A-TO-25-SAM"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "26ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 26,
+    "saint": "",
+    "lectionary_id": "A-TO-26-DIM"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Lundi de la 26ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 26,
+    "saint": "Saint Laurent Ruiz et ses compagnons, martyrs; Saint Venceslas, martyr",
+    "lectionary_id": "A-TO-26-LUN"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Saint Michel, Saint Gabriel et Saint Raphaël, archanges",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 26,
+    "saint": "Saint Michel, Saint Gabriel et Saint Raphaël, archanges",
+    "lectionary_id": "A-TO-26-MAR"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Saint Jérôme, prêtre et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 26,
+    "saint": "Saint Jérôme, prêtre et docteur de l’Église",
+    "lectionary_id": "A-TO-26-MER"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Sainte Thérèse de l’Enfant-Jésus, vierge et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 26,
+    "saint": "Sainte Thérèse de l’Enfant-Jésus, vierge et docteur de l’Église",
+    "lectionary_id": "A-TO-26-JEU"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Les Saints Anges Gardiens",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 26,
+    "saint": "Les Saints Anges Gardiens",
+    "lectionary_id": "A-TO-26-VEN"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Samedi de la 26ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 26,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-26-SAM"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "27ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 27,
+    "saint": "",
+    "lectionary_id": "A-TO-27-DIM"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Lundi de la 27ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 27,
+    "saint": "Sainte Faustine Kowalska, vierge",
+    "lectionary_id": "A-TO-27-LUN"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Mardi de la 27ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 27,
+    "saint": "Saint Bruno, prêtre",
+    "lectionary_id": "A-TO-27-MAR"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Notre-Dame du Rosaire",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 27,
+    "saint": "Notre-Dame du Rosaire",
+    "lectionary_id": "A-TO-27-MER"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Jeudi de la 27ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 27,
+    "saint": "",
+    "lectionary_id": "A-TO-27-JEU"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Vendredi de la 27ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 27,
+    "saint": "Saint Denis, évêque, et ses compagnons, martyrs; Saint Jean Leonardi, prêtre",
+    "lectionary_id": "A-TO-27-VEN"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Samedi de la 27ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 27,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-27-SAM"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "28ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 28,
+    "saint": "",
+    "lectionary_id": "A-TO-28-DIM"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Lundi de la 28ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 28,
+    "saint": "",
+    "lectionary_id": "A-TO-28-LUN"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Mardi de la 28ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 28,
+    "saint": "",
+    "lectionary_id": "A-TO-28-MAR"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Saint Calliste Iᵉʳ, pape et martyr",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 28,
+    "saint": "Saint Calliste Iᵉʳ, pape et martyr",
+    "lectionary_id": "A-TO-28-MER"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Sainte Thérèse d’Avila, vierge et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 28,
+    "saint": "Sainte Thérèse d’Avila, vierge et docteur de l’Église",
+    "lectionary_id": "A-TO-28-JEU"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Vendredi de la 28ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 28,
+    "saint": "Sainte Edwige, religieuse; Sainte Marguerite-Marie Alacoque, vierge",
+    "lectionary_id": "A-TO-28-VEN"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Saint Ignace d’Antioche, évêque et martyr",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 28,
+    "saint": "Saint Ignace d’Antioche, évêque et martyr",
+    "lectionary_id": "A-TO-28-SAM"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "29ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 29,
+    "saint": "",
+    "lectionary_id": "A-TO-29-DIM"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Lundi de la 29ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 29,
+    "saint": "Saint Jean de Brébeuf, Saint Isaac Jogues, prêtres, et leurs compagnons, martyrs; Saint Paul de la Croix, prêtre",
+    "lectionary_id": "A-TO-29-LUN"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Mardi de la 29ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 29,
+    "saint": "",
+    "lectionary_id": "A-TO-29-MAR"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Mercredi de la 29ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 29,
+    "saint": "",
+    "lectionary_id": "A-TO-29-MER"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Jeudi de la 29ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 29,
+    "saint": "Saint Jean-Paul II, pape",
+    "lectionary_id": "A-TO-29-JEU"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Vendredi de la 29ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 29,
+    "saint": "Saint Jean de Capistran, prêtre",
+    "lectionary_id": "A-TO-29-VEN"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Samedi de la 29ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 29,
+    "saint": "Saint Antoine-Marie Claret, évêque; La Vierge Marie",
+    "lectionary_id": "A-TO-29-SAM"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "30ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 30,
+    "saint": "",
+    "lectionary_id": "A-TO-30-DIM"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Lundi de la 30ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 30,
+    "saint": "",
+    "lectionary_id": "A-TO-30-LUN"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Mardi de la 30ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 30,
+    "saint": "",
+    "lectionary_id": "A-TO-30-MAR"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Saint Simon et Saint Jude, apôtres",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 30,
+    "saint": "Saint Simon et Saint Jude, apôtres",
+    "lectionary_id": "A-TO-30-MER"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Jeudi de la 30ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 30,
+    "saint": "",
+    "lectionary_id": "A-TO-30-JEU"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Vendredi de la 30ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 30,
+    "saint": "",
+    "lectionary_id": "A-TO-30-VEN"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Samedi de la 30ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 30,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-30-SAM"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Tous les Saints",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 31,
+    "saint": "Tous les Saints",
+    "lectionary_id": "B-TO-31-DIM"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "La Commémoration de tous les Fidèles Défunts",
+    "liturgical_rank": { "type": "Mémoire" },
+    "liturgical_color": "Blanc",
+    "week": 31,
+    "saint": "Tous les Fidèles Défunts",
+    "lectionary_id": "A-TO-31-LUN"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Saint Martin de Porrès",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 31,
+    "saint": "Saint Martin de Porrès",
+    "lectionary_id": "A-TO-31-MAR"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Saint Charles Borromée, évêque",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 31,
+    "saint": "Saint Charles Borromée, évêque",
+    "lectionary_id": "A-TO-31-MER"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Jeudi de la 31ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 31,
+    "saint": "",
+    "lectionary_id": "A-TO-31-JEU"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Vendredi de la 31ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 31,
+    "saint": "",
+    "lectionary_id": "A-TO-31-VEN"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Samedi de la 31ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 31,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-31-SAM"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "32ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 32,
+    "saint": "",
+    "lectionary_id": "A-TO-32-DIM"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "La Dédicace de la Basilique du Latran",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 32,
+    "saint": "La Dédicace de la Basilique du Latran",
+    "lectionary_id": "A-TO-32-LUN"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Saint Léon le Grand, pape et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 32,
+    "saint": "Saint Léon le Grand, pape et docteur de l’Église",
+    "lectionary_id": "A-TO-32-MAR"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Saint Martin de Tours, évêque",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 32,
+    "saint": "Saint Martin de Tours, évêque",
+    "lectionary_id": "A-TO-32-MER"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Saint Josaphat, évêque et martyr",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 32,
+    "saint": "Saint Josaphat, évêque et martyr",
+    "lectionary_id": "A-TO-32-JEU"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Vendredi de la 32ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 32,
+    "saint": "",
+    "lectionary_id": "A-TO-32-VEN"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Samedi de la 32ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 32,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-32-SAM"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "33ᵉ Dimanche du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 33,
+    "saint": "",
+    "lectionary_id": "A-TO-33-DIM"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Lundi de la 33ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 33,
+    "saint": "Sainte Gertrude, vierge; Sainte Marguerite d’Écosse",
+    "lectionary_id": "A-TO-33-LUN"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Sainte Élisabeth de Hongrie, religieuse",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 33,
+    "saint": "Sainte Élisabeth de Hongrie, religieuse",
+    "lectionary_id": "A-TO-33-MAR"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Mercredi de la 33ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 33,
+    "saint": "",
+    "lectionary_id": "A-TO-33-MER"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "La Dédicace des Basiliques de Saint Pierre et de Saint Paul, apôtres",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 33,
+    "saint": "La Dédicace des Basiliques de Saint Pierre et de Saint Paul, apôtres",
+    "lectionary_id": "A-TO-33-MER"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Jeudi de la 33ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 33,
+    "saint": "",
+    "lectionary_id": "A-TO-33-JEU"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Vendredi de la 33ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 33,
+    "saint": "",
+    "lectionary_id": "A-TO-33-VEN"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "La Présentation de la Vierge Marie",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 33,
+    "saint": "La Présentation de la Vierge Marie",
+    "lectionary_id": "A-TO-33-SAM"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Notre Seigneur Jésus Christ Roi de l’Univers",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 34,
+    "saint": "Notre Seigneur Jésus Christ Roi de l’Univers",
+    "lectionary_id": "A-TO-34-DIM"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Lundi de la 34ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 34,
+    "saint": "Saint Clément Iᵉʳ, pape et martyr; Saint Colomban, abbé",
+    "lectionary_id": "A-TO-34-LUN"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Saint André Dung-Lac, prêtre, et ses compagnons, martyrs",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Rouge",
+    "week": 34,
+    "saint": "Saint André Dung-Lac, prêtre, et ses compagnons, martyrs",
+    "lectionary_id": "A-TO-34-MAR"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Mercredi de la 34ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 34,
+    "saint": "Sainte Catherine d’Alexandrie, vierge et martyre",
+    "lectionary_id": "A-TO-34-MER"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Jeudi de la 34ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 34,
+    "saint": "",
+    "lectionary_id": "A-TO-34-JEU"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Vendredi de la 34ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Vert",
+    "week": 34,
+    "saint": "",
+    "lectionary_id": "A-TO-34-VEN"
+  },
+  {
+    "date": "2026-11-29",
+    "title": "Samedi de la 34ᵉ Semaine du Temps Ordinaire",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Vert",
+    "week": 34,
+    "saint": "La Vierge Marie",
+    "lectionary_id": "A-TO-34-SAM"
+  },
+  {
+    "date": "2026-11-30",
+    "title": "1ᵉʳ Dimanche de l’Avent",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "1ᵉʳ Dimanche de l’Avent",
+    "lectionary_id": "B-AV-01-DIM"
+  },
+  {
+    "date": "2026-12-01",
+    "title": "Mardi de la 1ᵉʳ Semaine de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "B-AV-01-MAR"
+  },
+  {
+    "date": "2026-12-02",
+    "title": "Mercredi de la 1ᵉʳ Semaine de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "B-AV-01-MER"
+  },
+  {
+    "date": "2026-12-03",
+    "title": "Saint François Xavier, prêtre",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Saint François Xavier, prêtre",
+    "lectionary_id": "B-AV-01-JEU"
+  },
+  {
+    "date": "2026-12-04",
+    "title": "Vendredi de la 1ᵉʳ Semaine de l’Avent",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "Saint Jean de Damas, prêtre et docteur de l’Église",
+    "lectionary_id": "B-AV-01-VEN"
+  },
+  {
+    "date": "2026-12-05",
+    "title": "Samedi de la 1ᵉʳ Semaine de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "B-AV-01-SAM"
+  },
+  {
+    "date": "2026-12-06",
+    "title": "2ᵉ Dimanche de l’Avent",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "",
+    "lectionary_id": "B-AV-02-DIM"
+  },
+  {
+    "date": "2026-12-07",
+    "title": "Saint Ambroise, évêque et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Saint Ambroise, évêque et docteur de l’Église",
+    "lectionary_id": "B-AV-02-LUN"
+  },
+  {
+    "date": "2026-12-08",
+    "title": "L’Immaculée Conception de la Vierge Marie",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "L’Immaculée Conception de la Vierge Marie",
+    "lectionary_id": "B-AV-02-MAR"
+  },
+  {
+    "date": "2026-12-09",
+    "title": "Mercredi de la 2ᵉ Semaine de l’Avent",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "Saint Juan Diego Cuautlatoatzi",
+    "lectionary_id": "B-AV-02-MER"
+  },
+  {
+    "date": "2026-12-10",
+    "title": "Jeudi de la 2ᵉ Semaine de l’Avent",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "Notre-Dame de Lorette",
+    "lectionary_id": "B-AV-02-JEU"
+  },
+  {
+    "date": "2026-12-11",
+    "title": "Vendredi de la 2ᵉ Semaine de l’Avent",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 2,
+    "saint": "Saint Damase Iᵉʳ, pape",
+    "lectionary_id": "B-AV-02-VEN"
+  },
+  {
+    "date": "2026-12-12",
+    "title": "Notre-Dame de Guadaloupé",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 2,
+    "saint": "Notre-Dame de Guadaloupé",
+    "lectionary_id": "B-AV-02-SAM"
+  },
+  {
+    "date": "2026-12-13",
+    "title": "3ᵉ Dimanche de l’Avent",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Rose",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "B-AV-03-DIM"
+  },
+  {
+    "date": "2026-12-14",
+    "title": "Saint Jean de la Croix, prêtre et docteur de l’Église",
+    "liturgical_rank": { "type": "Mémoire obligatoire" },
+    "liturgical_color": "Blanc",
+    "week": 3,
+    "saint": "Saint Jean de la Croix, prêtre et docteur de l’Église",
+    "lectionary_id": "B-AV-03-LUN"
+  },
+  {
+    "date": "2026-12-15",
+    "title": "Mardi de la 3ᵉ Semaine de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "B-AV-03-MAR"
+  },
+  {
+    "date": "2026-12-16",
+    "title": "Mercredi de la 3ᵉ Semaine de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "B-AV-03-MER"
+  },
+  {
+    "date": "2026-12-17",
+    "title": "Férie de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "B-AV-03-JEU"
+  },
+  {
+    "date": "2026-12-18",
+    "title": "Férie de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "B-AV-03-VEN"
+  },
+  {
+    "date": "2026-12-19",
+    "title": "Férie de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 3,
+    "saint": "",
+    "lectionary_id": "B-AV-03-SAM"
+  },
+  {
+    "date": "2026-12-20",
+    "title": "4ᵉ Dimanche de l’Avent",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "B-AV-04-DIM"
+  },
+  {
+    "date": "2026-12-21",
+    "title": "Férie de l’Avent",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "Saint Pierre Canisius, prêtre et docteur de l’Église",
+    "lectionary_id": "B-AV-04-LUN"
+  },
+  {
+    "date": "2026-12-22",
+    "title": "Férie de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "B-AV-04-MAR"
+  },
+  {
+    "date": "2026-12-23",
+    "title": "Férie de l’Avent",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "Saint Jean de Kenty, prêtre",
+    "lectionary_id": "B-AV-04-MER"
+  },
+  {
+    "date": "2026-12-24",
+    "title": "Férie de l’Avent",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Violet",
+    "week": 4,
+    "saint": "",
+    "lectionary_id": "B-AV-04-JEU"
+  },
+  {
+    "date": "2026-12-25",
+    "title": "La Nativité du Seigneur",
+    "liturgical_rank": { "type": "Solennité" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "La Nativité du Seigneur",
+    "lectionary_id": "B-NO-01-VEN"
+  },
+  {
+    "date": "2026-12-26",
+    "title": "Saint Étienne, premier martyr",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 1,
+    "saint": "Saint Étienne, premier martyr",
+    "lectionary_id": "B-NO-01-SAM"
+  },
+  {
+    "date": "2026-12-27",
+    "title": "Sainte Famille",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Sainte Famille",
+    "lectionary_id": "B-NO-01-DIM"
+  },
+  {
+    "date": "2026-12-28",
+    "title": "Les Saints Innocents, martyrs",
+    "liturgical_rank": { "type": "Fête" },
+    "liturgical_color": "Rouge",
+    "week": 1,
+    "saint": "Les Saints Innocents, martyrs",
+    "lectionary_id": "B-NO-02-LUN"
+  },
+  {
+    "date": "2026-12-29",
+    "title": "5ᵉ jour dans l’octave de la Nativité",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Saint Thomas Becket, évêque et martyr",
+    "lectionary_id": "B-NO-02-MAR"
+  },
+  {
+    "date": "2026-12-30",
+    "title": "6ᵉ jour dans l’octave de la Nativité",
+    "liturgical_rank": { "type": "" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "",
+    "lectionary_id": "B-NO-02-MER"
+  },
+  {
+    "date": "2026-12-31",
+    "title": "7ᵉ jour dans l’octave de la Nativité",
+    "liturgical_rank": { "type": "Commémoration facultative" },
+    "liturgical_color": "Blanc",
+    "week": 1,
+    "saint": "Saint Sylvestre Iᵉʳ, pape",
+    "lectionary_id": "B-NO-02-JEU"
+  }
+
+
+]
