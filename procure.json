@@ -1,0 +1,72 @@
+{
+  "title": "TechStyle Store",
+  "subtitle": "Premium Electronics & Fashion",
+  "description": "Découvrez notre sélection de produits high-tech et tendance avec livraison rapide et gratuite.",
+  "contacts": [
+    {
+      "number": "+33123456789",
+      "color": "#FF6B6B",
+      "label": "Service Client"
+    },
+    {
+      "number": "+33198765432",
+      "color": "#4ECDC4",
+      "label": "Support Technique"
+    },
+    {
+      "number": "+33145678912",
+      "color": "#45B7D1",
+      "label": "Commercial"
+    }
+  ],
+  "proceder_paiement": [
+    {
+      "id": 1,
+      "method": "MonCash",
+      "icon": "https://example.com/icons/moncash.png",
+      "phone_number": "509 37 00 0000",
+      "instructions": "Payer via MonCash, fais la capture d'écran puis ",
+      "form_link": "https://example.com/formulaire-moncash",
+      "form_text": "clique ici",
+      "form_required": true,
+      "color": "#FFD700"
+    },
+    {
+      "id": 2,
+      "method": "NatCash",
+      "icon": "https://example.com/icons/natcash.png",
+      "phone_number": "509 34 00 0000",
+      "instructions": "Payer via NatCash, fais la capture d'écran puis ",
+      "form_link": "https://example.com/formulaire-natcash",
+      "form_text": "clique ici",
+      "form_required": true,
+      "color": "#4CAF50"
+    }
+  ],
+  "products": [
+    {
+      "name": "Smartphone Pro Max",
+      "price": "999 €",
+      "imageUrl": "https://picsum.photos/400/300?random=1",
+      "linkUrl": "https://example.com/product1"
+    },
+    {
+      "name": "Casque Audio Premium",
+      "price": "249 €",
+      "imageUrl": "https://picsum.photos/400/300?random=2",
+      "linkUrl": "https://example.com/product2"
+    },
+    {
+      "name": "Montre Connectée",
+      "price": "399 €",
+      "imageUrl": "https://picsum.photos/400/300?random=3",
+      "linkUrl": "https://example.com/product3"
+    },
+    {
+      "name": "Tablette Ultra HD",
+      "price": "599 €",
+      "imageUrl": "https://picsum.photos/400/300?random=4",
+      "linkUrl": "https://example.com/product4"
+    }
+  ]
+}
