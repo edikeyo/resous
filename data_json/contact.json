@@ -1,0 +1,32 @@
+{
+  "header": {
+    "image": "https://raw.githubusercontent.com/edikeyo/resous/refs/heads/main/assets/images/developer_photo.jpg",
+    "title": "Devlopè aplikasyon an",
+    "subtitle": "Aksyonè nan kominote kretyen an"
+  },
+  "contact": {
+    "title": "Kontak WhatsApp",
+    "phone": "+509 31601130",
+    "copy_button": "Kopiye",
+    "whatsapp_button": "Louvri WhatsApp",
+    "icon": "https://raw.githubusercontent.com/edikeyo/resous/refs/heads/main/assets/icons/whatsapp.png"
+  },
+  "support": {
+    "title": "Sipòte pwojè a",
+    "description": "Chè itilizatè, sipò w se yon trezò pou devlopman aplikasyon sa a.",
+    "prayer_message": "Mwen envite w patikilyèman sipòte pwojè sa a nan lapriyè w, pou aplikasyon sa a ka kontinye sevi yon benediksyon pou tout itilizatè li yo."
+  },
+  "suggestions": {
+    "title": "Sijesyon w yo",
+    "description": "Lide w yo enpòtan anpil pou amelyore aplikasyon sa a. Pataje sijesyon ak eksperyans w avèk nou.",
+    "link_text": "fè sijesyon w isit la",
+    "note": "Lè w klike sou lyen an, w ap dirije sou yon fòmilè Google andeyò aplikasyon an."
+  },
+  "messages": {
+    "no_internet": "Ou pa gen aksè a entènèt",
+    "copy_success": "Nimewo te kopiye nan pres papye a!",
+    "whatsapp_error": "Pa kapab louvri WhatsApp",
+    "link_error": "Pa kapab louvri lyen an",
+    "loading": "Chajman..."
+  }
+}
