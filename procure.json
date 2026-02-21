@@ -1,20 +1,20 @@
 {
-  "title": "TechStyle Store",
-  "subtitle": "Premium Electronics & Fashion",
-  "description": "Découvrez notre sélection de produits high-tech et tendance avec livraison rapide et gratuite.",
+  "title": "Katolikus",
+  "subtitle": "Procure",
+  "description": "Lè w achte youn, ou pa sèlman afiche lafwa w, men ou kontribye dirèkteman nan devlopman ak amelyorasyon aplikasyon an.",
   "contacts": [
     {
-      "number": "+33123456789",
+      "number": "+5093160 1130",
       "color": "#FF6B6B",
       "label": "Service Client"
     },
     {
-      "number": "+33198765432",
+      "number": "+5093365 6866",
       "color": "#4ECDC4",
       "label": "Support Technique"
     },
     {
-      "number": "+33145678912",
+      "number": "",
       "color": "#45B7D1",
       "label": "Commercial"
     }
@@ -23,11 +23,11 @@
     {
       "id": 1,
       "method": "MonCash",
-      "icon": "https://example.com/icons/moncash.png",
-      "phone_number": "509 37 00 0000",
-      "instructions": "Payer via MonCash, fais la capture d'écran puis ",
+      "icon": "https://trafficmoneytransfer.com/wp-content/uploads/2023/01/MC_button_en.png",
+      "phone_number": "31601130",
+      "instructions": "Peye via MonCash, fe kapti ekran, klike sou lyen an pou ranpli fomile a.",
       "form_link": "https://example.com/formulaire-moncash",
-      "form_text": "clique ici",
+      "form_text": "Klike la",
       "form_required": true,
       "color": "#FFD700"
     },
