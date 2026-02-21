@@ -2,7 +2,7 @@
   "header": {
     "image": "https://raw.githubusercontent.com/edikeyo/resous/main/images/image.jpg",
     "title": "Jean-Mison DUC",
-    "subtitle": "Relijye nan kominote Klè Sen Vyatè yo"
+    "subtitle": "csv"
   },
   "contact": {
     "title": "Kontak WhatsApp",
@@ -14,17 +14,17 @@
   "support": {
     "title": "Sipòte pwojè a",
     "description": "Chè itilizatè, sipò w se yon trezò pou devlopman aplikasyon an. Kontribye nan mezi ou kapab.",
-    "prayer_message": "Mwen envite w patikilyèman sipòte pwojè sa a nan lapriyè w. Tanpri, sonje lapriyè pou mwen tou pou m ka kontinye sèvi Legliz JeziKri a."
+    "prayer_message": "Mwen envite w patikilyèman sipòte pwojè sa a nan lapriyè w. Sonje lapriyè pou mwen tou, nou mèt sou lapriyè m."
   },
   "suggestions": {
     "title": "Sijesyon w yo",
-    "description": "Lide w yo enpòtan anpil pou amelyore aplikasyon an. Pataje sijesyon ak eksperyans w avèk nou.",
+    "description": "Lide w yo enpòtan anpil pou amelyore aplikasyon an. Pataje sijesyon ak eksperyans ou avèk nou.",
     "link_text": "fè sijesyon w isit la",
     "note": "Lè w klike sou lyen an, w ap dirije sou yon fòmilè Google andeyò aplikasyon an."
   },
   "messages": {
     "no_internet": "Ou pa gen aksè a entènèt",
-    "copy_success": "Nimewo te kopiye nan pres papye a!",
+    "copy_success": "Nimewo te kopye nan pres papye a!",
     "whatsapp_error": "Pa kapab louvri WhatsApp",
     "link_error": "Pa kapab louvri lyen an",
     "loading": "Chajman..."
