@@ -44,6 +44,12 @@
     }
   ],
  "products": [
+   {
+      "name": "TShirt Je crois 16SK34",
+      "price": "999 €",
+      "imageUrl": "https://www.pinterest.com/pin/746049494563009111/",
+      "linkUrl": "https://example.com/product1"
+    }
   ] 
     
 }
