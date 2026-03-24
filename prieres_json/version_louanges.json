@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",  // ← Incrémentez ce numéro (ex: 1.0.0 → 1.0.1)
+  "date": "2026-03-24",  // ← Mettez la date du jour
+  "changements": [
+    "Correction de l'affichage des refrains dans Part1",
+    "Amélioration de la mise en page"
+  ]
+}
