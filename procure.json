@@ -2,23 +2,6 @@
   "title": "Katolikus",
   "subtitle": "",
   "description": "Lè w achte youn, ou pa sèlman afiche lafwa w, men ou kontribye dirèkteman nan devlopman ak amelyorasyon aplikasyon an.",
-  "contacts": [
-    {
-      "number": "Pa disponib",
-      "color": "#ffffff",
-      "label": "itilize chat la"
-    },
-    {
-     "number": "Pa disponib",
-      "color": "#ffffff",
-      "label": "itilize chat la"
-    },
-    {
-      "number": "Pa disponib",
-      "color": "#ffffff",
-      "label": "itilize chat la"
-    }
-  ],
   "proceder_paiement": [
     {
       "id": 1,
