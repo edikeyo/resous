@@ -1,21 +1,21 @@
 {
   "title": "Katolikus",
-  "subtitle": "Procure",
+  "subtitle": "",
   "description": "Lè w achte youn, ou pa sèlman afiche lafwa w, men ou kontribye dirèkteman nan devlopman ak amelyorasyon aplikasyon an.",
   "contacts": [
     {
-      "number": "+5093160 1130",
-      "color": "#FF6B6B",
-      "label": "Service Client"
-    },
-    {
-      "number": "+5093365 6866",
-      "color": "#4ECDC4",
-      "label": "Support Technique"
+      "number": "",
+      "color": "",
+      "label": ""
     },
     {
       "number": "",
-      "color": "#45B7D1",
+      "color": "",
+      "label": ""
+    },
+    {
+      "number": "",
+      "color": "",
       "label": ""
     }
   ],
