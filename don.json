@@ -1,0 +1,76 @@
+{
+  "title": "Soutni Katolikus",
+  "subtitle": "Mwayen pou sipòte",
+  "description": "Chwazi metòd ou prefere a",
+  "payment_methods": {
+    "zelle": {
+      "isActive": true,
+      "address": "katolikusofficiel@gmail.com",
+      "instruction": "Fè transfè atravè Zelle itilize adrès imel sa a",
+      "color": "#6D28D9",
+      "icon": "mail_outline"
+    },
+    "paypal": {
+      "isActive": true,
+      "email": "katolikus@paypal.com",
+      "instruction": "Fè transfè atravè PayPal itilize adrès imel sa a",
+      "color": "#0070BA",
+      "icon": "paypal"
+    },
+    "moncash": {
+      "isActive": true,
+      "number": "3160 1130",
+      "instruction": "Itilize menm nimero sa pou transfè entènasyonal",
+      "color": "#D32F2F",
+      "icon": "phone_android"
+    },
+    "natcash": {
+      "isActive": true,
+      "number": "3365 6866",
+      "instruction": "Itilize l tou pou transfè entènasyonal",
+      "color": "#FF9800",
+      "icon": "account_balance_wallet"
+    }
+  },
+  "motivation": {
+    "title": "Poukisa ou sipòte Katolikus ?",
+    "points": [
+      "🔄 Pou n ka fè mizajou regilye ak mete nouvo fonksyonalite tankou chan katolik yo, ajanda pawas yo, elatriye."
+    ],
+    "conclusion": "Nap travay pou n devlope lòt fonksyonalite yo. Nou deja devlope 30 % nan Katolikus. Akselere devlopman katolikus."
+  },
+  "instructions": {
+    "title": "Kijan pou fè",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Kopye enfòmasyon yo",
+        "description": "Apiye sou adres oubyen nimero a pou kopye l"
+      },
+      {
+        "number": 2,
+        "title": "Fè *202# oubyen itilize Zelle / PayPal",
+        "description": "Pou MonCash/NatCash. Osinon itilize Zelle oubyen PayPal"
+      },
+      {
+        "number": 3,
+        "title": "Transfere lajan",
+        "description": "Asire w ou pran bon enfòmasyon yo"
+      },
+      {
+        "number": 4,
+        "title": "Konfimasyon",
+        "description": "Toujou verifye si pa gen erè."
+      }
+    ]
+  },
+  "security": {
+    "title": "Pou evite anak",
+    "warning": "Se yo sèlman pou itilize. Katolikus pap janm rele w ni ekri w an prive pou mande w lajan."
+  },
+  "final_message": {
+    "title": "Merci pour votre générosité",
+    "description": "Votre soutien permet à Katolikus de continuer sa mission d'accompagnement spirituel pour tous.",
+    "blessing": "Que Dieu vous bénisse pour votre générosité"
+  }
+}
