@@ -5,27 +5,27 @@
   "payment_methods": {
     "zelle": {
       "isActive": true,
-      "address": "katolikusofficiel@gmail.com",
+      "address": "+1 475 259 4747",
       "instruction": "Fè transfè atravè Zelle itilize adrès imel sa a",
       "color": "#6D28D9",
       "icon": "mail_outline"
     },
     "paypal": {
       "isActive": true,
-      "email": "katolikus@paypal.com",
+      "email": "edikeyoofficial@gmail.com",
       "instruction": "Fè transfè atravè PayPal itilize adrès imel sa a",
-      "color": "#0070BA",
+      "color": "253b80",
       "icon": "paypal"
     },
     "moncash": {
-      "isActive": true,
+      "isActive": false,
       "number": "3160 1130",
       "instruction": "Itilize menm nimero sa pou transfè entènasyonal",
       "color": "#D32F2F",
       "icon": "phone_android"
     },
     "natcash": {
-      "isActive": true,
+      "isActive": false,
       "number": "3365 6866",
       "instruction": "Itilize l tou pou transfè entènasyonal",
       "color": "#FF9800",
